@@ -7,6 +7,15 @@ Hosting is free (GitHub Pages). The repo is **public**, so the Markdown of any
 published note is readable on GitHub — but only notes you explicitly mark are ever
 copied here. Your DM vault stays private on your machine.
 
+## Per-session file convention
+
+Keep DM and player material in **separate files** — never publish your DM notes:
+
+- `Session_XX_Notes.md` — your full DM notes. **No `publish` flag; left untouched.**
+- `Session_XX_Player_Recap.md` — the narrative recap for players (`publish: true`).
+- `Session_XX_Player_Notes.md` — the detailed field-notes log for players, trimmed of
+  spoilers and table-meta (`publish: true`).
+
 ## How to publish a note
 
 1. **In the vault**, add this to the note's frontmatter (the `---` block at the very top):
