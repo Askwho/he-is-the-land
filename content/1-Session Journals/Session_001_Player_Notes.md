@@ -97,5 +97,5 @@ So we went up — through an open **wrought-iron gate** onto wide grounds with a
 - What "gift" might soothe the beast — and where is the "secret room" the verse speaks of?
 - What lies behind that hollow, doorless wall off the dining room?
 - Who was the tall, see-through figure Lancelot watched?
-- Why does the will name two children but say nothing of the baby in the portrait — and who is the child's true father?
+- Why does the will name two children but say nothing of the baby in the portrait?
 - Who wrote that cruel letter, and what is "Barovia"?
