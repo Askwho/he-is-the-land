@@ -3,8 +3,6 @@ title: "Session 1 — Field Notes"
 publish: true
 ---
 
-
-
 *The party's own record of the night the mists took us — rooms, people, and finds. Use it to fill the gaps in whatever you scribbled down yourself.*
 
 ---
@@ -101,5 +99,3 @@ So we went up — through an open **wrought-iron gate** onto wide grounds with a
 - Who was the tall, see-through figure Lancelot watched?
 - Why does the will name two children but say nothing of the baby in the portrait — and who is the child's true father?
 - Who wrote that cruel letter, and what is "Barovia"?
-
-

@@ -12,4 +12,4 @@ Use the **search** (top-left) or the explorer to find a session.
 ## Latest
 
 - [[Session_001_Player_Recap|Session 1 — Recap]] — the story so far, in brief
-- [[Session_001_Notes|Session 1 — Full Notes]] — the detailed log
+- [[Session_001_Player_Notes|Session 1 — Field Notes]] — the detailed log
