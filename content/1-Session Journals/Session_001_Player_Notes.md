@@ -9,13 +9,13 @@ publish: true
 
 ## The Party (all Level 2)
 
-| PC | Player | Ancestry / Class | Origin | Notes |
-|---|---|---|---|---|
-| Drusila "Drew" Seedweaver | Vicky | Khoravar (half-elf) Artificer (Artillerist) | Julkem (village) | Tinkerer — builds cannons, prosthetics, security systems. Alchemical tattoos up both arms. Carries her tools (incl. a soldering-iron "dagger") and a six-faced chronometer pocket watch. The group's lead investigator. |
-| Fëanor Dawnward | David | Elf Cleric (Life), Lathander | Waterdeep | Wealthy family, black sheep and social misfit with "delusions of heroic grandeur," deliberately slumming it (dresses plainly). Knows Mage Hand and Fire Bolt. |
-| Lilli-grai "Lily" | Nathan | Gnome Rogue | Daggerford | 3'1", patched clothes, prized boots, a green ribbon on her right wrist. Darkvision. Raised by her late Great-Grandmother Euphemia. Cautious, kind, with an anti-wealth-hoarding streak. Can Speak with Animals. |
-| Sirius | Nick | Aasimar Paladin | Waterdeep | Noble, a faith-not-spells warrior who trains at the Church of the Morning Lord (Lathander). Oblivious, frequently drunk. Sunburst amulet; raven-feather cloak pin. |
-| Sir Osric Cunningham | Duncan | Human Fighter | Goldenfields | Ex-farmer, freshly knighted (fought bandits, saved a lord's daughter). Stocky, scarred, pierced eyebrow. Good with animals. |
+| PC                        | Player | Ancestry / Class                            | Origin           | Notes                                                                                                                                                                                                                   |
+| ------------------------- | ------ | ------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Drusila "Drew" Seedweaver | Vicky  | Khoravar (half-elf) Artificer (Artillerist) | Julkem (village) | Tinkerer — builds cannons, prosthetics, security systems. Alchemical tattoos up both arms. Carries her tools (incl. a soldering-iron "dagger") and a six-faced chronometer pocket watch. The group's lead investigator. |
+| Fëanor Dawnward           | David  | Elf Cleric (Life), Lathander                | Waterdeep        | Wealthy family, black sheep and social misfit with "delusions of heroic grandeur," deliberately slumming it (dresses plainly). Knows Mage Hand and Fire Bolt.                                                           |
+| Lilli-grai "Lily"         | Nathan | Gnome Rogue                                 | Daggerford       | 3'1", patched clothes, prized boots, a green ribbon on her right wrist. Darkvision. Raised by her late Great-Grandmother Euphemia. Cautious, kind, with an anti-wealth-hoarding streak. Can Speak with Animals.         |
+| Sirius                    | Nick   | Aasimar Paladin                             | Waterdeep        | Noble, a faith-not-spells warrior who trains at the Church of the Morning Lord (Lathander). Oblivious, frequently drunk. Sunburst amulet; raven-feather cloak pin.                                                      |
+| Sir Osric Cunningham      | Duncan | Human Fighter                               | Goldenfields     | Ex-farmer, freshly knighted (fought bandits, saved a lord's daughter). Stocky, scarred, pierced eyebrow. Good with animals.                                                                                             |
 
 **Old ties:** Fëanor and Sirius are both Waterdeep nobility. Sirius knows Fëanor's family and warms to anyone bearing Lathander's symbol; Fëanor has admired Sirius (and heard of his drunken training reputation) from afar.
 
