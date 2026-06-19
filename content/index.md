@@ -11,10 +11,11 @@ Welcome, travellers. This is the party's chronicle of our journey through the la
 
 ## Where we stand
 
-> Deep in the basement, in the cult's well room. **One hour and fifteen minutes to midnight.** Something to the west is crying like a baby. The verse demands a gift; Sirius's vows demand a sword.
+> Out of the house, and far from home. The mists have closed behind us, Rose, Thorn, and the maid are free, and the road ahead leads into Barovia proper. The devil has a name now: **Strahd**.
 
 ## Sessions
 
+- **Session 3** — [[Session_003_Player_Recap|Recap]] · [[Session_003_Player_Notes|Field Notes]]
 - **Session 2** — [[Session_002_Player_Recap|Recap]] · [[Session_002_Player_Notes|Field Notes]]
 - **Session 1** — [[Session_001_Player_Recap|Recap]] · [[Session_001_Player_Notes|Field Notes]]
 
