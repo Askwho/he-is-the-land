@@ -1,3 +1,26 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+@media all and ($mobile) {
+  html {
+    width: 100%;
+  }
+
+  .page > #quartz-body {
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .breadcrumb-container {
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 0.25rem;
+  }
+
+  .page article > h1,
+  .page-header h1 {
+    overflow-wrap: anywhere;
+    text-wrap: balance;
+  }
+}
