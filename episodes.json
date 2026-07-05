@@ -1,0 +1,75 @@
+{
+    "show":  {
+                 "title":  "He Is The Land",
+                 "subtitle":  "A Curse of Strahd actual play",
+                 "description":  "Five strangers, five heirlooms, and the mists of Barovia. Our Curse of Strahd campaign, edited down to tight audio episodes — the dice, the dread, and the bits that made us laugh. Featuring Vicky as Drew, David as Fëanor, Nathan as Lily, Nick as Sirius, and Duncan as Sir Osric Cunningham. Dungeon Master: Thomas.",
+                 "siteUrl":  "https://heistheland.askwhocasts.com",
+                 "podcastPage":  "https://heistheland.askwhocasts.com/1-podcast/",
+                 "feedUrl":  "https://heistheland.askwhocasts.com/podcast/feed.xml",
+                 "audioBase":  "https://heistheland.askwhocasts.com/audio",
+                 "imageUrl":  "https://heistheland.askwhocasts.com/z_assets/player-site/show-cover.png",
+                 "author":  "Askwho Casts",
+                 "email":  "askew.thomas@gmail.com",
+                 "language":  "en-us",
+                 "category":  "Leisure",
+                 "subcategory":  "Games",
+                 "explicit":  false
+             },
+    "episodes":  [
+                     {
+                         "number":  1,
+                         "title":  "The Death House",
+                         "file":  "He_Is_The_Land_S01_The_Death_House.mp3",
+                         "bytes":  67246001,
+                         "durationSec":  2800,
+                         "pubDate":  "2026-06-04T21:00:00Z",
+                         "page":  "1-podcast/episode-1-%E2%80%94-the-death-house",
+                         "description":  "Five strangers on five small errands walk into the same unnatural mist, and five family keepsakes come alive and drag them to the foot of a staircase that has no business existing. At the top: a tall, narrow house whose door opens by itself, whose fire dies the moment the last guest steps inside, and whose walls bleed a verse about a hungry beast beneath the floorboards. The finery is a lie, the taxidermy is watching, the house is arming them — and in a hidden study, a dead man\u0027s will and a letter signed \u0027In darkness I endure\u0027 say the word Barovia for the first time.",
+                         "imageUrl":  "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s01.jpg"
+                     },
+                     {
+                         "number":  2,
+                         "title":  "The House Remembers",
+                         "file":  "He_Is_The_Land_S02_The_House_Remembers.mp3",
+                         "bytes":  59833933,
+                         "durationSec":  2491,
+                         "pubDate":  "2026-06-11T21:00:00Z",
+                         "page":  "1-podcast/episode-2-%E2%80%94-the-house-remembers",
+                         "description":  "The house fights back: a suit of armour with nothing inside it throws a paladin over the banister, and the party answers with grease, holy force, and two natural twenties. Upstairs, a mirror holds a maid who doesn\u0027t know she\u0027s dead, and behind an iron-locked attic door wait two small beds, two small skeletons — and Rose and Thorn Durst, who know exactly what they are. Three bundles of bones go on Drew\u0027s belt, a dollhouse gives up every secret passage in the building, and a hidden spiral stair leads down into the dark, where something is crying like a baby.",
+                         "imageUrl":  "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s02.jpg"
+                     },
+                     {
+                         "number":  3,
+                         "title":  "The Devil\u0027s Name",
+                         "file":  "He_Is_The_Land_S03_The_Devils_Name.mp3",
+                         "bytes":  46489715,
+                         "durationSec":  1935,
+                         "pubDate":  "2026-06-18T21:00:00Z",
+                         "page":  "1-podcast/episode-3-%E2%80%94-the-devil\u0027s-name",
+                         "description":  "Under the house the crypts are all empty, the mother\u0027s coffin boils with insects, and Gustav Durst hangs from the rafters of an underground bedroom. Deeper down, a chant rises — \u0027He is ancient. He is the land\u0027 — to an altar over black water where robed apparitions demand what altars always demand: one must die. The party looks at the dog, looks at each other, and says no. What midnight sends up out of the refuse instead closes the book on Death House — and three freed spirits finally say the devil\u0027s name out loud.",
+                         "imageUrl":  "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s03.jpg"
+                     },
+                     {
+                         "number":  4,
+                         "title":  "Mist Walkers",
+                         "file":  "He_Is_The_Land_S04_Mist_Walkers.mp3",
+                         "bytes":  71054485,
+                         "durationSec":  2958,
+                         "pubDate":  "2026-06-25T21:00:00Z",
+                         "page":  "1-podcast/episode-4-%E2%80%94-mist-walkers",
+                         "description":  "Through a crumbling gate stamped with the sigil of the Strahd empire — the same sigil on Osric\u0027s family banner — the party walks down into a village where curtains twitch and strangers mean trouble. An old woman sells pies that are far too good and answers no questions about them; a new-made burgomaster explains, patiently, that the vampire is real and there is no leaving; and his sister Ireena needs an escort west. Then a funeral, a weeping priest, a chained trapdoor — and down in the crypt, a frightened voice: \u0027I\u0027m sorry. I\u0027m so hungry.\u0027",
+                         "imageUrl":  "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s04.jpg"
+                     },
+                     {
+                         "number":  5,
+                         "title":  "Friend-Shaped",
+                         "file":  "He_Is_The_Land_S05_Friend_Shaped.mp3",
+                         "bytes":  71221519,
+                         "durationSec":  2965,
+                         "pubDate":  "2026-07-02T21:00:00Z",
+                         "page":  "1-podcast/episode-5-%E2%80%94-friend-shaped",
+                         "description":  "A boy who cannot die begs for mercy beneath a village church. A map is drawn, a test is confessed, and one last evening of wine turns into the house call nobody survives unchanged: a knock after dark, and a visitor everyone at the table simply knows is a friend. The morning after, the party takes the one road west — past lights that lie, a standing stone that knows their family, and a wolf pack that meets the business end of a brand-new invention — to a Vistani campfire where the price of dinner is a story, and a stranger already knows all five of their names. Stay past the credits.",
+                         "imageUrl":  "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s05.jpg"
+                     }
+                 ]
+}

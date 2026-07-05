@@ -1,36 +1,50 @@
 #requires -Version 5.1
 <#
 .SYNOPSIS
-    Publishes selected Obsidian notes to the Barovia player website (Quartz).
+    Publishes selected Obsidian notes to the "He Is The Land" player site.
 
 .DESCRIPTION
-    Finds every note in the vault whose frontmatter contains `publish: true`,
-    strips any Obsidian `%% ... %%` comments (your DM-only asides), copies the
-    result into Quartz's content folder, then builds the site to validate it.
-
-    Run with -Push to also commit and push to GitHub, which triggers the
-    GitHub Actions deploy to your live site.
+    1. Finds every note in the vault whose frontmatter contains `publish: true`,
+       strips any Obsidian `%% ... %%` comments (DM-only asides), and copies the
+       result into Quartz's content folder.
+    2. Copies the curated player-safe images from the vault's
+       "z_Assets\Player Site" folder (put anything you want on the site there —
+       ONLY player-safe images, the whole folder is published).
+    3. Builds the site and generates the podcast RSS feed.
+    4. With -Push: commits to GitHub (backup + old GitHub Pages URL) AND deploys
+       to Cloudflare at https://heistheland.askwhocasts.com.
+    5. With -UploadAudio: uploads any episode MP3s from Sessions\Podcast\out that
+       aren't yet in R2 (requires .upload-token; see PUBLISHING.md). Remember to
+       add the new episode to episodes.json and create its page in the vault.
 
 .EXAMPLE
     .\publish.ps1
         Sync + local build only (safe preview, nothing goes public).
 
 .EXAMPLE
-    .\publish.ps1 -Push -Message "Add Session 2 recap"
-        Sync, build, then publish live.
+    .\publish.ps1 -Push -Message "Add Session 6"
+        Sync, build, publish live (GitHub + Cloudflare).
+
+.EXAMPLE
+    .\publish.ps1 -UploadAudio -Push
+        Also upload any new podcast episodes to R2 first.
 #>
 [CmdletBinding()]
 param(
     [switch]$Push,
+    [switch]$UploadAudio,
     [string]$Message = "Update player site"
 )
 
 $ErrorActionPreference = 'Stop'
 
 # --- Paths ------------------------------------------------------------------
-$Vault   = 'C:\Users\askew\Documents\DnD\Barovia\Obsidian\HitL'
-$Site    = 'C:\Users\askew\Documents\DnD\Barovia\PlayerSite'
-$Content = Join-Path $Site 'content'
+$Vault      = 'C:\Users\askew\Documents\DnD\Barovia\Obsidian\HitL'
+$Site       = 'C:\Users\askew\Documents\DnD\Barovia\PlayerSite'
+$Content    = Join-Path $Site 'content'
+$AssetsSrc  = Join-Path $Vault 'z_Assets\Player Site'
+$PodcastOut = 'C:\Users\askew\Documents\DnD\Barovia\Sessions\Podcast\out'
+$SiteHost   = 'https://heistheland.askwhocasts.com'
 
 # Vault folders never scanned for publishable notes.
 $ExcludeDirs = @('.git', '.obsidian', '.trash', 'z_Templates', 'z_Archive')
@@ -92,20 +106,56 @@ foreach ($note in $published) {
 
 Write-Host ("Synced {0} note(s) to content\." -f @($published).Count) -ForegroundColor Cyan
 
-# --- 4. Build locally to validate -------------------------------------------
+# --- 4. Copy curated player-safe images --------------------------------------
+if (Test-Path $AssetsSrc) {
+    $assetDest = Join-Path $Content 'z_Assets\Player Site'
+    if (-not (Test-Path $assetDest)) { New-Item -ItemType Directory -Path $assetDest -Force | Out-Null }
+    Copy-Item -Path (Join-Path $AssetsSrc '*') -Destination $assetDest -Force
+    $n = @(Get-ChildItem -LiteralPath $assetDest -File).Count
+    Write-Host "Synced $n image(s) from z_Assets\Player Site." -ForegroundColor Cyan
+}
+
+# --- 5. Optionally upload new podcast audio to R2 ----------------------------
+if ($UploadAudio) {
+    $tokenFile = Join-Path $Site '.upload-token'
+    if (-not (Test-Path $tokenFile)) { throw "Missing $tokenFile (see PUBLISHING.md)." }
+    $token = (Get-Content $tokenFile -Raw).Trim()
+    foreach ($mp3 in Get-ChildItem -LiteralPath $PodcastOut -Filter *.mp3 -File) {
+        $head = $null
+        try { $head = Invoke-WebRequest -Uri "$SiteHost/audio/$($mp3.Name)" -Method Head -UseBasicParsing -ErrorAction Stop } catch {}
+        if ($head -and $head.StatusCode -eq 200) {
+            Write-Host "  = $($mp3.Name) already in R2" -ForegroundColor DarkGray
+            continue
+        }
+        Write-Host "  ^ uploading $($mp3.Name) ($([math]::Round($mp3.Length/1MB)) MB)..." -ForegroundColor Yellow
+        & curl.exe -sS -f -X PUT "$SiteHost/upload/$($mp3.Name)" -H "Authorization: Bearer $token" --data-binary "@$($mp3.FullName)"
+        if ($LASTEXITCODE -ne 0) { throw "Upload failed for $($mp3.Name)" }
+        Write-Host ""
+    }
+    Write-Host "Audio upload check complete. Did you update episodes.json + add the episode page in the vault?" -ForegroundColor Cyan
+}
+
+# --- 6. Build locally to validate, then generate the podcast feed ------------
 Push-Location $Site
 try {
     Write-Host "Building site (validation)..." -ForegroundColor Cyan
     & npx quartz build
     if ($LASTEXITCODE -ne 0) { throw "Quartz build failed (exit $LASTEXITCODE). Fix the error above before publishing." }
 
-    # --- 5. Optionally commit & push to trigger the GitHub Pages deploy -----
+    & node scripts\generate-feed.mjs
+    if ($LASTEXITCODE -ne 0) { throw "Feed generation failed." }
+
+    # --- 7. Optionally publish: GitHub (backup) + Cloudflare (live site) -----
     if ($Push) {
-        Write-Host "Publishing to GitHub..." -ForegroundColor Cyan
+        Write-Host "Committing to GitHub (backup)..." -ForegroundColor Cyan
         & git add -A
         & git commit -m $Message
         & git push
-        Write-Host "Pushed. GitHub Actions will rebuild the live site in ~1-2 minutes." -ForegroundColor Green
+
+        Write-Host "Deploying to Cloudflare..." -ForegroundColor Cyan
+        & npx wrangler deploy
+        if ($LASTEXITCODE -ne 0) { throw "wrangler deploy failed." }
+        Write-Host "Live at $SiteHost" -ForegroundColor Green
     }
     else {
         Write-Host "Local build OK. Preview with:  npx quartz build --serve" -ForegroundColor Yellow

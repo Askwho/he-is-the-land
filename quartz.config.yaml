@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Barovia
-  pageTitleSuffix: " — The Party's Journal"
+  pageTitle: He Is The Land
+  pageTitleSuffix: " — the party's chronicle of Barovia"
   enableSPA: true
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: askwho.github.io/he-is-the-land
+  baseUrl: heistheland.askwhocasts.com
   ignorePatterns:
     - private
     - templates

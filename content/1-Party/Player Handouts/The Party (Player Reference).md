@@ -1,42 +1,82 @@
 ---
 title: "The Party"
 publish: true
-description: "Who we are — five strangers (and one very good dog) pulled through the mists. Roster, keepsakes, and current gear."
+description: "Who we are — five strangers pulled through the mists, and the keepsakes that dragged us here. Roster, portraits, and current gear."
 ---
 
-*Five strangers, one dog, and the keepsakes that dragged us all here. Current as of **Session 2**.*
+*Five strangers, five keepsakes, one very good invention. Current as of **Session 5**.*
 
-## Roster (all Level 2)
+## Roster (all Level 3)
 
-| PC | Player | Ancestry / Class | Origin | Notes |
-| --- | --- | --- | --- | --- |
-| Drusila "Drew" Seedweaver | Vicky | Khoravar (half-elf) Artificer (Artillerist) | Julkem (village) | Tinkerer — builds cannons, prosthetics, security systems. Alchemical tattoos up both arms. Carries her tools (incl. a soldering-iron "dagger") and a six-faced chronometer pocket watch. The group's lead investigator. |
-| Fëanor Dawnward | David | Elf Cleric (Life), Lathander | Waterdeep | Wealthy family, black sheep and social misfit with "delusions of heroic grandeur," deliberately slumming it (dresses plainly). Knows Mage Hand and Fire Bolt. |
-| Lilli-grai "Lily" | Nathan | Gnome Rogue | Daggerford | 3'1", patched clothes, prized boots, a green ribbon on her right wrist. Darkvision. Raised by her late Great-Grandmother Euphemia. Cautious, kind, with an anti-wealth-hoarding streak. Can Speak with Animals. |
-| Sirius | Nick | Aasimar Paladin | Waterdeep | Noble, a faith-not-spells warrior who trains at the Church of the Morning Lord (Lathander). Oblivious, frequently drunk. Sunburst amulet; raven-feather cloak pin. |
-| Sir Osric Cunningham | Duncan | Human Fighter | Goldenfields | Ex-farmer, freshly knighted (fought bandits, saved a lord's daughter). Stocky, scarred, pierced eyebrow. Good with animals. |
+| PC | Player | Ancestry / Class | Origin |
+| --- | --- | --- | --- |
+| [[#Drusila "Drew" Seedweaver\|Drew]] | Vicky | Khoravar (half-elf) Artificer (Artillerist) | Julkem (village) |
+| [[#Fëanor Dawnward\|Fëanor]] | David | Elf Cleric (Life), Lathander | Waterdeep |
+| [[#Lilli-grai "Lily"\|Lily]] | Nathan | Gnome Rogue | Daggerford |
+| [[#Sirius\|Sirius]] | Nick | Aasimar Paladin | Waterdeep |
+| [[#Sir Osric Cunningham\|Osric]] | Duncan | Human Fighter | Goldenfields |
 
 **Old ties:** Fëanor and Sirius are both Waterdeep nobility. Sirius knows Fëanor's family and warms to anyone bearing Lathander's symbol; Fëanor has admired Sirius (and heard of his drunken training reputation) from afar.
 
-## The keepsakes that pulled us here
+---
 
-- **Drew** — an amber-resin pendant (mounted on her goggles) with runes that shift inside; *"supposed to unlock huge secrets of the world."*
-- **Fëanor** — a round flat stone engraved with a three-pointed star, from his grandmother; *"only sentimental value."*
-- **Lily** — a lacquered wolf's tooth on a cord, from Great-Grandmother Euphemia. Her dying words: *"the tooth will help keep mending what cannot otherwise be healed."*
-- **Sirius** — a raven feather from his grandfather (also "Sirius"), meant for one who values duty, faith, and honour — *"for good."* Worth noting: Sirius cannot remember how he came to be here.
-- **Osric** — a tattered banner with a bird-like design, from an uncle; probably "nicked," treasured anyway.
+## Drusila "Drew" Seedweaver
 
-## Lancelot
+![[drew.png|280]]
 
-A starving hound found trapped beneath the harpsichord, collar reading **"Lancelot."** Fed, befriended (Lily speaks with him; Osric guards him), and with us ever since. He has seen things in this house the rest of us can't. The dog is not on the table.
+Tinkerer — builds cannons, prosthetics, security systems. Alchemical tattoos up both arms; carries her tools (including a soldering-iron "dagger") and a six-faced chronometer pocket watch. The group's lead investigator, its water supply (ten conjured gallons a day), and its conscience where doomed creatures are concerned — she would not raise a hand to [[Doru]], and no one thought less of her.
 
-## Armour & notable gear (as of Session 2)
+**Keepsake:** an amber-resin pendant mounted on her goggles, runes shifting inside — *"supposed to unlock huge secrets of the world."* **The only heirloom Barovia hasn't answered yet.**
 
-- **Sirius** — scale mail, the windmill shield, and the enormous windmill longsword.
-- **Osric** — chain mail, salvaged from a suit of armour that briefly objected.
-- **Fëanor** — scale mail; a silvered short sword is headed for the front line.
-- **Drew** — leather armour, an improvised club, a healer's kit (5 charges) — and **three bundles of bones on her belt we have promised to bury**: Rose, Thorn, and the maid.
-- **Lily** — no armour; she trusts her own quickness. Carries her piercing awl and the iron key.
-- **Shared:** a map of the house's secret passages, copied from the dollhouse.
+**CLOVER** — *Combat Laser Ordnance Vehicle for Emergency Enemy Removal.* A small, cheerful walking cannon Drew dreamed up for days and then made real mid-wolf-attack: sheet-of-flame ordnance, force blasts, and dispensed "good vibes" that turn out to be very real. Roughly an hour of power. Adorable, for something that incinerates wolves.
 
-Full inventory and the latest state of things: see the most recent [[Session_002_Player_Notes|Field Notes]].
+## Fëanor Dawnward
+
+![[feanor.png|280]]
+
+Wealthy family's black sheep and social misfit, deliberately slumming it in plain clothes; a Life cleric of Lathander who insists he isn't devout, to which the record replies: he turned four ghouls with a raised holy symbol, and he was **the only one of us to keep his wits through Strahd's charm** — and to shoot at him. *"You are the sun in these lands, Father"* (Sirius). He means to truly connect with his god for the first time. We'll hold him to it.
+
+**Keepsake:** a round flat stone engraved with a three-pointed star, from his grandmother — *"only sentimental value."* Except it glows at the new moon, in a land with no moon, and its symbol rings a Barovian standing stone. See [[Quests & Threads]].
+
+## Lilli-grai "Lily"
+
+![[lily.png|280]]
+
+Gnome rogue, 3'1", patched clothes, prized boots, a green ribbon on her right wrist. Raised by her late Great-Grandmother Euphemia. Cautious, kind, anti-wealth-hoarding, speaks with animals — and repeatedly the party's gentlest hand at terrible moments: she talked us out of giving up on [[Doru]] before we'd tried, and it was her rope, offered without aggression, that finally held him.
+
+**Keepsake:** a lacquered **dire-wolf** tooth on a cord. Euphemia's dying words: *"the tooth will help keep mending what cannot otherwise be healed."*
+
+**Watch-list:** two mornings running she has eaten one of [[Granny the Pie-Seller|Granny's]] pies without a word, without noticing. We are worried. See [[Quests & Threads]].
+
+## Sirius
+
+![[sirius.jpg|280]]
+
+Aasimar paladin of the Morning Lord — noble, oblivious, frequently drunk, faith-not-spells, copes with sunrise by simply not going to bed. Wears the windmill shield and swings the enormous windmill longsword from [[Death House]]. Talked [[Bildrath]] down to a quarter of his prices; paid the Vistani's story-price with the embarrassing truth and made it *art*.
+
+**Keepsake:** a raven feather from his grandfather (also "Sirius"), given at his coming-of-age — *"for good."* Ravens in Barovia are good luck. Worth noting: Sirius cannot remember how he came to be here.
+
+**Watch-list:** [[Strahd von Zarovich|Strahd]] drank from him. He seems himself — appetite aimed at bacon, not blood — but we are keeping watch. Black pudding is the designated test.
+
+## Sir Osric Cunningham
+
+![[osric.jpg|280]]
+
+Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's daughter saved). Stocky, scarred, pierced eyebrow, good with animals, and hits like a landslide — the animated armour, the altar, and the crystal heart of the corpse-mound all came apart under his blade. Wears the **Cloak of Protection** from the Durst strongbox, and chain mail salvaged from a suit of armour that briefly objected.
+
+**Keepsake:** a tattered banner with a bird-like design, from his Uncle Steven; probably "nicked," treasured anyway — **and its sigil crowns the Gates of Barovia.** *"The crown jewel in the Strahd empire."* That thread is pulled in [[Quests & Threads]].
+
+---
+
+## Shared kit & assets (as of Session 5)
+
+- **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) and Fëanor's **rubbing of the menhir symbol**.
+- Four days' rations for six (including [[Ireena Kolyana|Ireena]]), tents, packs, bedrolls, water skins, whetstone, rope.
+- **One potion of healing** — the last; there are none for sale in Barovia.
+- One pristine **wolf pelt** (lightly charred), for sale in Vallaki.
+- The **crystal spell-focus orb** from the pale man's statue, an **unread yellow spellbook**, alchemist's fire, a bullseye lantern, thieves' tools (Lily), and two cult daggers (bone, and bat-skull).
+- Assorted Death House valuables — and Lily's standing warning that selling things from noble estates *"ends very badly."*
+
+## Honoured alumni
+
+- **[[Lancelot]]** — found starving under a harpsichord, fed, befriended, returned home to [[Mary]]. The dog was never on the table.
