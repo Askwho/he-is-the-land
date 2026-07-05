@@ -154,6 +154,9 @@ try {
     & node scripts\generate-feed.mjs
     if ($LASTEXITCODE -ne 0) { throw "Feed generation failed." }
 
+    & node scripts\patch-theme-default.mjs
+    if ($LASTEXITCODE -ne 0) { throw "Dark-default theme patch failed (darkmode plugin changed?)." }
+
     # --- 7. Optionally publish: GitHub (backup) + Cloudflare (live site) -----
     if ($Push) {
         Write-Host "Committing to GitHub (backup)..." -ForegroundColor Cyan
