@@ -157,9 +157,14 @@ try {
     # --- 7. Optionally publish: GitHub (backup) + Cloudflare (live site) -----
     if ($Push) {
         Write-Host "Committing to GitHub (backup)..." -ForegroundColor Cyan
-        & git add -A
-        & git commit -m $Message
-        & git push
+        # git writes progress to stderr; don't let PowerShell treat that as fatal.
+        $eap = $ErrorActionPreference
+        $ErrorActionPreference = 'Continue'
+        & git add -A 2>&1 | ForEach-Object { "$_" } | Write-Host
+        & git commit -m $Message 2>&1 | ForEach-Object { "$_" } | Write-Host
+        & git push 2>&1 | ForEach-Object { "$_" } | Write-Host
+        if ($LASTEXITCODE -ne 0) { $ErrorActionPreference = $eap; throw "git push failed." }
+        $ErrorActionPreference = $eap
 
         Write-Host "Deploying to Cloudflare..." -ForegroundColor Cyan
         & npx wrangler deploy
