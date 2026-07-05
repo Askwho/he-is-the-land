@@ -5,8 +5,11 @@ description: "The village priest — a father twice over, and now bereaved twice
 ---
 
 > **Who:** Priest of the [[Village of Barovia]]'s church; keeper of the Morning Lord's light there.
+>
 > **Where:** The village church, at his altar.
+>
 > **Status:** Alive. Praying — his son is not.
+>
 > **First met:** Session 4, at the old burgomaster's funeral.
 
 ## What we know

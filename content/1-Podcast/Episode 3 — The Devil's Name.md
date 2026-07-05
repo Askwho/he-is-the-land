@@ -6,7 +6,7 @@ description: "Empty coffins, a hanged man, thirteen chanting apparitions — and
 
 ![[cover-s03.jpg|260]]
 
-<audio controls preload="none" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S03_The_Devils_Name.mp3"></audio>
+<audio controls preload="metadata" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S03_The_Devils_Name.mp3"></audio>
 
 **Session 3 · Runtime 32:15 · [[1-Podcast/index|Subscribe to the podcast]]**
 

@@ -5,7 +5,9 @@ description: "The village merchant. Thoroughly grumpy, prices strangers accordin
 ---
 
 > **Who:** Owner of **Bildrath's Mercantile**, the shop in the [[Village of Barovia]].
+>
 > **Status:** Grumpily solvent.
+>
 > **First met:** Session 4.
 
 ## What we know

@@ -7,7 +7,9 @@ description: "A very good dog. Found starving under a harpsichord in Death House
 ![[lancelot.jpg|300]]
 
 > **Who:** A hound of the [[Village of Barovia]]; [[Mary]]'s dog, missing for weeks before we found him.
+>
 > **Status:** Home safe with Mary. **The dog is not on the table.** It was never on the table.
+>
 > **First met:** Session 1, under the harpsichord.
 
 ## The tale of Lancelot

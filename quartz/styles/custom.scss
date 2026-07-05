@@ -1,6 +1,438 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ============================================================================
+// He Is The Land — "the candlelit ledger"
+// The site is the artifact the fiction says it is: the party's own chronicle.
+// Day: iron-gall ink on cold paper. Night: the podcast cover's world —
+// plum-black, engraved gold (#c8a24b), dried-blood red (#9b1b1b).
+// Signature devices: dossier cards, ✦ entry-marks, the always-night hero plate.
+// ============================================================================
+
+:root {
+  --hitl-gold: #c8a24b;
+  --hitl-gold-ink: #8f6b24;
+  --hitl-blood: #9b1b1b;
+  --hitl-night: #0c080b;
+  --hitl-night-2: #1a1216;
+  --hitl-bone: #ece4da;
+}
+
+// ---------------------------------------------------------------------------
+// Type — Cinzel carries the engraving; Garamond carries the account.
+// ---------------------------------------------------------------------------
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.center article.popover-hint {
+  font-size: 1.06rem;
+  line-height: 1.72;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 700;
+  letter-spacing: 0.045em;
+}
+
+h1.article-title {
+  font-size: 2.1rem;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+  margin-bottom: 0.4rem;
+  // Engraved rule with the ledger's entry-mark.
+  padding-bottom: 0.85rem;
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(
+      to right,
+      color-mix(in srgb, var(--hitl-gold-ink) 65%, transparent),
+      color-mix(in srgb, var(--hitl-gold-ink) 12%, transparent) 70%,
+      transparent
+    );
+  }
+}
+
+article h2 {
+  margin-top: 2.6rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--gray) 45%, transparent);
+  font-size: 1.35rem;
+}
+
+article h3 {
+  margin-top: 2rem;
+  font-size: 1.1rem;
+  letter-spacing: 0.06em;
+}
+
+[saved-theme="dark"] {
+  h1.article-title,
+  article h2 {
+    color: var(--hitl-gold);
+  }
+  h1.article-title::after {
+    background: linear-gradient(
+      to right,
+      color-mix(in srgb, var(--hitl-gold) 55%, transparent),
+      color-mix(in srgb, var(--hitl-gold) 10%, transparent) 70%,
+      transparent
+    );
+  }
+}
+
+// The ledger's entry-mark: hairline — ✦ — hairline.
+article hr {
+  border: none;
+  height: auto;
+  margin: 2.6rem auto;
+  text-align: center;
+  overflow: visible;
+  background: none;
+
+  &::before {
+    content: "✦";
+    display: inline-block;
+    font-size: 0.8rem;
+    color: color-mix(in srgb, var(--hitl-gold-ink) 80%, transparent);
+    padding: 0 1.1rem;
+    background:
+      linear-gradient(color-mix(in srgb, var(--gray) 50%, transparent), color-mix(in srgb, var(--gray) 50%, transparent))
+        left center / calc(50% - 2.2rem) 1px no-repeat,
+      linear-gradient(color-mix(in srgb, var(--gray) 50%, transparent), color-mix(in srgb, var(--gray) 50%, transparent))
+        right center / calc(50% - 2.2rem) 1px no-repeat;
+    width: min(22rem, 100%);
+  }
+}
+
+[saved-theme="dark"] article hr::before {
+  color: color-mix(in srgb, var(--hitl-gold) 75%, transparent);
+}
+
+// ---------------------------------------------------------------------------
+// The dossier card — every cast/place page opens with one (blockquote).
+// Small-caps gold field-labels come from the **Label:** strongs inside.
+// ---------------------------------------------------------------------------
+
+article blockquote {
+  margin: 1.6rem 0;
+  padding: 1rem 1.4rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
+  border-left: 3px solid color-mix(in srgb, var(--hitl-blood) 70%, var(--gray));
+  border-radius: 3px;
+  background:
+    radial-gradient(120% 160% at 0% 0%, color-mix(in srgb, var(--hitl-gold) 7%, transparent), transparent 55%),
+    color-mix(in srgb, var(--light) 60%, var(--lightgray) 18%);
+  box-shadow: 0 1px 3px color-mix(in srgb, var(--dark) 7%, transparent);
+  font-style: normal;
+
+  p {
+    margin: 0.35rem 0;
+  }
+
+  strong {
+    font-family: "Cinzel", serif;
+    font-size: 0.78em;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: var(--hitl-gold-ink);
+  }
+}
+
+[saved-theme="dark"] article blockquote {
+  background:
+    radial-gradient(120% 160% at 0% 0%, color-mix(in srgb, var(--hitl-gold) 8%, transparent), transparent 55%),
+    color-mix(in srgb, var(--hitl-night-2) 75%, var(--lightgray) 10%);
+  box-shadow: inset 0 1px 0 color-mix(in srgb, var(--hitl-gold) 10%, transparent);
+
+  strong {
+    color: var(--hitl-gold);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Tables — ledger columns: engraved heads, hairline rows.
+// ---------------------------------------------------------------------------
+
+.table-container {
+  margin: 1.4rem 0;
+
+  & > table {
+    margin: 0;
+    border-collapse: collapse;
+    width: 100%;
+
+    th {
+      font-family: "Cinzel", serif;
+      font-size: 0.82rem;
+      letter-spacing: 0.09em;
+      text-align: left;
+      color: var(--hitl-gold-ink);
+      border-bottom: 1.5px solid color-mix(in srgb, var(--hitl-gold-ink) 45%, transparent);
+      padding: 0.45rem 0.7rem;
+    }
+
+    td {
+      border: none;
+      border-bottom: 1px solid color-mix(in srgb, var(--gray) 35%, transparent);
+      padding: 0.5rem 0.7rem;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+  }
+}
+
+[saved-theme="dark"] .table-container > table {
+  th {
+    color: var(--hitl-gold);
+    border-bottom-color: color-mix(in srgb, var(--hitl-gold) 40%, transparent);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Images — tipped-in plates: hairline frame, paper mount, soft shadow.
+// ---------------------------------------------------------------------------
+
+article img {
+  display: block;
+  margin: 1.5rem auto;
+  padding: 5px;
+  background: color-mix(in srgb, var(--light) 80%, var(--lightgray) 20%);
+  border: 1px solid color-mix(in srgb, var(--gray) 60%, transparent);
+  border-radius: 2px;
+  box-shadow: 0 2px 10px color-mix(in srgb, var(--dark) 12%, transparent);
+  max-width: 100%;
+  height: auto;
+}
+
+[saved-theme="dark"] article img {
+  background: var(--hitl-night-2);
+  border-color: color-mix(in srgb, var(--hitl-gold) 22%, transparent);
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.55);
+}
+
+// ---------------------------------------------------------------------------
+// The player — audio as a brass-fitted fixture, matched to theme.
+// ---------------------------------------------------------------------------
+
+article audio {
+  display: block;
+  width: 100%;
+  margin: 1.4rem 0;
+  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
+  border-radius: 999px;
+  box-shadow: 0 1px 4px color-mix(in srgb, var(--dark) 10%, transparent);
+  color-scheme: light;
+  accent-color: var(--hitl-blood);
+}
+
+[saved-theme="dark"] article audio {
+  color-scheme: dark;
+  border-color: color-mix(in srgb, var(--hitl-gold) 30%, transparent);
+  accent-color: var(--hitl-gold);
+}
+
+// ---------------------------------------------------------------------------
+// The hero plate — always night, even on paper. (Home page only.)
+// ---------------------------------------------------------------------------
+
+// Suppress the standard article header on the page that carries the plate.
+.center:has(.hitl-hero) {
+  h1.article-title,
+  .content-meta,
+  .breadcrumb-container {
+    display: none;
+  }
+}
+
+.hitl-hero {
+  position: relative;
+  margin: 0.4rem 0 2.2rem;
+  padding: 3.2rem 2rem 2.6rem;
+  border-radius: 4px;
+  text-align: center;
+  background:
+    radial-gradient(90% 130% at 50% 0%, rgba(84, 34, 54, 0.35), transparent 62%),
+    radial-gradient(140% 180% at 50% 115%, rgba(0, 0, 0, 0.65), transparent 60%),
+    linear-gradient(170deg, #171017 0%, var(--hitl-night) 55%, #080507 100%);
+  border: 1px solid rgba(200, 162, 75, 0.28);
+  outline: 1px solid rgba(0, 0, 0, 0.5);
+  box-shadow:
+    inset 0 0 60px rgba(0, 0, 0, 0.55),
+    0 4px 18px color-mix(in srgb, var(--dark) 18%, transparent);
+
+  .hitl-eyebrow {
+    margin: 0 0 1.4rem;
+    font-family: "Cinzel", serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.32em;
+    color: #b03434;
+    text-transform: uppercase;
+  }
+
+  .hitl-title {
+    margin: 0;
+    font-family: "Cinzel", serif;
+    font-weight: 700;
+    font-size: clamp(2.3rem, 6vw, 3.4rem);
+    line-height: 1.14;
+    letter-spacing: 0.09em;
+    color: var(--hitl-gold);
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.8), 0 0 26px rgba(200, 162, 75, 0.16);
+  }
+
+  .hitl-tag {
+    margin: 1.2rem auto 0;
+    max-width: 34rem;
+    font-style: italic;
+    font-size: 1.05rem;
+    color: rgba(236, 228, 218, 0.82);
+  }
+}
+
+// Brass-plate actions — used in the hero and on the podcast page.
+.hitl-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  justify-content: center;
+  margin-top: 1.7rem;
+
+  a {
+    display: inline-block;
+    padding: 0.5rem 1.15rem;
+    font-family: "Cinzel", serif;
+    font-size: 0.82rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--hitl-gold);
+    background: rgba(200, 162, 75, 0.06);
+    border: 1px solid rgba(200, 162, 75, 0.45);
+    border-radius: 2px;
+    transition: background 0.15s ease, color 0.15s ease;
+
+    &:hover,
+    &:focus-visible {
+      background: rgba(200, 162, 75, 0.16);
+      color: #e8cf8e;
+    }
+  }
+
+  a.hitl-cta-primary {
+    color: var(--hitl-night);
+    background: linear-gradient(180deg, #d8b45e, #b08a35);
+    border-color: #e2c479;
+
+    &:hover,
+    &:focus-visible {
+      background: linear-gradient(180deg, #e5c06e, #bd9740);
+    }
+  }
+}
+
+// Outside the hero (light contexts), the plates take ink instead of gold.
+article > .hitl-cta:not(.hitl-in-hero) a {
+  color: var(--secondary);
+  border-color: color-mix(in srgb, var(--secondary) 55%, transparent);
+  background: transparent;
+
+  &:hover,
+  &:focus-visible {
+    background: color-mix(in srgb, var(--secondary) 10%, transparent);
+    color: var(--secondary);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Chrome — site title, sidebars, search, footer.
+// ---------------------------------------------------------------------------
+
+.page-title {
+  font-family: "Cinzel", serif;
+  letter-spacing: 0.12em;
+
+  a {
+    color: var(--secondary);
+  }
+}
+
+.sidebar {
+  h2,
+  h3,
+  button.mobile-explorer + h2 {
+    font-family: "Cinzel", serif;
+    font-size: 0.9rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+}
+
+.explorer {
+  .folder-title,
+  .nav-folder-title {
+    font-family: "Cinzel", serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.06em;
+  }
+}
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid color-mix(in srgb, var(--gray) 40%, transparent);
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  opacity: 0.85;
+}
+
+// ---------------------------------------------------------------------------
+// Reading details — links, selection, focus.
+// ---------------------------------------------------------------------------
+
+article a.internal {
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--secondary) 35%, transparent);
+  transition: border-color 0.15s ease, color 0.15s ease;
+  background: none;
+
+  &:hover {
+    color: var(--tertiary);
+    border-bottom-color: color-mix(in srgb, var(--tertiary) 70%, transparent);
+  }
+}
+
+::selection {
+  background: color-mix(in srgb, var(--hitl-blood) 25%, transparent);
+}
+
+:focus-visible {
+  outline: 2px solid var(--tertiary);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Mobile fit (kept from before) + hero adjustments.
+// ---------------------------------------------------------------------------
 
 @media all and ($mobile) {
   html {
@@ -22,5 +454,13 @@
   .page-header h1 {
     overflow-wrap: anywhere;
     text-wrap: balance;
+  }
+
+  .hitl-hero {
+    padding: 2.2rem 1.1rem 1.9rem;
+
+    .hitl-eyebrow {
+      letter-spacing: 0.2em;
+    }
   }
 }

@@ -7,8 +7,11 @@ description: "The priest's son, taken by the devil and sent home a vampire. He w
 ![[doru.jpg|300]]
 
 > **Who:** [[Father Donavich]]'s son — eighteen, maybe.
+>
 > **Where:** The crypt beneath the village church.
+>
 > **Status:** **Destroyed, at his father's leave and as close to his own as Strahd allowed.** He crumbled to dust.
+>
 > **First met:** Session 4. Ended: Session 5.
 
 ## What happened to him

@@ -5,6 +5,7 @@ description: "Firelight, fiddle music, and the first laughter we've heard in Bar
 ---
 
 > **Where:** A side-track off [[The Road West]], about a day west of the [[Village of Barovia]] — cart-ruts to firelight.
+>
 > **Status:** **We are here.** End of travel day one; the party sleeps by the Vistani fires; a [[The Man in the Tent|stranger]] is waiting. Session 6 opens here.
 
 ## The Vistani

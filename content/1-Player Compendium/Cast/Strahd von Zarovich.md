@@ -7,8 +7,11 @@ description: "The devil. Lord of Castle Ravenloft, Count of Barovia — vampire,
 ![[pale-man-statue.jpg|300]]
 
 > **Who:** "Ruler of these lands, rightful lord" — his own words. The villagers call him *the devil.*
+>
 > **Where:** [[The Land of Barovia|Castle Ravenloft]], marked on our map with one word: **AVOID!**
+>
 > **Status:** Very much active. He has met us. He has *fed* on one of us.
+>
 > **First encountered:** By name in [[Death House]] (Session 1); in person at Ismark's house (Session 5).
 
 *The statue above is how we first saw his face — carved in painted wood, in a hidden room beneath Death House, one hand on a wolf's head. We've since seen the face itself. The statue flatters him less.*

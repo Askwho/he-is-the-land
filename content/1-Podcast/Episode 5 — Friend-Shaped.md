@@ -6,7 +6,7 @@ description: "Mercy in a crypt, a house call from the devil himself, and a campf
 
 ![[cover-s05.jpg|260]]
 
-<audio controls preload="none" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S05_Friend_Shaped.mp3"></audio>
+<audio controls preload="metadata" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S05_Friend_Shaped.mp3"></audio>
 
 **Session 5 · Runtime 49:25 · [[1-Podcast/index|Subscribe to the podcast]]**
 

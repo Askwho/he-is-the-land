@@ -1,5 +1,5 @@
 ---
-title: "He Is The Land — the Podcast"
+title: "The Podcast"
 publish: true
 description: "Our sessions, edited down to tight ~45-minute audio episodes. Listen on the site or subscribe in any podcast app."
 ---

@@ -1,4 +1,4 @@
-#requires -Version 5.1
+﻿#requires -Version 5.1
 <#
 .SYNOPSIS
     Publishes selected Obsidian notes to the "He Is The Land" player site.
@@ -8,7 +8,7 @@
        strips any Obsidian `%% ... %%` comments (DM-only asides), and copies the
        result into Quartz's content folder.
     2. Copies the curated player-safe images from the vault's
-       "z_Assets\Player Site" folder (put anything you want on the site there —
+       "z_Assets\Player Site" folder (put anything you want on the site there -
        ONLY player-safe images, the whole folder is published).
     3. Builds the site and generates the podcast RSS feed.
     4. With -Push: commits to GitHub (backup + old GitHub Pages URL) AND deploys
@@ -141,6 +141,15 @@ try {
     Write-Host "Building site (validation)..." -ForegroundColor Cyan
     & npx quartz build
     if ($LASTEXITCODE -ne 0) { throw "Quartz build failed (exit $LASTEXITCODE). Fix the error above before publishing." }
+
+    # Sanity check: a healthy build has one HTML page per published note (plus
+    # folder/tag pages). If pages went missing (e.g. frontmatter parsing broke
+    # and explicit-publish filtered everything), stop before anything deploys.
+    $mdCount   = @(Get-ChildItem $Content -Recurse -Filter *.md -File).Count
+    $htmlCount = @(Get-ChildItem (Join-Path $Site 'public') -Recurse -Filter *.html -File).Count
+    if ($htmlCount -lt $mdCount) {
+        throw "Build produced only $htmlCount HTML pages for $mdCount published notes - check the 'Filtered out' line above. NOT deploying."
+    }
 
     & node scripts\generate-feed.mjs
     if ($LASTEXITCODE -ne 0) { throw "Feed generation failed." }

@@ -26,18 +26,18 @@ configuration:
         darkgray: "#4e4039"
         dark: "#2b211c"
         secondary: "#7a1f1f"
-        tertiary: "#9c5a3c"
+        tertiary: "#8f6b24"
         highlight: rgba(122, 31, 31, 0.10)
         textHighlight: "#d8b84088"
       darkMode:
-        light: "#161210"
-        lightgray: "#3a322d"
-        gray: "#6b5f55"
-        darkgray: "#d4c9bf"
+        light: "#131015"
+        lightgray: "#3b3037"
+        gray: "#756770"
+        darkgray: "#d6cbc6"
         dark: "#ece4da"
-        secondary: "#a83232"
-        tertiary: "#c47a4a"
-        highlight: rgba(168, 50, 50, 0.15)
+        secondary: "#c9a44e"
+        tertiary: "#b03434"
+        highlight: rgba(200, 162, 75, 0.09)
         textHighlight: "#b3920288"
 plugins:
   - source: github:quartz-community/created-modified-date
@@ -219,7 +219,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

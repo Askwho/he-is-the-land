@@ -5,6 +5,7 @@ description: "The sorrowful village in the valley below the castle — twitching
 ---
 
 > **Where:** The valley of Barovia, in the land of Barovia — they really do say it like that. The castle looms above on a pillar of cliff.
+>
 > **Visited:** Sessions 4–5 (two days). We left west along [[The Road West]] with [[Ireena Kolyana]].
 
 A sorrowful, jumpy place. People took one look at us and scurried indoors; curtains twitched; the tavern went dead silent when we walked in. Strangers are *trouble* here — strangers draw [[Strahd von Zarovich|the devil's]] eye. Everything empties and bolts at **twilight**. Nobody in Barovia is out after dark.

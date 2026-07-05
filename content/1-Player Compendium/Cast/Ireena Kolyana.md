@@ -5,8 +5,11 @@ description: "The burgomaster's daughter — sharp, striking, cursed with bright
 ---
 
 > **Who:** Daughter of the late burgomaster of Barovia; [[Ismark]]'s sister.
+>
 > **Where:** Travelling **with us**, on the road to Vallaki.
+>
 > **Status:** Alive, well, and heartbreakingly excited to be outside her village.
+>
 > **First met:** Session 4, in the burgomaster's house.
 
 ## What we know

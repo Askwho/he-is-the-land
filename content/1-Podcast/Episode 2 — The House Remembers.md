@@ -6,7 +6,7 @@ description: "A ghost maid in a mirror, two children in the attic, and a promise
 
 ![[cover-s02.jpg|260]]
 
-<audio controls preload="none" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S02_The_House_Remembers.mp3"></audio>
+<audio controls preload="metadata" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S02_The_House_Remembers.mp3"></audio>
 
 **Session 2 · Runtime 41:31 · [[1-Podcast/index|Subscribe to the podcast]]**
 

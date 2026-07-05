@@ -7,6 +7,7 @@ description: "The one road there is — through the gates of the Strahd empire, 
 ![[gates-of-barovia.jpg]]
 
 > **What:** The one road through Barovia. East: the gates we entered by. West: four days to Vallaki, past [[Tser Pool Encampment]].
+>
 > **Travelled:** Day one of four (Session 5). Three days of it still ahead of us.
 
 ## The Gates of Barovia

@@ -6,7 +6,7 @@ description: "Five strangers, five heirlooms, one impossible staircase — and a
 
 ![[cover-s01.jpg|260]]
 
-<audio controls preload="none" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S01_The_Death_House.mp3"></audio>
+<audio controls preload="metadata" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S01_The_Death_House.mp3"></audio>
 
 **Session 1 · Runtime 46:40 · [[1-Podcast/index|Subscribe to the podcast]]**
 

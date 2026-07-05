@@ -5,7 +5,9 @@ description: "A large man at Tser Pool who spoke all five of our names and said 
 ---
 
 > **Who:** Unknown. A large man who stepped out of the great tent at [[Tser Pool Encampment]].
+>
 > **Status:** Waiting on us. **Session 6 opens right here.**
+>
 > **First met:** The final moment of Session 5.
 
 ## Everything we know

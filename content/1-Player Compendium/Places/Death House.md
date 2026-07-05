@@ -5,7 +5,9 @@ description: "The tall, narrow house that pulled us through the mists, armed us,
 ---
 
 > **Where:** Nowhere, anymore. The mists rolled shut behind us and the house was simply gone.
+>
 > **Explored:** Sessions 1–3, top to bottom — attic to altar.
+>
 > **Status:** Its evil is defeated (a *greater* evil, we were warned, stays in Barovia). The [[The Durst Household|Dursts']] victims are at rest.
 
 ## What it was

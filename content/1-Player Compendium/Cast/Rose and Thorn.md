@@ -5,7 +5,9 @@ description: "Rosavalda and Thornboldt Durst — the children in the attic. Lock
 ---
 
 > **Who:** Rosavalda ("Rose") and Thornboldt ("Thorn") Durst — the two smiling children from the family portrait in [[Death House]].
+>
 > **Status:** **At rest.** We buried their bones outside the mists of the house, as promised.
+>
 > **First met:** Session 2, in the attic. Last seen: Session 3, saying thank you.
 
 ## Their story, as they told it

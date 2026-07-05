@@ -6,7 +6,7 @@ description: "The gates of Barovia, a pie you shouldn't finish, a grieving villa
 
 ![[cover-s04.jpg|260]]
 
-<audio controls preload="none" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S04_Mist_Walkers.mp3"></audio>
+<audio controls preload="metadata" src="https://heistheland.askwhocasts.com/audio/He_Is_The_Land_S04_Mist_Walkers.mp3"></audio>
 
 **Session 4 · Runtime 49:18 · [[1-Podcast/index|Subscribe to the podcast]]**
 

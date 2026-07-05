@@ -7,8 +7,11 @@ description: "A kindly old woman with a rickety cart and pies that are far, far 
 ![[granny.webp|300]]
 
 > **Who:** "Granny" — an old woman selling meat pies off a rickety cart. Lives with her **sisters in a mill outside the village**, or so she says.
+>
 > **Where:** Met in the [[Village of Barovia]]. The mill is out there somewhere.
+>
 > **Status:** Presumably still selling pies.
+>
 > **First met:** Session 4 — the first person in Barovia to speak to us at all.
 
 ## What we know

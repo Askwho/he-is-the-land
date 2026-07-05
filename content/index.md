@@ -4,6 +4,17 @@ publish: true
 description: "The player chronicle of our Curse of Strahd campaign — recaps, field notes, a spoiler-free compendium of Barovia, and the podcast of every session."
 ---
 
+<div class="hitl-hero">
+  <p class="hitl-eyebrow">A Curse of Strahd actual play &amp; campaign chronicle</p>
+  <h1 class="hitl-title">He Is The Land</h1>
+  <p class="hitl-tag">Five strangers. Five heirlooms. One road west — and the devil owns it.</p>
+  <div class="hitl-cta hitl-in-hero">
+    <a class="hitl-cta-primary" href="./1-podcast/episode-5-—-friend-shaped">▶ Latest episode</a>
+    <a href="./1-session-journals/the-story-so-far">The story so far</a>
+    <a href="./1-player-compendium/">The compendium</a>
+  </div>
+</div>
+
 *The mists part for a moment. Pull up a chair by the fire, and remember where the road has taken us.*
 
 Welcome, travellers. This is the party's chronicle of **Barovia** — the story so far, the podcast of every session, and our own spoiler-free encyclopedia of the people, places, and prices of this grey country. If it's written here, we learned it at the table; nothing is spoiled, because nothing is known before we know it.

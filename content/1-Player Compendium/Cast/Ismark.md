@@ -5,8 +5,11 @@ description: "The new burgomaster of the Village of Barovia — honest about the
 ---
 
 > **Who:** Burgomaster of the [[Village of Barovia]] — took the title the day his father died, a day before we arrived.
+>
 > **Where:** The Village of Barovia. He stayed behind; with no heir, he cannot risk himself.
+>
 > **Status:** Alive, governing a frightened village.
+>
 > **First met:** Session 4, at the Blood on the Vine tavern.
 
 ## What we know
