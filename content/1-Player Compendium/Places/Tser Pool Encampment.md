@@ -1,12 +1,12 @@
 ---
 title: "Tser Pool Encampment"
 publish: true
-description: "Firelight, fiddle music, and the first laughter we've heard in Barovia. The Vistani camp where the price of dinner is a story — and where we are, right now."
+description: "Firelight, fiddle music, and the first laughter we've heard in Barovia. The Vistani camp where our fates were dealt on black velvet — and where the bacon was real."
 ---
 
 > **Where:** A side-track off [[The Road West]], about a day west of the [[Village of Barovia]] — cart-ruts to firelight.
 >
-> **Status:** **We are here.** End of travel day one; the party sleeps by the Vistani fires; a [[The Man in the Tent|stranger]] is waiting. Session 6 opens here.
+> **Status:** Behind us now — the warmest night we've had in Barovia, and the most important. **The reading happened here** (Session 6). We left west at morning with real bacon in us.
 
 ## The Vistani
 
@@ -18,13 +18,19 @@ What [[Ismark]] told us of them: the Vistani can **walk the mists** — though t
 
 ## The great tent
 
-At the back of the camp stands a large tent — warm light, and something in it that has been **waiting for us to arrive**. The flap opened, [[The Man in the Tent|a large man]] looked at each of us in turn, and spoke all five of our names.
+At the back of the camp stands the great tent — and what was waiting in it was **[[Madam Eva]]**, and the reading that is now [[Quests & Threads|our map]]. Candles, black velvet, two decks of cards, five fates, five personal threads, and one **blank card** for Sirius. The verses are copied in full into [[Session_006_Player_Notes|the S6 field notes]].
 
-*"You are expected."*
+## What we learned over the wine (Session 6)
+
+- The Vistani pass the mists by an **ancient agreement** with [[Strahd von Zarovich|Strahd]] — not allies, simply *exempt*, and not much bothered about anyone who isn't.
+- **Do not try to ride out in a Vistani wagon.** They tried carrying a passenger through the mists once. The wagon came out. **The passenger did not.**
+- There are other lands like this one — the **Domains of Dread** — and ordinary sunny places beyond. The seasons still turn here; nobody could name the month in any calendar we know.
+- Strahd has been what he is for **seven hundred years**, and the Vistani are an oral people — whom he *envied*, none of them know. Chase that answer in **books**.
+- In the morning: **bacon.** Actual bacon, from beyond the mists, fried by genuinely friendly people. Sirius declared them the finest folk in this land, and for once nobody argued.
 
 ## Open questions
 
-- Expected by whom, and since when?
-- What do the Vistani know about how — and why — we were brought here?
+- How long — and how — did Eva know we were coming?
+- The Vistani walk the mists freely. The agreement is *theirs*. Could it ever be ours?
 
-*The full record: [[Session_005_Player_Notes|S5 notes]] · [[Episode 5 — Friend-Shaped|Episode 5]].*
+*The full record: [[Session_005_Player_Notes|S5 notes]] · [[Session_006_Player_Notes|S6 notes]] · [[Episode 5 — Friend-Shaped|Episode 5]].*

@@ -1,36 +1,40 @@
 ---
 title: "Granny the Pie-Seller"
 publish: true
-description: "A kindly old woman with a rickety cart and pies that are far, far too good. Something is off about those pies."
+description: "The kindly old woman with the too-good pies — unmasked. Her name is Morgantha, her face goes purple, and we are fighting her right now."
 ---
 
 ![[granny.webp|300]]
 
-> **Who:** "Granny" — an old woman selling meat pies off a rickety cart. Lives with her **sisters in a mill outside the village**, or so she says.
+> **Who:** "Granny" — the sweet old pie-seller from the village. **Her real name is Morgantha**, her face warps purple, and she is one of **three hags** living in [[The Windmill|a windmill]] on the road west. The "sisters" she mentioned are called **Bella** and **Ophelia**.
 >
-> **Where:** Met in the [[Village of Barovia]]. The mill is out there somewhere.
+> **Where:** The windmill, two days short of Vallaki.
 >
-> **Status:** Presumably still selling pies.
+> **Status:** ⚔️ **Mid-combat with us, right now.** About as unmasked as it gets.
 >
-> **First met:** Session 4 — the first person in Barovia to speak to us at all.
+> **First met:** Session 4 — the first person in Barovia to speak to us at all. Unmasked: Session 6, at her own front door.
 
-## What we know
+## The reveal
 
-- Her pies **smell incredible and taste better than anything from home.** One gold each — dear, but each is two days' food and keeps sixteen days.
-- Asked what's in them, she said only: **"protein,"** and **"they're special."** Sirius tried to read her and got *nothing* — which is itself worth noting.
-- She named us **"mist walkers,"** and warned that when our sort appear, [[Strahd von Zarovich|Strahd]] takes a closer interest.
-- To be fair to her: she taught us the one mushroom in Barovia that's actually safe to eat.
+At dusk on the second day out of Tser Pool we came on a leaning windmill that smelled of herbs and **fresh pies** — and Granny came up the road behind us with her little cart. Asked straight about the enchantment our magic had found, she gave the finest non-answer of the campaign:
 
-## The worry
+> *"They are enchanting pies, I will admit. So you got me. They're enchanting… it's good for business."*
 
-**Lily ate one.** That night: vivid, hallucinatory dreams, bright and overwhelming, gone on waking. She woke *ravenous* and tore into a second pie without a word — and has now done so **twice**, without noticing herself do it. The craving is growing, not fading. Drew checked her over: *it's not nothing.*
+Then Sirius heard **muffled screaming from inside the cart**, and the pleasantries ended. She ran for the mill — faster than any old woman has ever run — shrieking *"Bella! Ophelia!"*, and the door burst open on **three of them**, Granny's own face among them, warped and purple now. Her greeting:
 
-Until we know what's in them: **nobody eats another pie.** See [[Quests & Threads]].
+> *"You shouldn't have poked your nose in, dearies."*
+
+## What we know now
+
+- **The pies are enchanted** — Fëanor's magic confirmed it before we ever reached the mill: strong enchantment through every pastry, and a fainter web of the same magic **around Lily's head**. She's been their best customer since the village; one of the hags said exactly that, mid-fight, with an inky void where her eyes should be.
+- **The cart carried a person**: a woman bound in a **net of silver**, who begged us *not* to cut her free — *"I am cursed. The net is silver. It's stopping me turning."* She was bitten; there is a **full moon** above the clouds tonight. Her partner — a werewolf **born**, not bitten — is captive **inside the mill**.
+- **They are far tougher than they look.** Round one: a private horror shown only to Osric, claws through his armour, and a "tiredness" that washed over Lily. Our best steel has barely scratched the one called Morgantha.
+- The mill has a **henge of old standing stones** behind it. Hags baking beside a holy place — file under things that need explaining.
 
 ## Open questions
 
-- What is actually in the pies?
-- Who are the "sisters," and what happens at that mill?
-- Why could Sirius read nothing from her?
+- What is *actually* in the pies? (The working theory is now much worse than "protein.")
+- Can three of these things be killed by five of us — and what happens to Lily's craving if we manage it?
+- Why do they keep werewolves?
 
-*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]]*
+*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]]*

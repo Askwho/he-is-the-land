@@ -16,8 +16,12 @@ description: "Survival notes, table rules, and prices — everything practical w
 - **Wolves:** drop one and the rest run. Dire wolves come with them. Pelts sell in Vallaki.
 - **The lights that cry "help me" are not people.** Do not follow.
 - **Indoors by twilight.** The whole village does it. The village is right.
-- **Ravens are good luck.** Be nice to ravens.
+- **Ravens are good luck.** Be nice to ravens. *(The cards agree: what was stolen is not fully owned, and the ravens are our friends.)*
 - **Strangers will be charmed.** If a companion suddenly declares a total stranger to be the best of men — believe the one who cast the spell that says otherwise, not your own warm feelings. This has happened to us. To all of us at once.
+- **Do not try to leave in a Vistani wagon.** The Vistani pass the mists by an ancient agreement with Strahd. They once carried a passenger through. The wagon came out the other side; **the passenger did not.**
+- **The wider world exists.** The Vistani call lands like this the *Domains of Dread*; beyond them the ordinary sunny places carry on — the Coast of Faerûn, Waterdeep. Nobody here can name the month in any calendar we know, but the seasons still turn, and it is getting colder.
+- **Silver stops a werewolf turning** — from the mouth of a bitten woman who begged us to leave her *in* the silver net. Continuous contact, apparently. Worth remembering; worth *carrying*.
+- **Vallaki admits no Vistani**, registers names and weapons at the gate, and is — per a Vistani — "a paranoid and distasteful people." Adjust expectations accordingly.
 
 ## Table rules (the campaign's house rulings)
 

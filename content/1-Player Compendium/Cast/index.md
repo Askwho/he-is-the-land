@@ -12,13 +12,18 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 
 ## The living
 
+- **[[Madam Eva]]** — the ancient seer of Tser Pool. She read our fates for free, and called Sirius an imbecile. Twice.
 - **[[Ireena Kolyana]]** — the burgomaster's daughter, in our care until Vallaki. Strahd wants her.
 - **[[Ismark]]** — her brother, the new burgomaster. Honest about the horrors; less honest about crypts.
 - **[[Father Donavich]]** — the village priest. *"Do what you must."*
-- **[[Granny the Pie-Seller]]** — kindly old woman, suspicious pies. **Nobody eats another pie.**
+- **[[Aragal]]** — Vistani rider from the Vallaki camp; wants a Blinsky toy for his daughter, will pay.
 - **[[Mary]]** — Lancelot's owner; her daughter Gertruda is missing.
 - **[[Bildrath]]** — the village merchant and his "outsider special" prices.
-- **[[The Man in the Tent]]** — he knew all five of our names. Session 6 opens on him.
+- **[[The Man in the Tent]]** — he knew all five of our names. He was the doorman; the tent was Eva's.
+
+## The unmasked
+
+- **[[Granny the Pie-Seller]]** — the kindly pie-seller is a **hag named Morgantha**, one of three at [[The Windmill|the windmill]]. **We are fighting her right now.** And still: nobody eats another pie.
 
 ## The dead, and the at-rest
 

@@ -6,9 +6,9 @@ description: "The burgomaster's daughter — sharp, striking, cursed with bright
 
 > **Who:** Daughter of the late burgomaster of Barovia; [[Ismark]]'s sister.
 >
-> **Where:** Travelling **with us**, on the road to Vallaki.
+> **Where:** Travelling **with us**, on the road to Vallaki — currently at the roadside by [[The Windmill|the windmill]], screaming at us to run.
 >
-> **Status:** Alive, well, and heartbreakingly excited to be outside her village.
+> **Status:** Alive, unhurt, and the only one of us showing any sense.
 >
 > **First met:** Session 4, in the burgomaster's house.
 
@@ -21,8 +21,14 @@ description: "The burgomaster's daughter — sharp, striking, cursed with bright
 - Her tea is dreadful. We were polite.
 - Her brother [[Ismark]] tested us before trusting us with her — see his page. She is the one who dragged that confession out of him.
 
+## New since the reading (Session 6)
+
+- She slept **easy** among the Vistani — the "they're all Strahd's spies" story died a quiet death at Tser Pool.
+- On the road she is the sensible one: it was Ireena who insisted we find shelter before dark. (The shelter turned out to be [[The Windmill|a hags' windmill]]. Not her fault.)
+- When the fighting started she did exactly the right thing: got clear, and started screaming at *us* to do the same.
+
 ## Our promise
 
-Escort Ireena safely to Vallaki. Four days' hard travel; we are one day in, at [[Tser Pool Encampment]]. This is the party's active charge — see [[Quests & Threads]].
+Escort Ireena safely to Vallaki. Four days' hard travel; **day two of four**, currently interrupted by three hags. This is the party's active charge — see [[Quests & Threads]].
 
-*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]]*
+*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]]*

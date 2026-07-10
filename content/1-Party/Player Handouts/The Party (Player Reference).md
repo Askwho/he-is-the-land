@@ -68,13 +68,16 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 
 ---
 
-## Shared kit & assets (as of Session 5)
+## Shared kit & assets (as of Session 6)
 
-- **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) and Fëanor's **rubbing of the menhir symbol**.
-- Four days' rations for six (including [[Ireena Kolyana|Ireena]]), tents, packs, bedrolls, water skins, whetstone, rope.
+- **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) and Fëanor's **rubbing of the menhir symbol** — the same winged, third-eyed figure now carved on a henge of five stones behind a certain windmill.
+- **The reading** — five fates and five personal threads, written down wherever the important things are kept (see [[Session_006_Player_Notes|the field notes]]). And one **blank card**, in Sirius's keeping.
+- Rations for six (including [[Ireena Kolyana|Ireena]]) plus **roughly three of Granny's pies** — now *confirmed enchanted*; eat at your own risk. Tents, packs, bedrolls, water skins, whetstone, rope.
 - **One potion of healing** — the last; there are none for sale in Barovia.
 - One pristine **wolf pelt** (lightly charred), for sale in Vallaki.
+- **A commission:** one Blinsky-original toy for Aragal's daughter Araba, worth **20 gold over cost**, deliverable to the Vistani camp outside Vallaki.
 - The **crystal spell-focus orb** from the pale man's statue, an **unread yellow spellbook**, alchemist's fire, a bullseye lantern, thieves' tools (Lily), and two cult daggers (bone, and bat-skull).
+- **CLOVER** — on call, good vibes included.
 - Assorted Death House valuables — and Lily's standing warning that selling things from noble estates *"ends very badly."*
 
 ## Honoured alumni

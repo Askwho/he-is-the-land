@@ -29,11 +29,19 @@ description: "The devil. Lord of Castle Ravenloft, Count of Barovia — vampire,
 - The letter we found in Death House (signed *"In darkness I endure"*) shows how he treats his servants: see the [[Handouts]].
 - He mentioned, in passing: *"one of my pups managed to grab you… it will recover, and I have others."* We don't know what that means yet. We should find out before it matters.
 
+## What the Vistani told us (Session 6)
+
+- **The Vistani pass the mists by an ancient agreement with him** — he leaves them be, they leave him be. They are not his allies; they are *exempt*, and they know it. Barovians, in their words, are "property of Strahd."
+- **He has been exactly as he is for some seven hundred years.** Unchanged. If any living person knows his history — say, whom he ever *envied* — the Vistani do not. The answer, if it exists, is **written down somewhere**.
+- There are **other lands like this one** — the Vistani call them the *Domains of Dread* — and ordinary sunny places beyond: the Coast of Faerûn, Waterdeep. Home still exists. This place just doesn't let go.
+- And from [[Madam Eva]]'s reading, the last card: when the time comes, we will find the devil **"in the tomb of the only man he ever envied."** A tomb. A name nobody remembers. See [[Quests & Threads]].
+
 ## Open questions
 
-- How long has he ruled? The coins, the statue, and the gate all say: *a very long time.*
+- How long has he ruled? The Vistani finally gave us a number: **~700 years.**
 - What does "I am this land" actually mean? The cult believed it literally.
 - Why does he *court* Ireena rather than simply take her?
-- What are his "pups"?
+- What are his "pups"? *(Werewolves moved up the suspect list at [[The Windmill|the windmill]].)*
+- **Who is the only man he ever envied — and where is that man's tomb?**
 
-*Appears in: [[Session_001_Player_Notes|S1]] · [[Session_003_Player_Notes|S3]] · [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]]*
+*Appears in: [[Session_001_Player_Notes|S1]] · [[Session_003_Player_Notes|S3]] · [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]]*

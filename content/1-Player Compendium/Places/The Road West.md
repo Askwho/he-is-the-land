@@ -6,9 +6,9 @@ description: "The one road there is — through the gates of the Strahd empire, 
 
 ![[gates-of-barovia.jpg]]
 
-> **What:** The one road through Barovia. East: the gates we entered by. West: four days to Vallaki, past [[Tser Pool Encampment]].
+> **What:** The one road through Barovia. East: the gates we entered by. West: four days to Vallaki, past [[Tser Pool Encampment]] and [[The Windmill|a windmill we should not have poked our noses into]].
 >
-> **Travelled:** Day one of four (Session 5). Three days of it still ahead of us.
+> **Travelled:** Two days of four (Sessions 5–6). Two more to Vallaki — once the current unpleasantness resolves.
 
 ## The Gates of Barovia
 
@@ -16,7 +16,7 @@ A stone gate between two high rocks, flanked by crumbling **headless statues**, 
 
 ## Dangers of the road, learned the hard way
 
-- **The lights that cry for help.** Voices from the trees — *"Help! Help me!"* — that prove to be floating, glowing lights. [[Ismark]] warned us of them. **Do not follow.** They trailed us a while and faded. (If someone real was ever behind that voice, may they forgive us. We said we'd look on the way back.)
+- **The lights that cry for help.** Voices from the trees — *"Help! Help me!"* — that prove to be floating, glowing lights. [[Ismark]] warned us of them; [[Aragal]] confirmed it with a professional's shrug: *kill wolves, ignore lights, travel fast.* **Do not follow.** They trailed us a while and faded. (If someone real was ever behind that voice, may they forgive us. We said we'd look on the way back.)
 - **Wolves.** Seven wolves and two dire wolves came out of the treeline at us in failing light. Ismark's advice held: **drop one and the rest run** — especially if the one is burned to ash by a small cheerful machine (see CLOVER, on [[The Party (Player Reference)|the party page]]). Wolf pelts sell in Vallaki; we have one.
 - **The land does not feed you.** Nothing that grows here is anything we recognise. Carry rations. See the [[Traveller's Almanac]].
 
@@ -24,9 +24,15 @@ A stone gate between two high rocks, flanked by crumbling **headless statues**, 
 
 A three-foot **standing stone** by the roadside, moss-grown and old, carved with a **winged woman bearing three eyes** — and around its base, ringed over and over, **the exact symbol on Fëanor's heirloom stone.** He checked. Identical. Osric's history is good enough to say it with confidence: that symbol and that winged figure are **not from our world. They belong to Barovia.** Fëanor took a rubbing for the records.
 
+## Met on the road (day two)
+
+Hours west of Tser Pool: hoofbeats behind us, and **[[Aragal]]** — a Vistani rider of some influence from the camp outside Vallaki — friendly, useful, and in a hurry. Road warnings, the news that **Vallaki admits no Vistani**, and a paying errand: a **Blinsky toy for his daughter Araba** ([[Quests & Threads]]). Then he outpaced us and was gone.
+
+And at dusk of that same day: [[The Windmill|the windmill]]. See that page. Bring silver.
+
 ## Open questions
 
-- Who is the winged woman with three eyes?
+- Who is the winged woman with three eyes? *(The henge behind the windmill may be about to answer this — or make it worse.)*
 - Why does a moon-stone glow in a land that has never once shown us a moon?
 
-*The full record: [[Session_004_Player_Notes|S4 notes]] · [[Session_005_Player_Notes|S5 notes]].*
+*The full record: [[Session_004_Player_Notes|S4 notes]] · [[Session_005_Player_Notes|S5 notes]] · [[Session_006_Player_Notes|S6 notes]].*

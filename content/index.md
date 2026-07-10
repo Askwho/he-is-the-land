@@ -9,7 +9,7 @@ description: "The player chronicle of our Curse of Strahd campaign — recaps, f
   <h1 class="hitl-title">He Is The Land</h1>
   <p class="hitl-tag">Five strangers. Five heirlooms. One road west — and the devil owns it.</p>
   <div class="hitl-cta hitl-in-hero">
-    <a class="hitl-cta-primary" href="./1-podcast/episode-5-—-friend-shaped">▶ Latest episode</a>
+    <a class="hitl-cta-primary" href="./1-podcast/episode-6-—-something-sweet">▶ Latest episode</a>
     <a href="./1-session-journals/the-story-so-far">The story so far</a>
     <a href="./1-player-compendium/">The compendium</a>
   </div>
@@ -21,17 +21,17 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 ## Before next session
 
-> At **Tser Pool**, the Vistani fires are warm, the road to Vallaki still has three days left — and a large man has just stepped from the great tent, spoken **all five of our names**, and said: *"You are expected."* Session 6 opens the tent flap.
+> **We are MID-BATTLE.** Three hags fill the doorway of [[The Windmill|a leaning windmill]] two days short of Vallaki — [[Granny the Pie-Seller|Granny]] unmasked among them, her face gone warped and purple. A cursed woman lies by the cart in a **silver net**, begging *not* to be freed; her partner is captive inside; there is a **full moon** above the clouds. Osric holds the door, Sirius has *wings*, Ireena is screaming for us to run — and nobody is running. **Session 7 begins at the top of the round.**
 
-- **Immediate question:** [[The Man in the Tent|who expected us]] — and since when?
-- **Our charge:** escort **[[Ireena Kolyana]]** to Vallaki, three more hard days west.
-- **Keep in mind:** [[Strahd von Zarovich|Strahd]] has met us, charmed us, and drunk from Sirius; Lily's pie craving is getting worse; four of five heirlooms now answer to Barovia. The full watch-list lives in [[Quests & Threads]].
+- **Immediate business:** survive the coven. Then get the werewolf out of that mill before the moon does its work.
+- **Our map now:** [[Madam Eva]]'s reading — five fates, five personal threads, one **blank card**. Short form on [[Quests & Threads]]; full verses in the [[Session_006_Player_Notes|field notes]].
+- **Keep in mind:** the pies are **confirmed enchanted** (so is the fainter web around Lily's head); [[Aragal]]'s toy commission pays 20 gold; and *who is the only man [[Strahd von Zarovich|Strahd]] ever envied?* The full watch-list lives in [[Quests & Threads]].
 
 ## Start here
 
 - 📖 **New, or catching up?** [[The Story So Far]] — the whole tale in one sitting.
-- 🎧 **Latest episode:** [[Episode 5 — Friend-Shaped]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
-- 📋 **Latest recap:** [[Session_005_Player_Recap|Session 5 — Recap]] · deep detail in the [[Session_005_Player_Notes|Field Notes]].
+- 🎧 **Latest episode:** [[Episode 6 — Something Sweet]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
+- 📋 **Latest recap:** [[Session_006_Player_Recap|Session 6 — Recap]] · deep detail in the [[Session_006_Player_Notes|Field Notes]].
 
 ## The chronicle
 
@@ -43,6 +43,7 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 | # | Listen | Read |
 | --- | --- | --- |
+| 6 | [[Episode 6 — Something Sweet\|Something Sweet]] (52:35) | [[Session_006_Player_Recap\|Recap]] · [[Session_006_Player_Notes\|Field Notes]] |
 | 5 | [[Episode 5 — Friend-Shaped\|Friend-Shaped]] (49:25) | [[Session_005_Player_Recap\|Recap]] · [[Session_005_Player_Notes\|Field Notes]] |
 | 4 | [[Episode 4 — Mist Walkers\|Mist Walkers]] (49:18) | [[Session_004_Player_Recap\|Recap]] · [[Session_004_Player_Notes\|Field Notes]] |
 | 3 | [[Episode 3 — The Devil's Name\|The Devil's Name]] (32:15) | [[Session_003_Player_Recap\|Recap]] · [[Session_003_Player_Notes\|Field Notes]] |
