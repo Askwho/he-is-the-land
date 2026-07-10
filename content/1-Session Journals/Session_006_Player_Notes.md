@@ -11,7 +11,7 @@ publish: true
 
 The big man led us into the great tent: candles, black velvet on every surface, a crystal ball on a gold stand, and **two decks of cards** — a tall "common" deck and a smaller "high" deck. Behind the table, an old woman who needed no introductions, because she already had ours: **Madam Eva.** *"It took you all long enough. Are you ready to learn your fate?"*
 
-She told us plainly: **we are here for a reason.** It is no mere happenstance that we were brought into Barovia. When we asked whether she knew about our heirlooms — *"I know many things. I cannot say all. The cards will tell. I will not."* The reading was **given freely**, no silver crossing any palm (Fëanor ruled it therefore could not be devilry). Sirius got a glass of wine fetched, drew from the wrong deck, and was called an **imbecile** — twice, with relish — by a woman who informed us that *"an old woman is given many affordances."* Also that if we refused the reading, **we would fail. Guaranteed.** He stomached his pride for our sakes. It is in the minutes.
+She told us plainly: **we are here for a reason.** It is no mere happenstance that we were brought into Barovia. When we asked whether she knew about our heirlooms — *"I know many things. I cannot say all. The cards will tell. I will not."* The reading was **given freely**, no silver crossing any palm (Fëanor ruled it therefore could not be devilry). Sirius got a glass of wine fetched, reached for the wrong deck, and was called an **imbecile** — twice, with relish — by a woman who informed us that *"an old woman is given many affordances"* (Fëanor later requested the wrong deck on purpose and cheerfully earned one of his own). Also that if we refused the reading, **we would fail. Guaranteed.** Sirius stomached his pride for our sakes — *"I will stomach my pride for the sake of my friends."* It is in the minutes.
 
 ## The five fates
 
@@ -28,14 +28,14 @@ Write these down again wherever you keep the important things:
 She offered each of us a personal reading — our present, and our future.
 
 - **Osric** — *the Dictator*, then *the Tempter*: **"You carry an old conquest at your back. Your blood marched beneath that banner… Carry your banner to the house of the fallen dragon, where the shadows do the cruelest work. Cast off temptation. Kneel and answer for your blood, and win an honor that is yours alone."** The same house of a dragon as the party's protection card. Osric's road and ours point the same way.
-- **Fëanor** — *the Wizzard*, then *the Mists*: **"You channel the power of a god you scarce believe in. The stone in your pocket remembers a fire you have never felt."** (His answer: *"Who told you?"*) And: **"The sun only hides in this land behind the mists. In water it glows still. Stand there at dawn and choose."** Water aglow with the sun again — the same place as our first card, we think.
-- **Lily** — *the Charlatan*, then *the Beast*: **"Something sweet has taken root in you, little one. Starve it. It is not yours."** And: **"The tooth you carry mends what otherwise cannot be healed. Far to the west there is a den of peace. One who howls there will need it."** Mark it: the pies, named to her face. And her wolf tooth, given a purpose at last.
-- **Drew** — *the Necromancer*, then *the Raven*: **"A secret sealed in amber stone. Your blood has carried the question for generations… The raven purveys the message, sealed in amber deep in the mountains. But mark me, child — knowledge there is bought, and bought dearly."** Drew told us afterward of the lady of ravens on her card, that **what was stolen is not fully owned, and the land can be reclaimed** — and that she thinks the ravens are our friends. It has, in her words, only added steel to her resolve.
-- **Sirius** — nothing. *"Even if you wanted a reading, I could not give you one. **Your fate has already been read.**"* She handed him a card anyway, and he sat transfixed by it. We looked over his shoulder: **the card is blank.**
+- **Fëanor** — *the Wizzard*, then *the Mists*: **"You channel the power of a god you scarce believe in. The stone in your pocket remembers a fire you have never felt."** (His answers, in order: *"I just told you that"* — and then, once the fire line sank in: *"Who told you?"*) And: **"The sun only hides in this land behind the mists. In water it glows still. Stand there at dawn and choose."** Water aglow with the sun again — the same place as our first card, we think.
+- **Lily** — *the Charlatan*, then *the Beast*: **"Something sweet has taken root in you, little one. Starve it. It is not yours."** And: **"The tooth you carry mends what otherwise cannot be healed. Far to the west there is a den of beasts. One who howls there will need it."** Mark it: the pies, named to her face. And her wolf tooth, given a purpose at last.
+- **Drew** — *the Necromancer*, then *the Raven*: **"A secret sealed in amber stone. Your blood has carried the question for generations… The raven purveys the message, sealed in amber deep in the mountains. But mark me, child — knowledge there is bought, and bought dearly."** Her own verdict on the Raven: *it's so on point — they follow me in all dimensions.*
+- **Sirius** — nothing. *"Even if you wanted a reading, I could not give you one. **Your fate has already been read.**"* She handed him a card anyway, and he sat transfixed by it. We looked over his shoulder: **the card is blank.** But outside the tent, Sirius told us what *he* sees on it: **a lady of ravens**, *"tied into my present and past… part of a secret towards addressing the land."* And she **spoke to him**: **"What was stolen is not fully owned, and the land can be reclaimed"** — which has, in his words, *only added steel to my resolve*. He thinks **her ravens are our friends.** Did he know this Lady of Ravens? *"No, but she seems familiar."* He put the last piece on the table himself: his grandfather's raven feather, the family's good-luck token. *"I think there is some possibility that those two things are related."* An astute observation, someone said. *"It happens every so often, usually after a glass or two of wine."* He'd only had the one. That was strange.
 
-So tally the heirlooms one more time: Osric's banner, Fëanor's stone, Lily's tooth, Drew's amber — all four now named *by the cards themselves*. And Sirius, feather and all, has a fate someone else already read. **All five of us were brought here on purpose.**
+So tally the heirlooms one more time: Osric's banner, Fëanor's stone, Lily's tooth, Drew's amber — all four now named *by the cards themselves*. And Sirius, feather and all, has a fate someone else already read — and a card only he can read. **All five of us were brought here on purpose.**
 
-Her parting words: *"I have read what may be, not what must be. You could still fail. But with this knowledge, you have a chance."* Will we see her again? *"Signs point to yes."*
+Her parting words: *"Your threads have now been woven and drawn taut. They pull you to the future. I have read what may be, not what must be. You could still fail. But with this knowledge, you have a chance."* Will we see her again? *"Signs point to yes."*
 
 ## A night among the Vistani
 
@@ -56,7 +56,7 @@ So Fëanor took ten minutes over breakfast and cast the spell that sees magic, a
 
 We held what can only be called an intervention. Lily maintains she is not enchanted, merely fond of pie. But when Osric asked her to promise not to eat his, she gave the most honest answer she's given us yet: **"I don't want you to be kind to me, and me to tell you a lie in response."** She cannot promise. We kept the remaining pies — perhaps unwisely — and Fëanor can see the magic but cannot lift it. Watch her. Watch your packs.
 
-One more thing we all felt on the road: since the reading, something has settled on us. Fëanor says the fates have woven around us and drawn taut; whatever the truth of it, **we are all of us stronger than we were.** The land is noticing us.
+One more thing we all felt on the road: since the reading, something has settled on us. Eva's own parting words — *threads woven and drawn taut, pulling us to the future* — are exactly how it feels; whatever the truth of it, **we are all of us stronger than we were.** The land is noticing us.
 
 ## The rider
 
@@ -90,15 +90,16 @@ We did not run. The fight hangs mid-swing.
 - **Mid-battle at the windmill**, roughly two days short of Vallaki, against **three hags who are made of sterner stuff than we are**. A cursed woman in a silver net lies by the cart; her partner is captive inside; there is a full moon somewhere above the clouds.
 - **The reading is our map now:** knowledge far west at *high water behind the walls of man*; protection at the *house of a dragon*; power starting in an *amber palace of darkness* at the *shrine of murdered gods*; an ally in a *hunter of hunters*; and Strahd himself, at the end, in the *tomb of the only man he ever envied* — a name not even the Vistani know.
 - **Gear & assets:** Ismark's map; rations plus roughly three of Granny's pies (**now confirmed enchanted** — eat at your own risk); one wolf pelt for Vallaki; one potion of healing; the menhir rubbing; CLOVER on call. **Commission:** a Blinsky original toy for Aragal's daughter, 20 gold over cost.
-- **The heirloom tally is complete — five for five.** Banner, stone, tooth, amber all named by the cards; Sirius's fate "already read," his card blank.
-- **Watch list:** Lily's compulsion (three mornings, now escalated to burglary); the enchantment visibly woven around her head; Sirius since the bite; the henge behind the mill.
+- **The heirloom tally is complete — five for five.** Banner, stone, tooth, amber all named by the cards; Sirius's fate "already read," his card blank to everyone but him — and the **lady of ravens** on it *spoke*.
+- **Watch list:** Lily's compulsion (three mornings, now escalated to burglary); the enchantment visibly woven around her head; Sirius since the bite — and now Sirius and his card; the henge behind the mill.
 
 ### Questions on our minds
 
 - **Who is the only man Strahd ever envied?** Seven hundred years unchanged, say the Vistani — the answer is likely in a **book** somewhere. Whose tomb will we find him in?
 - **Who is the hunter of hunters?** Not Aragal. Who stalks this land hunting the mightiest prey of all?
 - **What is the "high water aglow with the light of the sun, hidden behind the walls of man"** — and is it the same water where Fëanor must *stand at dawn and choose*? Choose **what**?
-- **Why is Sirius's card blank?** Who read his fate already — and what did they read?
+- **Who is the lady of ravens** only Sirius can see — and why does she seem *familiar* to him? Who read his fate already, and what did they read?
+- *"What was stolen is not fully owned, and the land can be reclaimed."* Stolen by whom? Reclaimed how?
 - **What are the hags putting in those pies** — and what happens to their "best customer" if she keeps eating them? *Starve it. It is not yours.*
 - The **henge** behind the mill — the same old stones as the menhir with Fëanor's symbol? Why do hags bake beside a holy place?
 - Can we actually kill three of these things — and can we get the werewolf out of that mill before the moon does its work?

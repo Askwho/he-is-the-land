@@ -14,7 +14,7 @@ description: "Madam Eva's reading, recorded word for word — every card, every 
 - The reading was **given freely** — no silver crossed any palm.
 - Refusing it, she said, meant we would fail. **Guaranteed.**
 - The five fates **we drew ourselves** — top card only, first three from the common deck, last two from the high. The personal cards **she dealt**.
-- Her parting words: *"I have read what may be, not what must be. You could still fail. But with this knowledge, you have a chance."*
+- Her parting words: *"Your threads have now been woven and drawn taut. They pull you to the future. I have read what may be, not what must be. You could still fail. But with this knowledge, you have a chance."*
 
 ## The five fates
 
@@ -76,7 +76,7 @@ description: "Madam Eva's reading, recorded word for word — every card, every 
 >
 > *"The sun only hides in this land behind the mists. **In water it glows still. Stand there at dawn and choose.**"*
 
-His answer, for the record: ***"Who told you?"***
+His answers, in order and for the record: *"I just told you that"* — and then, once the fire line sank in: ***"Who told you?"***
 
 *Printed meanings: mystery and riddles; those who crave great knowledge · a great quest that will try one's spirit.*
 
@@ -86,7 +86,7 @@ His answer, for the record: ***"Who told you?"***
 
 > *"**Something sweet has taken root in you, little one. Starve it. It is not yours.**"*
 >
-> *"The tooth you carry **mends what otherwise cannot be healed.** Far to the west there is **a den of peace.** One who howls there will need it."*
+> *"The tooth you carry **mends what otherwise cannot be healed.** Far to the west there is **a den of beasts.** One who howls there will need it."*
 
 *Printed meanings: those who profess to believe one thing but believe another · something bestial hiding in plain sight.*
 
@@ -96,29 +96,37 @@ His answer, for the record: ***"Who told you?"***
 
 > *"**A secret sealed in amber stone. Your blood has carried the question for generations…** The raven purveys the message, **sealed in amber deep in the mountains.** But mark me, child — **knowledge there is bought, and bought dearly.**"*
 
-Drew told us afterward, of the lady of ravens on her card: **what was stolen is not fully owned, and the land can be reclaimed** — and that she thinks the ravens are our friends.
+Drew's own verdict on drawing the Raven: *it's so on point — they follow me in all dimensions.*
 
 *Printed meanings: unhealthy obsessions; a destructive path · a hidden source of information; a secret potential for good.*
 
-### Sirius — no reading
+### Sirius — no reading, and the lady of ravens
 
 > *"Even if you wanted a reading, I could not give you one. **Your fate has already been read.**"*
 
-She pressed a card into his hand anyway. **It is blank.** Both faces. (He also drew from the wrong deck early on and was called an *imbecile* — twice, with relish. It is in the minutes.)
+She pressed a card into his hand anyway. To everyone who looked over his shoulder: **blank.** Both faces. But outside the tent, Sirius told us what *he* sees on it — **a lady of ravens**, *"tied into my present and past… part of a secret towards addressing the land."* And she **spoke to him**:
+
+> *"**What was stolen is not fully owned, and the land can be reclaimed.**"*
+
+Which has, in his words, *only added steel to my resolve.* He thinks **her ravens are our friends.** Did he know this Lady of Ravens? *"No, but she seems familiar."* Then he laid the last piece down himself: his grandfather's raven feather, his family's token of good luck. *"I think there is some possibility that those two things are related."*
+
+(He also reached for the wrong deck early on and was called an *imbecile* — twice, with relish. It is in the minutes.)
 
 ## What we noticed at the table
 
 - **The water appears twice** — the Healer's *high water aglow with the sun* and Fëanor's *water where the sun glows still*. The same place, we think.
 - **The dragon's house appears twice** — the party's Protection and Osric's kneeling point the same way. His road and ours converge.
 - **The Executioner is unclaimed.** Not [[Aragal]]; we asked.
-- **All five heirlooms are now named by the cards** — banner, stone, tooth, amber, and a feather-wearer whose fate was read before we arrived. *"You are here for a reason."*
+- **Sirius connected the lady of ravens to his own heirloom** — the raven feather his grandfather gave him, his family's token of good luck. An astute observation, and he'd only had one glass of wine.
+- **All five heirlooms are now named** — banner, stone, tooth, amber by the cards themselves; the feather by the lady only Sirius can see. *"You are here for a reason."*
 
 ## Questions
 
-- Why is Sirius's card **blank** — and who read his fate already?
+- Who is the **lady of ravens** only Sirius can see — and why does she seem *familiar* to him? Who read his fate already?
+- *"What was stolen is not fully owned, and the land can be reclaimed."* Stolen by whom? Reclaimed how?
 - Who is **the only man the devil ever envied**? The Vistani don't know; if the answer exists, it's written down somewhere.
 - What must Fëanor **choose** at dawn?
-- What is a *den of peace*?
+- What waits in a *den of beasts*?
 
 ---
 

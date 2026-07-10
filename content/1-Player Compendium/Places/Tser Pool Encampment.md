@@ -18,7 +18,7 @@ What [[Ismark]] told us of them: the Vistani can **walk the mists** — though t
 
 ## The great tent
 
-At the back of the camp stands the great tent — and what was waiting in it was **[[Madam Eva]]**, and the reading that is now our map. Candles, black velvet, two decks of cards, five fates, five personal threads, and one **blank card** for Sirius. **The complete record, card by card: [[The Reading]].**
+At the back of the camp stands the great tent — and what was waiting in it was **[[Madam Eva]]**, and the reading that is now our map. Candles, black velvet, two decks of cards, five fates, five personal threads, and one card **only Sirius can read**. **The complete record, card by card: [[The Reading]].**
 
 ## What we learned over the wine (Session 6)
 

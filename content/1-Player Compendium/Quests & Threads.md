@@ -29,7 +29,7 @@ description: "The party's ledger — active charges, the reading that is now our
 | **An ally** | the Executioner | *"A hunter of hunters"* — stalking the mightiest prey of all. Not [[Aragal]]; we checked |
 | **The devil himself** | the Broken One | *"The tomb of the only man he ever envied"* — pursue him into the depths of darkness |
 
-And five personal threads: Osric must **carry his banner to the house of the fallen dragon and kneel**; Fëanor must **stand in sun-glowing water at dawn and choose**; Lily must **starve the sweet thing that has taken root in her** and carry her tooth to *a den of peace far west*; Drew's amber holds **a secret her blood has carried for generations**, sealed deep in the mountains where knowledge is *bought dearly*; and Sirius — Sirius got a **blank card**, because *his fate has already been read.*
+And five personal threads: Osric must **carry his banner to the house of the fallen dragon and kneel**; Fëanor must **stand in sun-glowing water at dawn and choose**; Lily must **starve the sweet thing that has taken root in her** and carry her tooth to *a den of beasts far west*; Drew's amber holds **a secret her blood has carried for generations**, sealed deep in the mountains where knowledge is *bought dearly*; and Sirius — Sirius got a card that is **blank to everyone but him**, because *his fate has already been read* — and the **lady of ravens** he sees on it has *spoken*.
 
 ## 👁️ Watch-list
 
@@ -37,7 +37,7 @@ And five personal threads: Osric must **carry his banner to the house of the fal
 
 - **Lily and the pies — now confirmed.** Three mornings, escalated to burglary (ask Osric's pack). Fëanor's magic showed it plainly: **strong enchantment wound through the pies, and a fainter web of the same magic around Lily's head.** She cannot promise to stop, and said so. We still carry ~3 pies. Eva's words: *"Starve it. It is not yours."* **Nobody eats another pie.**
 - **Sirius, post-bite.** Eva looked at his collar a beat too long. The Vistani noticed things we didn't ask about. The bacon test remains negative; the watch continues.
-- **Sirius's blank card.** *Who* read his fate already, and *what did they read?* He hasn't put the card down since.
+- **Sirius and the lady of ravens.** His card is blank to the rest of us — but *he* sees a lady of ravens on it, familiar though he can't say why, and she has **spoken to him**: *"what was stolen is not fully owned, and the land can be reclaimed."* He thinks her ravens are our friends, and he's connected her to his grandfather's feather. Who is she? Who read his fate already? He hasn't put the card down since.
 - **The henge behind the windmill.** The same old stones as the [[The Road West|menhir]]? Why do hags bake beside a holy place?
 - **"One of my pups managed to grab you."** Strahd's words. Still unexplained.
 - **The lights on the road.** Crying *"help me"* from the trees. [[Aragal]]'s advice: ignore lights, kill wolves, travel fast. Our half-promise to look on the way back is still on the books.
@@ -50,12 +50,12 @@ Five keepsakes dragged five strangers through the mists. **The cards have now na
 | Keepsake | Bearer | What Barovia has said about it |
 | --- | --- | --- |
 | Tattered banner, bird-like sigil | Osric | The sigil crowns the Gates; the cards: *"your blood marched beneath that banner… carry it to the house of the fallen dragon. Kneel, and answer for your blood."* |
-| Raven feather | Sirius | Ravens are good luck here — and Sirius's fate has *"already been read."* His card is blank. |
+| Raven feather | Sirius | His fate *"already read"*; his card blank to all but him — and the **lady of ravens** on it (her ravens "are our friends") is, he suspects, tied to the feather itself. |
 | Flat stone, three-pointed star | Fëanor | Carved into the roadside menhir; glows at the new moon. The cards: *"the stone in your pocket remembers a fire you have never felt."* |
-| Lacquered dire-wolf tooth | Lily | The cards: *"the tooth you carry mends what cannot otherwise be healed — far to the west there is a den of peace; one who howls there will need it."* |
+| Lacquered dire-wolf tooth | Lily | The cards: *"the tooth you carry mends what otherwise cannot be healed — far to the west there is a den of beasts; one who howls there will need it."* |
 | Amber-resin pendant, shifting runes | Drew | **Answered at last.** *"A secret sealed in amber… your blood has carried the question for generations. The message is sealed in amber deep in the mountains — knowledge there is bought dearly."* |
 
-Eva said it straight: **we are here for a reason.** All five of us. Open questions: who is the winged woman with three eyes? Who read Sirius's fate? And what will Drew's amber cost?
+Eva said it straight: **we are here for a reason.** All five of us. Open questions: who is the winged woman with three eyes? Who is the lady of ravens, and who read Sirius's fate? And what will Drew's amber cost?
 
 ## ✅ Kept & done
 

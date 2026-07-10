@@ -23,16 +23,16 @@ What she told us, before a single card turned:
 - Refusing the reading meant failure. **Guaranteed.**
 - Asked about our heirlooms: *"I know many things. I cannot say all. The cards will tell. I will not."*
 
-Then five cards for five fates, and a personal reading each — **the complete record, card by card, is on [[The Reading]]** (short form on [[Quests & Threads]]; raw session record in [[Session_006_Player_Notes|the field notes]]). Her parting words: *"I have read what may be, not what must be. You could still fail. But with this knowledge, you have a chance."*
+Then five cards for five fates, and a personal reading each — **the complete record, card by card, is on [[The Reading]]** (short form on [[Quests & Threads]]; raw session record in [[Session_006_Player_Notes|the field notes]]). Her parting words: *"Your threads have now been woven and drawn taut. They pull you to the future. I have read what may be, not what must be. You could still fail. But with this knowledge, you have a chance."*
 
-## The blank card
+## The card she gave anyway
 
-Only Sirius she turned away: *"Even if you wanted a reading, I could not give you one. **Your fate has already been read.**"* She pressed a card into his hand anyway. We looked over his shoulder. **It is blank.** He stared at it a long, long time, and has not really stopped since.
+Only Sirius she turned away: *"Even if you wanted a reading, I could not give you one. **Your fate has already been read.**"* She pressed a card into his hand anyway. We looked over his shoulder: **blank.** But Sirius sees a **lady of ravens** on it — and she *spoke* to him. His full account is on [[The Reading]]. He has not really put the card down since.
 
 ## Character witness
 
-- Sirius drew from the wrong deck and was called an **"imbecile"** — twice, with relish — by a woman who explained that *"an old woman is given many affordances."* He took it for the team. It is in the minutes.
-- She fetched him wine first, though. Fair's fair.
+- Sirius reached for the wrong deck and was called an **"imbecile"** — twice, with relish — by a woman who explained that *"an old woman is given many affordances."* His answer, knightly to the last: *"I will stomach my pride for the sake of my friends."* It is in the minutes. (Fëanor later requested the wrong deck *on purpose* and cheerfully earned one of his own.)
+- She fetched Sirius wine first, though. Fair's fair.
 - She knew things the cards shouldn't need to tell her — our names, our pasts, the shape of Lily's trouble (*"something sweet has taken root in you, little one"*) a full day before the windmill proved her right.
 
 ## Open questions

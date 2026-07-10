@@ -71,7 +71,7 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 ## Shared kit & assets (as of Session 6)
 
 - **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) and Fëanor's **rubbing of the menhir symbol** — the same winged, third-eyed figure now carved on a henge of five stones behind a certain windmill.
-- **The reading** — five fates and five personal threads, recorded card-by-card on [[The Reading]]. And one **blank card**, in Sirius's keeping.
+- **The reading** — five fates and five personal threads, recorded card-by-card on [[The Reading]]. And one card **only Sirius can read**, in his keeping.
 - Rations for six (including [[Ireena Kolyana|Ireena]]) plus **roughly three of Granny's pies** — now *confirmed enchanted*; eat at your own risk. Tents, packs, bedrolls, water skins, whetstone, rope.
 - **One potion of healing** — the last; there are none for sale in Barovia.
 - One pristine **wolf pelt** (lightly charred), for sale in Vallaki.
