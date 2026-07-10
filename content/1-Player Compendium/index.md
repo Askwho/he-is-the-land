@@ -6,6 +6,7 @@ description: "The party's own encyclopedia of Barovia — people, places, promis
 
 *The party's own encyclopedia of Barovia. Everything here is something **we** learned at the table — nothing more. If it isn't written down, we don't know it yet.*
 
+- **[[The Reading]]** — Madam Eva's cards, recorded in full: five fates, five personal threads, one blank card. **Our map now.**
 - **[[Cast/index|Cast of Characters]]** — everyone we've met, from the devil to the dog.
 - **[[Places/index|Places]]** — where we've been, and where we've been warned about. Start with [[The Land of Barovia|the map]].
 - **[[Quests & Threads]]** — the ledger: active charges, the watch-list, the heirloom mystery, promises kept.

@@ -23,7 +23,7 @@ What she told us, before a single card turned:
 - Refusing the reading meant failure. **Guaranteed.**
 - Asked about our heirlooms: *"I know many things. I cannot say all. The cards will tell. I will not."*
 
-Then five cards for five fates, and a personal reading each — every verse is copied into [[Session_006_Player_Notes|the field notes]], and the short form lives on [[Quests & Threads]]. Her parting words: *"I have read what may be, not what must be. You could still fail. But with this knowledge, you have a chance."*
+Then five cards for five fates, and a personal reading each — **the complete record, card by card, is on [[The Reading]]** (short form on [[Quests & Threads]]; raw session record in [[Session_006_Player_Notes|the field notes]]). Her parting words: *"I have read what may be, not what must be. You could still fail. But with this knowledge, you have a chance."*
 
 ## The blank card
 

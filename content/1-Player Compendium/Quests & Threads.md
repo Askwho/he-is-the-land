@@ -19,7 +19,7 @@ description: "The party's ledger — active charges, the reading that is now our
 
 ## 🗺️ The Reading — our map now
 
-[[Madam Eva]] read our fates at Tser Pool ([[Session_006_Player_Notes|the full verses are in the S6 field notes]] — copy them somewhere safe). The short form:
+[[Madam Eva]] read our fates at Tser Pool. **The complete record — every card, every verse, and the cards themselves — is on [[The Reading]].** The short form:
 
 | Fate | Card | Where it points |
 | --- | --- | --- |

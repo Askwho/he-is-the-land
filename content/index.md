@@ -24,7 +24,7 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 > **We are MID-BATTLE.** Three hags fill the doorway of [[The Windmill|a leaning windmill]] two days short of Vallaki — [[Granny the Pie-Seller|Granny]] unmasked among them, her face gone warped and purple. A cursed woman lies by the cart in a **silver net**, begging *not* to be freed; her partner is captive inside; there is a **full moon** above the clouds. Osric holds the door, Sirius has *wings*, Ireena is screaming for us to run — and nobody is running. **Session 7 begins at the top of the round.**
 
 - **Immediate business:** survive the coven. Then get the werewolf out of that mill before the moon does its work.
-- **Our map now:** [[Madam Eva]]'s reading — five fates, five personal threads, one **blank card**. Short form on [[Quests & Threads]]; full verses in the [[Session_006_Player_Notes|field notes]].
+- **Our map now:** [[Madam Eva]]'s reading — five fates, five personal threads, one **blank card**. **The complete record, card by card: [[The Reading]].**
 - **Keep in mind:** the pies are **confirmed enchanted** (so is the fainter web around Lily's head); [[Aragal]]'s toy commission pays 20 gold; and *who is the only man [[Strahd von Zarovich|Strahd]] ever envied?* The full watch-list lives in [[Quests & Threads]].
 
 ## Start here
