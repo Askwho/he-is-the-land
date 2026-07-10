@@ -38,8 +38,8 @@ And five personal threads: Osric must **carry his banner to the house of the fal
 - **Lily and the pies — now confirmed.** Three mornings, escalated to burglary (ask Osric's pack). Fëanor's magic showed it plainly: **strong enchantment wound through the pies, and a fainter web of the same magic around Lily's head.** She cannot promise to stop, and said so. We still carry ~3 pies. Eva's words: *"Starve it. It is not yours."* **Nobody eats another pie.**
 - **Sirius, post-bite.** Eva looked at his collar a beat too long. The Vistani noticed things we didn't ask about. The bacon test remains negative; the watch continues.
 - **Sirius's blank card.** *Who* read his fate already, and *what did they read?* He hasn't put the card down since.
-- **The henge behind the windmill.** Five standing stones behind a hags' mill. Are they the same old stones as the [[The Road West|menhir]] — the winged woman with three eyes? Why do hags bake beside a holy place?
-- **"One of my pups managed to grab you."** Strahd's words. Still unexplained. Werewolves are now high on the suspect list — the woman in the net was *bitten*.
+- **The henge behind the windmill.** The same old stones as the [[The Road West|menhir]]? Why do hags bake beside a holy place?
+- **"One of my pups managed to grab you."** Strahd's words. Still unexplained.
 - **The lights on the road.** Crying *"help me"* from the trees. [[Aragal]]'s advice: ignore lights, kill wolves, travel fast. Our half-promise to look on the way back is still on the books.
 - **Who is the only man Strahd ever envied?** Seven hundred years unchanged, say the Vistani — nobody alive remembers. The answer is likely **written down** somewhere. We need a book, or a library, or a very old memory.
 

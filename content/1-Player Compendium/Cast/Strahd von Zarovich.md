@@ -41,7 +41,7 @@ description: "The devil. Lord of Castle Ravenloft, Count of Barovia — vampire,
 - How long has he ruled? The Vistani finally gave us a number: **~700 years.**
 - What does "I am this land" actually mean? The cult believed it literally.
 - Why does he *court* Ireena rather than simply take her?
-- What are his "pups"? *(Werewolves moved up the suspect list at [[The Windmill|the windmill]].)*
+- What are his "pups"?
 - **Who is the only man he ever envied — and where is that man's tomb?**
 
 *Appears in: [[Session_001_Player_Notes|S1]] · [[Session_003_Player_Notes|S3]] · [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]]*

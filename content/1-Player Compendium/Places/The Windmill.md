@@ -14,7 +14,7 @@ description: "A leaning windmill on a rise, two days short of Vallaki — fresh 
 
 A windmill leaning on its rise like a thing trying to turn its face away — onion-domed, sails in tatters, windows dark with grime, vanes turning without wind. And rolling off the whole place, warm and sweet and wrong: the smell of herbs and **freshly baked pies.**
 
-Mark this well: behind the mill, at the forest's edge, stands **a henge of old standing stones.** We have seen carvings like that once before, on [[The Road West|the menhir]] that knew Fëanor's family.
+Mark this well: behind the mill, at the forest's edge, stands **a henge of old standing stones.** Nobody has had a chance to look at them closely — there was screaming — but the [[The Road West|menhir on the road]] is fresh in everyone's mind.
 
 ## What happened here (so far)
 
