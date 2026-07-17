@@ -6,9 +6,9 @@ description: "The one road there is — through the gates of the Strahd empire, 
 
 ![[gates-of-barovia.jpg]]
 
-> **What:** The one road through Barovia. East: the gates we entered by. West: four days to Vallaki, past [[Tser Pool Encampment]] and [[The Windmill|a windmill we should not have poked our noses into]].
+> **What:** The one road through Barovia. East: the gates we entered by. West: four days to [[Vallaki]], past [[Tser Pool Encampment]] and [[The Windmill|a windmill we should not have poked our noses into]].
 >
-> **Travelled:** Two days of four (Sessions 5–6). Two more to Vallaki — once the current unpleasantness resolves.
+> **Travelled:** ✅ **All four days** (Sessions 5–7). We know this road now. It knows us back.
 
 ## The Gates of Barovia
 
@@ -29,6 +29,12 @@ A three-foot **standing stone** by the roadside, moss-grown and old, carved with
 Hours west of Tser Pool: hoofbeats behind us, and **[[Aragal]]** — a Vistani rider of some influence from the camp outside Vallaki — friendly, useful, and in a hurry. Road warnings, the news that **Vallaki admits no Vistani**, and a paying errand: a **Blinsky toy for his daughter Araba** ([[Quests & Threads]]). Then he outpaced us and was gone.
 
 And at dusk of that same day: [[The Windmill|the windmill]]. See that page. Bring silver.
+
+## The last two days (Session 7 — after the windmill)
+
+- **The dire wolf with the roses.** Standing in the middle of the road, in broad daylight, a bunch of roses in its mouth — straining against itself like a thing on an invisible leash. It laid them down and fled. Around the stems: **[[Strahd von Zarovich|Strahd]]'s letter to Ireena** ([[Handouts]]). The road belongs to him, and he uses it as a postal service.
+- **The raven, again.** Watching our camp at night: **the exact same raven** from the village of Barovia — Lily swears to the tufty feathers — days and miles behind us. Her gift for speaking with beasts simply *did not connect*, the way it doesn't when the thing you're addressing **is not an animal.** It ignored our food, watched, and left. Sirius greeted it as a friend: *her ravens are our friends.*
+- **The farmstead.** An abandoned farm at noon on the last day; three grey shambling dead things in the hay. Sirius's wings froze all three with terror and steel did the rest — no scratches taken. Data for the file: **plain steel outworked our magic on them, and silver made no difference at all.** Five silver, sixteen coppers, and one jar of zombie guts (Drew insists) recovered.
 
 ## Open questions
 

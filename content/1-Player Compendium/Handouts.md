@@ -18,6 +18,29 @@ Found in a hidden chest in the study, addressed to *"My most pathetic servant."*
 
 ![[strahd-letter.jpg|500]]
 
+## Strahd's letter to Ireena
+
+Delivered on the road to Vallaki by **a dire wolf carrying roses** (Session 7). Fine card stock, *Irina* written on the side. Transcribed exactly, because the third paragraph is a mechanism:
+
+> *My love, why do you tease me so?*
+>
+> *Your flight out of Barovia village with these ruffians caught me unawares. If you wished to travel these lands, you need only have asked me, and with my personal attention and accompaniment, I would have let you visit wherever you willed.*
+>
+> *It appears you still need some time to wrestle with your feelings for me. But once you are willing to show me the love you feel you need, merely speak my name thrice, and I shall be with you in the moment to whisk you to our castle, Ravenloft.*
+>
+> *Your destined future lover,*
+> *Strahd von Zarovich.*
+
+## The festival flyer
+
+Pressed into our hands at Vallaki's east gate, fresh from the printers (Session 7):
+
+> **THE FESTIVAL OF THE BLAZING SUN**
+> *Seven days hence. Attendance is mandatory.*
+> *Failure to attend this festival is punishable by punishment.*
+
+Children required. All will be well.
+
 ## Elisabeth Durst's letter
 
 Her side of the correspondence — to a "Mrs. Petrovna," about a ceremony, an absent husband, and a sacrifice she declines to call innocent. See [[The Durst Household]].

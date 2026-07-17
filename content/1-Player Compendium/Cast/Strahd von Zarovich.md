@@ -29,6 +29,14 @@ description: "The devil. Lord of Castle Ravenloft, Count of Barovia — vampire,
 - The letter we found in Death House (signed *"In darkness I endure"*) shows how he treats his servants: see the [[Handouts]].
 - He mentioned, in passing: *"one of my pups managed to grab you… it will recover, and I have others."* We don't know what that means yet. We should find out before it matters.
 
+## The letter (Session 7)
+
+On the road to Vallaki, **a dire wolf stood waiting in broad daylight with roses in its mouth** — straining against itself, visibly *made* to be gentle — laid them down, and fled. Around the stems: a note on fine card stock, addressed to Ireena. The full text is preserved in [[Handouts]]; the lines that matter:
+
+> *"My love, why do you tease me so? … merely speak my name thrice, and I shall be with you in the moment to whisk you to our castle, Ravenloft. Your destined future lover, Strahd von Zarovich."*
+
+So: **his name, spoken three times, summons him** — by his own written promise. We are, of course, already designing traps around this; we are also aware he *wrote it down for us to read*, which lowers our confidence that it's a weapon pointed only one way. The working comfort, per Fëanor: he calls us *ruffians*, he sends flowers — **he is still in the gift phase.** That buys time. Some.
+
 ## What the Vistani told us (Session 6)
 
 - **The Vistani pass the mists by an ancient agreement with him** — he leaves them be, they leave him be. They are not his allies; they are *exempt*, and they know it. Barovians, in their words, are "property of Strahd."

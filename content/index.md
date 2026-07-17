@@ -9,7 +9,7 @@ description: "The player chronicle of our Curse of Strahd campaign — recaps, f
   <h1 class="hitl-title">He Is The Land</h1>
   <p class="hitl-tag">Five strangers. Five heirlooms. One road west — and the devil owns it.</p>
   <div class="hitl-cta hitl-in-hero">
-    <a class="hitl-cta-primary" href="./1-podcast/episode-6-—-something-sweet">▶ Latest episode</a>
+    <a class="hitl-cta-primary" href="./1-podcast/episode-7-—-all-will-be-well">▶ Latest episode</a>
     <a href="./1-session-journals/the-story-so-far">The story so far</a>
     <a href="./1-player-compendium/">The compendium</a>
   </div>
@@ -21,17 +21,17 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 ## Before next session
 
-> **We are MID-BATTLE.** Three hags fill the doorway of [[The Windmill|a leaning windmill]] two days short of Vallaki — [[Granny the Pie-Seller|Granny]] unmasked among them, her face gone warped and purple. A cursed woman lies by the cart in a **silver net**, begging *not* to be freed; her partner is captive inside; there is a **full moon** above the clouds. Osric holds the door, Sirius has *wings*, Ireena is screaming for us to run — and nobody is running. **Session 7 begins at the top of the round.**
+> **We are in [[Vallaki]], and the wine is bought.** Behind us: a lost fight (two of us were frogs), the truth about the pies (see [[Vasha and Radu]] — then be glad we cremated them), [[Strahd von Zarovich|Strahd]]'s love letter to [[Ireena Kolyana|Ireena]] (*speak my name thrice…*), and a raven that is **not an animal**. Around us: real walls, mandatory smiles, the **Festival of the Blazing Sun in seven days**, and a church whose holiest secret is a **six-day-old empty hole** — which Ireena, who plans to sleep there, does not know. And at a corner table of [[The Blue Water Inn]]: **[[Roger]]**, last of the previous Mistwalkers, white as a sheet at the sight of us. **Session 8 begins at his table.**
 
-- **Immediate business:** survive the coven. Then get the werewolf out of that mill before the moon does its work.
-- **Our map now:** [[Madam Eva]]'s reading — five fates, five personal threads, and one card **only Sirius can read** (the lady of ravens has *spoken*). **The complete record, card by card: [[The Reading]].**
-- **Keep in mind:** the pies are **confirmed enchanted** (so is the fainter web around Lily's head); [[Aragal]]'s toy commission pays 20 gold; and *who is the only man [[Strahd von Zarovich|Strahd]] ever envied?* The full watch-list lives in [[Quests & Threads]].
+- **Immediate business:** Roger tonight; **Milivoj at the orphanage** in the morning — the only lead on the missing bones of [[St. Andral's Church|St. Andral]].
+- **Standing debts:** we told [[Vasha and Radu|Vasha]] we'd come back for Radu and finish the coven — *break the coven of three and the rest weaken.* Not yet. But soon.
+- **Keep in mind:** Lily's bad hour comes at dawn (nobody mentions pastry); Clover needs parts; [[Aragal]]'s toy commission pays 20 gold; the name-×3 letter cuts both ways; and *who is the only man Strahd ever envied?* The full ledger lives in [[Quests & Threads]].
 
 ## Start here
 
 - 📖 **New, or catching up?** [[The Story So Far]] — the whole tale in one sitting.
-- 🎧 **Latest episode:** [[Episode 6 — Something Sweet]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
-- 📋 **Latest recap:** [[Session_006_Player_Recap|Session 6 — Recap]] · deep detail in the [[Session_006_Player_Notes|Field Notes]].
+- 🎧 **Latest episode:** [[Episode 7 — All Will Be Well]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
+- 📋 **Latest recap:** [[Session_007_Player_Recap|Session 7 — Recap]] · deep detail in the [[Session_007_Player_Notes|Field Notes]].
 
 ## The chronicle
 
@@ -43,6 +43,7 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 | # | Listen | Read |
 | --- | --- | --- |
+| 7 | [[Episode 7 — All Will Be Well\|All Will Be Well]] (56:02) | [[Session_007_Player_Recap\|Recap]] · [[Session_007_Player_Notes\|Field Notes]] |
 | 6 | [[Episode 6 — Something Sweet\|Something Sweet]] (52:35) | [[Session_006_Player_Recap\|Recap]] · [[Session_006_Player_Notes\|Field Notes]] |
 | 5 | [[Episode 5 — Friend-Shaped\|Friend-Shaped]] (49:25) | [[Session_005_Player_Recap\|Recap]] · [[Session_005_Player_Notes\|Field Notes]] |
 | 4 | [[Episode 4 — Mist Walkers\|Mist Walkers]] (49:18) | [[Session_004_Player_Recap\|Recap]] · [[Session_004_Player_Notes\|Field Notes]] |

@@ -13,8 +13,11 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 ## The living
 
 - **[[Madam Eva]]** — the ancient seer of Tser Pool. She read our fates for free, and called Sirius an imbecile. Twice.
-- **[[Ireena Kolyana]]** — the burgomaster's daughter, in our care until Vallaki. Strahd wants her.
+- **[[Ireena Kolyana]]** — the burgomaster's daughter, **delivered to Vallaki** as promised. Strahd wants her; his letters have started arriving by wolf.
 - **[[Ismark]]** — her brother, the new burgomaster. Honest about the horrors; less honest about crypts.
+- **[[Vasha and Radu]]** — the hags' living larder: Vasha free and scouting the mill; Radu still chained inside. We owe them a return trip.
+- **[[Father Lucian]]** — priest of St. Andral's in Vallaki. Kind, trusting, and keeper (with us) of the town's worst secret.
+- **[[Roger]]** — the old, old man at the Blue Water Inn. **Last of the previous Mistwalkers.** The wine is bought.
 - **[[Father Donavich]]** — the village priest. *"Do what you must."*
 - **[[Aragal]]** — Vistani rider from the Vallaki camp; wants a Blinsky toy for his daughter, will pay.
 - **[[Mary]]** — Lancelot's owner; her daughter Gertruda is missing.
@@ -23,7 +26,7 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 
 ## The unmasked
 
-- **[[Granny the Pie-Seller]]** — the kindly pie-seller is a **hag named Morgantha**, one of three at [[The Windmill|the windmill]]. **We are fighting her right now.** And still: nobody eats another pie.
+- **[[Granny the Pie-Seller]]** — the kindly pie-seller is a **hag named Morgantha**, one of three at [[The Windmill|the windmill]]. We fought the coven; **the coven won.** They hold Radu, we hold a grudge, and now we know their weakness. And still: nobody eats another pie. There are no more pies.
 
 ## The dead, and the at-rest
 

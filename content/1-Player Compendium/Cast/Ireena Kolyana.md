@@ -1,14 +1,14 @@
 ---
 title: "Ireena Kolyana"
 publish: true
-description: "The burgomaster's daughter — sharp, striking, cursed with brightness in a land that punishes it. In our care until Vallaki."
+description: "The burgomaster's daughter — sharp, striking, cursed with brightness in a land that punishes it. Delivered to Vallaki, as promised. 'Safe' is a longer conversation."
 ---
 
 > **Who:** Daughter of the late burgomaster of Barovia; [[Ismark]]'s sister.
 >
-> **Where:** Travelling **with us**, on the road to Vallaki — currently at the roadside by [[The Windmill|the windmill]], screaming at us to run.
+> **Where:** **[[Vallaki]]** — delivered, four days, as promised. Tonight at [[The Blue Water Inn]] with us; in the morning she means to lodge at [[St. Andral's Church]].
 >
-> **Status:** Alive, unhurt, and the only one of us showing any sense.
+> **Status:** Alive, unbitten, welcomed at the gate by rank — and carrying a faith in us that has become slightly alarming (see below).
 >
 > **First met:** Session 4, in the burgomaster's house.
 
@@ -27,8 +27,15 @@ description: "The burgomaster's daughter — sharp, striking, cursed with bright
 - On the road she is the sensible one: it was Ireena who insisted we find shelter before dark. (The shelter turned out to be [[The Windmill|a hags' windmill]]. Not her fault.)
 - When the fighting started she did exactly the right thing: got clear, and started screaming at *us* to do the same.
 
+## New since Vallaki (Session 7)
+
+- **The letter.** A dire wolf delivered roses and [[Strahd von Zarovich|Strahd]]'s handwriting, addressed to her — *"my love," "your destined future lover,"* and the promise that his name spoken thrice brings him to her side ([[Handouts]]). She heard it read, filed it under *the ick*, and when the party immediately began designing summon-traps, made the one reasonable request in the room: get me to safety **first**, *then* discuss using me as bait.
+- **The angel.** At the farmstead she saw Sirius's black wings unfurl — and dropped to her knees on the spot: *"an angel of the Morninglord walks with us. We cannot fail."* He knelt and prayed with her rather than correct her. She now believes the party is heaven-sent. We are variously charmed and deeply uneasy about this.
+- **Named at the gate.** She entered Vallaki openly as the Burgomaster's sister — condolences from the guards, welcome by rank. Half the gate-watch now knows a red-haired noblewoman is in town. File under: things that felt fine at the time.
+- **The church.** She sat in St. Andral's pews and glowed: *"I'm so glad I'm finally safe."* One night at the inn was all we could negotiate; she means to sleep at the church from tomorrow. **She does not know what we know** ([[St. Andral's Church]]). That conversation is coming, and nobody wants to open it.
+
 ## Our promise
 
-Escort Ireena safely to Vallaki. Four days' hard travel; **day two of four**, currently interrupted by three hags. This is the party's active charge — see [[Quests & Threads]].
+Escort Ireena safely to Vallaki. **✅ Kept** — four days, hags and all, delivered at dusk on the fourth. The promise as *written* is complete; the promise as *meant* — that she be **safe** — has quietly become the harder project, because the sanctuary she's counting on is missing its saint. See [[Quests & Threads]].
 
-*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]]*
+*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_007_Player_Notes|S7]]*

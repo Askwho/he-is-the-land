@@ -6,9 +6,9 @@ description: "A leaning windmill on a rise, two days short of Vallaki — fresh 
 
 > **Where:** On a rise beside [[The Road West|the road west]], at the end of the second day's travel from [[Tser Pool Encampment]] — roughly two days short of Vallaki.
 >
-> **Status:** ⚔️ **WE ARE HERE, MID-BATTLE.** Session 7 begins at the top of the round.
+> **Status:** 🔴 **Theirs — for now.** We fought the coven, lost, and fled with [[Vasha and Radu|Vasha]]. Radu is still chained inside; Vasha watches the mill from the treeline; and we gave our word: **we come back.**
 >
-> **First seen:** Session 6, at dusk, with a full moon somewhere above the clouds.
+> **First seen:** Session 6, at dusk, with a full moon somewhere above the clouds. Fled: Session 7, at speed.
 
 ## The place
 
@@ -25,13 +25,21 @@ We fell back to the road so Fëanor could get his magic eyes on — and five min
 - Her partner — **a werewolf born, not bitten** — is captive **inside the mill**. *"If you can save him…"*
 - The mill door burst open on **three hags**, Granny's own warped purple face among them — the thing called **Morgantha**: *"You shouldn't have poked your nose in, dearies."*
 
-The fight hangs mid-swing. Osric holds the doorway and has paid for it in blood and one private horror; Sirius stands wreathed in **black raven wings, feathers dripping from his eyes**; Lily has been told it is *unwise to attack their best customer*; [[Ireena Kolyana|Ireena]] is at the roadside screaming for us to run. **Nobody is running.**
+## How it ended (Session 7)
+
+With two of us as frogs, one invention as scrap, and all of us running. Bella frogged Sirius (*"you, winged one"*), Morgantha frogged Osric, Lily sprinted into the coven to pocket both frogs and took claws across the back for it, and Morgantha smashed **Clover** — *"and take your toy, too."* We fled downhill dragging Vasha's silver net. The hags stood in their doorway, **laughed**, and went back inside. Full accounting on [[Granny the Pie-Seller]]'s page — including the one weakness we now know: **break the coven of three, and the rest weaken.**
+
+At dawn, by our fire, Vasha told us **what the pies are made of** — see [[Vasha and Radu]]; we cremated every pie we carried — and stayed behind to **scout the mill** against our return. Radu is still in there, being harvested.
+
+## The standing debts of this place
+
+- **Radu**, chained beside the millstone. Our word is given.
+- **The coven**, intact and smug. See above re: our word.
+- **The henge** of old standing stones behind the mill — *still unexamined.* There was never a quiet moment. The stones bear the same winged, three-eyed woman as [[The Road West|the road menhir]]; whatever they are, they were there before the hags, and they'll be there when the hags are dealt with.
 
 ## Open questions
 
-- Can five of us kill three of these things?
-- Can we get the werewolf out before the moon does its work?
-- What are the pies made of? *(Nobody wants the answer. Everybody needs it.)*
-- Why does a hags' mill sit beside a henge of holy stones?
+- Can we split one hag off before the full moon comes back around for Vasha?
+- What does the henge want — and is it connected to the lady of ravens on Sirius's card?
 
-*The full record: [[Session_006_Player_Notes|S6 field notes]] · [[Session_006_Player_Recap|S6 recap]].*
+*The full record: [[Session_006_Player_Notes|S6 field notes]] · [[Session_007_Player_Notes|S7 field notes]].*

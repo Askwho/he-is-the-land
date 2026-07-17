@@ -27,6 +27,7 @@ Or just press play below — every episode also streams right here on the site.
 
 | # | Episode | Runtime | Journal |
 | --- | --- | --- | --- |
+| 7 | [[Episode 7 — All Will Be Well\|All Will Be Well]] | 56:02 | [[Session_007_Player_Recap\|Recap]] · [[Session_007_Player_Notes\|Notes]] |
 | 6 | [[Episode 6 — Something Sweet\|Something Sweet]] | 52:35 | [[Session_006_Player_Recap\|Recap]] · [[Session_006_Player_Notes\|Notes]] |
 | 5 | [[Episode 5 — Friend-Shaped\|Friend-Shaped]] | 49:25 | [[Session_005_Player_Recap\|Recap]] · [[Session_005_Player_Notes\|Notes]] |
 | 4 | [[Episode 4 — Mist Walkers\|Mist Walkers]] | 49:18 | [[Session_004_Player_Recap\|Recap]] · [[Session_004_Player_Notes\|Notes]] |

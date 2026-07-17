@@ -4,9 +4,9 @@ publish: true
 description: "Who we are — five strangers pulled through the mists, and the keepsakes that dragged us here. Roster, portraits, and current gear."
 ---
 
-*Five strangers, five keepsakes, one very good invention. Current as of **Session 5**.*
+*Five strangers, five keepsakes, one very good invention (currently in pieces; see CLOVER). Current as of **Session 7**.*
 
-## Roster (all Level 3)
+## Roster (all Level 4)
 
 | PC | Player | Ancestry / Class | Origin |
 | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Tinkerer — builds cannons, prosthetics, security systems. Alchemical tattoos u
 
 **Keepsake:** an amber-resin pendant mounted on her goggles, runes shifting inside — *"supposed to unlock huge secrets of the world."* **The only heirloom Barovia hasn't answered yet.**
 
-**CLOVER** — *Combat Laser Ordnance Vehicle for Emergency Enemy Removal.* A small, cheerful walking cannon Drew dreamed up for days and then made real mid-wolf-attack: sheet-of-flame ordnance, force blasts, and dispensed "good vibes" that turn out to be very real. Roughly an hour of power. Adorable, for something that incinerates wolves.
+**CLOVER** — *Combat Laser Ordnance Vehicle for Emergency Enemy Removal.* A small, cheerful walking cannon Drew dreamed up for days and then made real mid-wolf-attack: sheet-of-flame ordnance, force blasts, and dispensed "good vibes" that turn out to be very real. Roughly an hour of power. Adorable, for something that incinerates wolves. **Current status: smashed to scrap by Morgantha** (*"and take your toy, too"* — Session 7). Drew is sourcing parts in Vallaki. Clover will return.
 
 ## Fëanor Dawnward
 
@@ -68,17 +68,19 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 
 ---
 
-## Shared kit & assets (as of Session 6)
+## Shared kit & assets (as of Session 7)
 
-- **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) and Fëanor's **rubbing of the menhir symbol** — the same winged, third-eyed figure now carved on a henge of five stones behind a certain windmill.
+- **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) and Fëanor's **rubbing of the menhir symbol** — the same winged, third-eyed figure carved on a henge of five stones behind [[The Windmill|a certain windmill]], *still unexamined*.
 - **The reading** — five fates and five personal threads, recorded card-by-card on [[The Reading]]. And one card **only Sirius can read**, in his keeping.
-- Rations for six (including [[Ireena Kolyana|Ireena]]) plus **roughly three of Granny's pies** — now *confirmed enchanted*; eat at your own risk. Tents, packs, bedrolls, water skins, whetstone, rope.
-- **One potion of healing** — the last; there are none for sale in Barovia.
-- One pristine **wolf pelt** (lightly charred), for sale in Vallaki.
-- **A commission:** one Blinsky-original toy for Aragal's daughter Araba, worth **20 gold over cost**, deliverable to the Vistani camp outside Vallaki.
+- Rations for six (including [[Ireena Kolyana|Ireena]]). **Zero pies** — all cremated (Session 7), for reasons detailed on [[Vasha and Radu]]'s page. Tents, packs, bedrolls, water skins, whetstone, rope.
+- **One potion of healing** — the last; there are none for sale in Barovia. *(Vallaki claims a potions shop. Investigating.)*
+- One pristine **wolf pelt** (lightly charred), for sale here in Vallaki, plus **5 silver 16 copper** off the farmstead dead, and one jar of **zombie guts** (Drew insists).
+- **Silver crossbow bolts** (tested on the shambling dead: useless; presumably vital on werewolves) and a **silvered short sword.**
+- **A commission:** one Blinsky-original toy for Aragal's daughter Araba, worth **20 gold over cost**, deliverable to the Vistani camp outside Vallaki. The shop is now in walking distance.
 - The **crystal spell-focus orb** from the pale man's statue, an **unread yellow spellbook**, alchemist's fire, a bullseye lantern, thieves' tools (Lily), and two cult daggers (bone, and bat-skull).
-- **CLOVER** — on call, good vibes included.
+- **CLOVER** — 💔 smashed to scrap by Morgantha; rebuild in progress (parts, tools, coin — Vallaki has all three, at Vallaki prices).
 - Assorted Death House valuables — and Lily's standing warning that selling things from noble estates *"ends very badly."*
+- Lodging: **a six-bed room at [[The Blue Water Inn]]**, 2 gp/night, door that locks.
 
 ## Honoured alumni
 
