@@ -25,21 +25,31 @@ Real walls. A wrought-iron gate. Guards with **forms.** Entry involves a friendl
 
 ## The texture of the place
 
-A guard on every corner. Fresh posters going up over the old posters. Smiles that arrive a half-second late. Every conversation, every transaction, every arrest ends the same way — say it with us: **all will be well.** There is also something called a **Reformation Centre**, which we intend to know nothing further about.
+A guard on every corner. Fresh posters going up over the old posters. Smiles that arrive a half-second late. Every conversation, every transaction, every arrest ends the same way — say it with us: **all will be well.**
 
 And yet — mark this — **people walk these streets after dark without scurrying.** That is more than the village could say. The walls are real. What they keep in is a separate question.
 
+## The gazetteer of a well town *(Roger's gossip + the taproom, Session 8)*
+
+- **The districts:** the **square** (gallows standing, stocks always stocked) · the **Workyard** — paper mill and lumberyard, *so that's where the flyers come from* · the **Guard district**, holding a smithy and the **Reformation Centre** · the **north district** for the well-to-do · farm plots (where Roger works) · and a proper **shopping district**, the only real one in Barovia.
+- **The Reformation Centre:** people go in as themselves and come out *wrong* — fake smiles, forgotten family members, an endless supply of "all is well." [[The Bard]]'s independent assessment: dark magics, stay out. We intend to comply enthusiastically.
+- **The old Burgomaster** ruled through fear for years and then **died suddenly, fifteen years ago** — not ill, just dead — and his son took over without visible grief.
+- **Izek**, captain of the guard: a huge man with a monstrous **red right arm** like something grafted from a demon, and a temperament to match. *Do not cross him. Keep off his eyeline.*
+- **The lake to the north is haunted** — four years now: a **wailing woman**, fishermen ensorcelled into walking into the water and drowning *in front of their friends*. The fishing industry is dead. (Lake's haunted.)
+- **The dusk elves** — a dying people camped with the Vistani outside the walls, all men, because the devil killed every one of their women.
+
 ## Known establishments
 
-- **[[The Blue Water Inn]]** — warmth, wolf steak, and our beds. Also [[Roger]].
+- **[[The Blue Water Inn]]** — warmth, wolf steak, and our beds. Also [[Roger]], [[The Bard]], and [[Danika Martikov|our landlady]].
 - **[[St. Andral's Church]]** — the finest building in town, with an empty secret under the altar.
+- **[[St. Andral's Orphanage]]** — recently de-demoned. See the field notes; bring nothing but kindness.
 - **Blinsky's toy shop** — as yet unvisited; we owe [[Aragal]] a toy from it, at 20 gold over cost.
 - **The Vistani camp** sits *outside* the east gate — Vallaki admits no Vistani. We waved. The toy isn't bought yet.
 
 ## Open questions
 
-- What exactly happens at a Festival of the Blazing Sun — a festival of the *sun*, in the devil's land, enforced at pike-point? Lathander's? Mockery? Both?
-- Who has the bones of St. Andral? (The town doesn't know they're gone. Keep it that way.)
-- What is the Reformation Centre reforming?
+- What exactly happens at a Festival of the Blazing Sun — a festival of the *sun*, in the devil's land, enforced at pike-point? Lathander's? Mockery? Both? **Six days to find out.**
+- Who has the bones of St. Andral? Our only suspect just plausibly denied everything. (The town doesn't know they're gone. Keep it that way.)
+- **Vallaki was the one place spared in the bad times** — Roger thinks *because of the church.* Sit with that.
 
-*The full record: [[Session_007_Player_Notes|S7 field notes]] · [[Session_007_Player_Recap|S7 recap]].*
+*The full record: [[Session_007_Player_Notes|S7 field notes]] · [[Session_008_Player_Notes|S8 field notes]].*

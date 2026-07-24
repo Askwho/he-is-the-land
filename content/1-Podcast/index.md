@@ -27,6 +27,7 @@ Or just press play below — every episode also streams right here on the site.
 
 | # | Episode | Runtime | Journal |
 | --- | --- | --- | --- |
+| 8 | [[Episode 8 — Don't Be Boring\|Don't Be Boring]] | 1:03:30 | [[Session_008_Player_Recap\|Recap]] · [[Session_008_Player_Notes\|Notes]] |
 | 7 | [[Episode 7 — All Will Be Well\|All Will Be Well]] | 56:02 | [[Session_007_Player_Recap\|Recap]] · [[Session_007_Player_Notes\|Notes]] |
 | 6 | [[Episode 6 — Something Sweet\|Something Sweet]] | 52:35 | [[Session_006_Player_Recap\|Recap]] · [[Session_006_Player_Notes\|Notes]] |
 | 5 | [[Episode 5 — Friend-Shaped\|Friend-Shaped]] | 49:25 | [[Session_005_Player_Recap\|Recap]] · [[Session_005_Player_Notes\|Notes]] |

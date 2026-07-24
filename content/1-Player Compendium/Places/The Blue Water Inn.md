@@ -18,17 +18,18 @@ Kept by **Urwin Martikov** and his wife **Danika**, with their boys **Brom and B
 
 ## The regulars
 
-- **A musician in the corner** dressed in colors so bright they can only be a very deliberate statement — an outfit assembled, seemingly on purpose, to be *as opposite from a Vistani as cloth allows.* We have not yet asked him why.
+- **[[The Bard]]** — the defiantly colorful musician, now properly met. Wax jar says "Riptarvo's." Says the devil's name out loud like it's weather. *Watching us with great interest.*
+- **The Wachter lads, Karl & Nikolai** — [[The House of Wachter|the noble house's]] rowdy sons, carted home nightly by a long-suffering manservant. Wine makes them honest about their sister.
 - **Two happy drunks**, professionally happy.
-- And at a corner table: **[[Roger]]** — a very old man who went **white as a sheet** at the sight of the five of us. Urwin's quiet explanation: he is *what remains of the previous set of Mistwalkers*, from the **bad times**, when Urwin was a wee lad. There were others once. There is only Roger now.
+- And at a corner table: **[[Roger]]** — last of the previous Mistwalkers. **The tale is now told** (Session 8, over the wine we bought), and his page holds all of it. *One story per glass: "buy the wine again some other night."*
 
-## Standing business
+## What the bar gave up (Session 8)
 
-**Sirius has bought two glasses of wine.** One is for Roger. That conversation is where Session 8 begins.
+**[[Danika Martikov|Danika's]] family owns the winery in the south** — the wine that *"keeps this entire bubble afloat"* — and the latest shipment is **days late**, which never happens. If our travels run west and south, we've been asked, quietly, to look in. She filled in Sirius's map herself. And when the raven-man's death came up, she **winced** — the Martikovs and the ravens keep ending up in the same sentences.
 
 ## Open questions
 
 - What do the Martikovs know about the bad times — and about us?
-- Why does a man dress *that* hard against being mistaken for a Vistani?
+- Why is the wine late — and what happens to a town like this when it runs dry?
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_007_Player_Recap|S7 recap]].*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]].*

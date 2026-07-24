@@ -17,7 +17,13 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 - **[[Ismark]]** — her brother, the new burgomaster. Honest about the horrors; less honest about crypts.
 - **[[Vasha and Radu]]** — the hags' living larder: Vasha free and scouting the mill; Radu still chained inside. We owe them a return trip.
 - **[[Father Lucian]]** — priest of St. Andral's in Vallaki. Kind, trusting, and keeper (with us) of the town's worst secret.
-- **[[Roger]]** — the old, old man at the Blue Water Inn. **Last of the previous Mistwalkers.** The wine is bought.
+- **[[Roger]]** — last of the previous Mistwalkers. **The tale is told**: his band killed their destined ally, and the land never forgave them. *Don't be boring. Don't kill the ravens.*
+- **[[Danika Martikov]]** — our landlady, whose family **owns the winery** — and who winced at exactly the wrong moment.
+- **[[The Bard]]** — "Riptarvo," who says the devil's name out loud and watches us *with great interest*. No mere bard.
+- **[[The House of Wachter]]** — Lady Wachter ("talk to Mother"), the rowdy lads Karl & Nikolai, and poor mad Stella.
+- **[[Milivoj]]** — the orphanage's kind giant; our prime suspect, cursed, woken — and denying everything.
+- **[[Headmistress Claudia]]** — holding twenty orphans together with no funds. We started badly and ended allies.
+- **[[Mostly Felix]]** — the boy in the attic, and the shadow demon that used to answer for him. **The demon is in the locket now.**
 - **[[Father Donavich]]** — the village priest. *"Do what you must."*
 - **[[Aragal]]** — Vistani rider from the Vallaki camp; wants a Blinsky toy for his daughter, will pay.
 - **[[Mary]]** — Lancelot's owner; her daughter Gertruda is missing.

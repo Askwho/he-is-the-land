@@ -13,5 +13,6 @@ description: "The geography of our misfortune — everywhere we've been, and eve
 - **[[Tser Pool Encampment]]** — the Vistani camp, and the tent where our fates were read.
 - **[[The Windmill]]** — pies, hags, a henge, a silver net. We fought; we lost; we owe it a return visit.
 - **[[Vallaki]]** — the walled town at the road's end. Mandatory festivals, registered broom handles, smiling guards. **We are here.** All will be well.
-- **[[The Blue Water Inn]]** — the warmest room in Barovia, and our beds. Also Roger.
+- **[[The Blue Water Inn]]** — the warmest room in Barovia, and our beds. Also Roger, the bard, and a landlady with a winery.
 - **[[St. Andral's Church]]** — the finest building in town, missing the one thing that made it matter. *Keep the secret.*
+- **[[St. Andral's Orphanage]]** — twenty children, a cursed groundskeeper, a padlocked attic. Demon-free as of Session 8. You're welcome.

@@ -68,13 +68,15 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 
 ---
 
-## Shared kit & assets (as of Session 7)
+## Shared kit & assets (as of Session 8)
 
-- **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) and Fëanor's **rubbing of the menhir symbol** — the same winged, third-eyed figure carved on a henge of five stones behind [[The Windmill|a certain windmill]], *still unexamined*.
-- **The reading** — five fates and five personal threads, recorded card-by-card on [[The Reading]]. And one card **only Sirius can read**, in his keeping.
-- Rations for six (including [[Ireena Kolyana|Ireena]]). **Zero pies** — all cremated (Session 7), for reasons detailed on [[Vasha and Radu]]'s page. Tents, packs, bedrolls, water skins, whetstone, rope.
+- **⚠️ The rusted locket** — oval, X-scratched, Celestial inside, **a shadow demon sealed within** ([[Mostly Felix]] has the rules). It cannot get out unless someone opens the lid. **Nobody opens the lid.** Disposition under discussion; discretion mandatory.
+- **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) — now **filled in by [[Danika Martikov|Danika]]'s own hand** (Vallaki → Krezk → the winery) — and Fëanor's **rubbing of the menhir symbol**, the same winged, third-eyed figure carved on a henge behind [[The Windmill|a certain windmill]], *still unexamined*.
+- **The reading** — five fates and five personal threads, recorded card-by-card on [[The Reading]] — now with **Roger's cards beside ours**. And one card **only Sirius can read**, in his keeping.
+- **CLOVER, mark II** — rebuilt (Session 8) and better: pulses **shielding energy** over everyone near. First build died to a hag; second build debuted against a demon.
+- Rations for six (including [[Ireena Kolyana|Ireena]]). **Zero pies, forever** — and as of Session 8, **Lily doesn't want one.** Tents, packs, bedrolls, water skins, whetstone, rope.
 - **One potion of healing** — the last; there are none for sale in Barovia. *(Vallaki claims a potions shop. Investigating.)*
-- One pristine **wolf pelt** (lightly charred), for sale here in Vallaki, plus **5 silver 16 copper** off the farmstead dead, and one jar of **zombie guts** (Drew insists).
+- One pristine **wolf pelt** (lightly charred), still unsold, plus **5 silver 16 copper** off the farmstead dead, and one jar of **zombie guts** (Drew insists).
 - **Silver crossbow bolts** (tested on the shambling dead: useless; presumably vital on werewolves) and a **silvered short sword.**
 - **A commission:** one Blinsky-original toy for Aragal's daughter Araba, worth **20 gold over cost**, deliverable to the Vistani camp outside Vallaki. The shop is now in walking distance.
 - The **crystal spell-focus orb** from the pale man's statue, an **unread yellow spellbook**, alchemist's fire, a bullseye lantern, thieves' tools (Lily), and two cult daggers (bone, and bat-skull).

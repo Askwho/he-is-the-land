@@ -120,13 +120,32 @@ Which has, in his words, *only added steel to my resolve.* He thinks **her raven
 - **Sirius connected the lady of ravens to his own heirloom** — the raven feather his grandfather gave him, his family's token of good luck. An astute observation, and he'd only had one glass of wine.
 - **All five heirlooms are now named** — banner, stone, tooth, amber by the cards themselves; the feather by the lady only Sirius can see. *"You are here for a reason."*
 
+## Two readings, side by side *(Session 8)*
+
+[[Roger]] kept his band's five fate-cards for forty-five years, wrapped in oilcloth — *"I don't know why I held on to them"* — and threw them on our table. We compared:
+
+| Fate | Roger's band (~45 years ago) | Us |
+| --- | --- | --- |
+| Knowledge of the enemy | the Healer | the Healer — **match** |
+| Protection | the Paladin | the Paladin — **match** |
+| Power | the Avenger | the Avenger — **match** |
+| **The ally** | **the Raven** | the Executioner — *the hunter of hunters* |
+| The devil | *the artifact* | the Broken One — *the tomb of the only man he ever envied* |
+
+What the comparison taught us:
+
+- **The land's gifts barely move.** Three cards identical, forty-five years apart. His band traced their Healer card to **the glowing pool behind the walls of Krezk** — the same *high water aglow with the light of the sun* on our card. **The gift of knowledge is at Krezk.** Confirmed twice over, a lifetime apart. Best lead we hold.
+- **The ally is each band's own — and it can be lost.** Roger's destined ally was *the raven*. His band met a half-raven man on their first road, speaking peace, and **killed it before it could flee.** They murdered their own ally card and never knew it. That is the day Roger says they lost. Ours is still out there: *the hunter of hunters.* **Pray we recognize them before our swords do.**
+- **The ending is each band's own too.** His road to the devil ran through *an artifact*; ours runs through *a tomb*. Different doors, same room.
+
 ## Questions
 
 - Who is the **lady of ravens** only Sirius can see — and why does she seem *familiar* to him? Who read his fate already?
-- *"What was stolen is not fully owned, and the land can be reclaimed."* Stolen by whom? Reclaimed how?
+- *"What was stolen is not fully owned, and the land can be reclaimed."* Stolen by whom? Reclaimed how? *(When one of us said as much to [[The Bard]], he called it "a very astute thing to say." Noted.)*
 - Who is **the only man the devil ever envied**? The Vistani don't know; if the answer exists, it's written down somewhere.
 - What must Fëanor **choose** at dawn?
 - What waits in a *den of beasts*?
+- **The hunter of hunters:** when they step out of the woods — *will we know them?*
 
 ---
 

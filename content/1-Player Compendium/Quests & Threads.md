@@ -6,19 +6,21 @@ description: "The party's ledger — active charges, the reading that is now our
 
 *The party's ledger. If we owe it, worry about it, or can't stop thinking about it, it's on this page.*
 
-## 🍷 Right now
+## 🕯️ Right now
 
-- **We are at [[The Blue Water Inn]] in [[Vallaki]], and the wine is bought.** Two glasses. One is for **[[Roger]]** — the last of the previous Mistwalkers, who looked at the five of us like ghosts. **Session 8 begins at his table.**
+- **We are at [[St. Andral's Orphanage]], mid-conversation with a newly awake [[Milivoj]]** — who, pressed about the bones of St. Andral, said: *"I didn't touch any bones. What are you talking about?"* The demon is in the locket. The children are in the garden. The interrogation was still in progress when the minutes closed. **Session 9 opens on his answer.**
 
 ## ⚔️ Active
 
-- **Find the bones of St. Andral.** The relic that sanctified [[St. Andral's Church]] — the thing that's kept the devil out of Vallaki for two hundred years — was **stolen six days before we arrived.** The town doesn't know. [[Ireena Kolyana|Ireena]] doesn't know, *and she plans to sleep there.* Lead: **Milivoj**, the groundskeeper who asked little Yeska about church secrets right before the theft. Tomorrow morning: the orphanage. *Given by [[Father Lucian]], Session 7 — technically he just told us his worst secret and looked hopeful.*
-- **Go back for Radu. Finish the hags.** Our word, given to [[Vasha and Radu|Vasha]] at the fire: *we come back for Radu, and we finish this.* She's watching the mill until we do. The way in, per Fëanor's lore: **break the coven of three and the rest weaken.** We do not go back until we can split one off or hit far harder. See [[The Windmill]] · [[Granny the Pie-Seller]].
-- **Attend the Festival of the Blazing Sun.** Seven days from our arrival. Attendance mandatory; *failure to attend is punishable by punishment* ([[Handouts]]). We plan to be exactly as unremarkable as five armed Mistwalkers and a device-rebuilding artificer can be.
-- **A toy for Araba.** [[Aragal]] will pay **20 gold on top of cost** for a **Blinsky original**, delivered to his camp outside the walls. The shop is now a short walk away. Still the one Barovian errand with nothing obviously wrong with it.
-- **Talk to Roger.** What happened to the previous Mistwalkers is not idle curiosity — it may be the syllabus.
-- **Rebuild Clover.** Smashed to scrap by Morgantha (*"and take your toy, too"*). Drew needs parts, a workbench, and money we don't currently have. Related: sell the wolf pelt.
-- **Keep an eye out for Gertruda.** [[Mary]]'s missing daughter. A half-promise, honestly made. Ismark fears she's dead; the castle and the witches of Berez are the grimmer alternatives.
+- **Find the bones of St. Andral.** The relic that kept the devil out of Vallaki — stolen six days before we arrived, and our **only suspect just plausibly denied everything.** What survives of the trail: Milivoj's questions to Yeska, his *unexplained money*, and six days to the mandatory festival. The town still doesn't know. [[Ireena Kolyana|Ireena]] still doesn't know — *and she still plans to sleep there.* **Roger thinks the church is why Vallaki was spared in the bad times.** No pressure.
+- **Guard the locket. Tell no one.** A shadow demon is sealed in a rusted locket in our packs ([[Mostly Felix]] has the full rules). It cannot get out unless someone opens the lid; destroying it only frees the thing elsewhere. Working plan: somewhere warded, somewhere secret, and **nobody talks about the locket.**
+- **Find Lazlo, Hans, and Franz.** Three orphan boys, missing about a week — fled, Claudia believes, in terror of Felix. Two hunters (hired with Milivoj's mystery money, found through the Blue Water) are already searching. First step: ask at the inn who they are.
+- **Look in on the winery.** [[Danika Martikov|Danika]]'s quiet ask: the Martikov shipment is **days late** — that never happens. Route west via Krezk, ~a week; her map is on Sirius's person; her wine, reportedly, opens every gate including Krezk's.
+- **Go back for Radu. Finish the hags.** Our word, given to [[Vasha and Radu|Vasha]] at the fire. She's watching the mill until we return. The way in, per Fëanor's lore: **break the coven of three and the rest weaken.** See [[The Windmill]] · [[Granny the Pie-Seller]].
+- **Attend the Festival of the Blazing Sun.** **Six days.** Attendance mandatory; *failure to attend is punishable by punishment* ([[Handouts]]).
+- **A toy for Araba.** [[Aragal]] pays **20 gold over cost** for a **Blinsky original**. Still unbought; still the one Barovian errand with nothing obviously wrong with it.
+- **The haunted lake.** North of town: a wailing woman, four years of ensorcelled drownings, a dead fishing industry. Filed under *jobs*, pending everything else. (Lake's haunted.)
+- **Keep an eye out for Gertruda.** [[Mary]]'s missing daughter. A half-promise, honestly made.
 
 ## 🗺️ The Reading — our map now
 
@@ -26,51 +28,57 @@ description: "The party's ledger — active charges, the reading that is now our
 
 | Fate | Card | Where it points |
 | --- | --- | --- |
-| **Knowledge of our enemy** | the Healer | *"High water aglow with the light of the sun, hidden behind the walls of man"* — far to the west |
+| **Knowledge of our enemy** | the Healer | *"High water aglow with the light of the sun, hidden behind the walls of man"* — **now confirmed: KREZK.** Roger's band traced their identical card to the glowing pool behind Krezk's walls. Our best lead, corroborated forty-five years apart |
 | **Protection** | the Paladin | *"The house of a dragon"*, a heart once pure, corrupted by hatred — bring light and peace |
 | **Power** | the Avenger | *"The shrine of murdered gods"* — start in an *amber palace of darkness* |
-| **An ally** | the Executioner | *"A hunter of hunters"* — stalking the mightiest prey of all. Not [[Aragal]]; we checked |
+| **An ally** | the Executioner | *"A hunter of hunters"* — stalking the mightiest prey of all. Not [[Aragal]]; we checked. **And now we know what happens to a band that fails to recognize its ally: see [[Roger]]** |
 | **The devil himself** | the Broken One | *"The tomb of the only man he ever envied"* — pursue him into the depths of darkness |
 
-And five personal threads: Osric must **carry his banner to the house of the fallen dragon and kneel**; Fëanor must **stand in sun-glowing water at dawn and choose**; Lily must **starve the sweet thing that has taken root in her** and carry her tooth to *a den of beasts far west*; Drew's amber holds **a secret her blood has carried for generations**, sealed deep in the mountains where knowledge is *bought dearly*; and Sirius — Sirius got a card that is **blank to everyone but him**, because *his fate has already been read* — and the **lady of ravens** he sees on it has *spoken*.
+And five personal threads: Osric must **carry his banner to the house of the fallen dragon and kneel**; Fëanor must **stand in sun-glowing water at dawn and choose**; Lily must ~~starve the sweet thing~~ — **done; she starved it** — and carry her tooth to *a den of beasts far west*; Drew's amber holds **a secret her blood has carried for generations**, sealed deep in the mountains where knowledge is *bought dearly*; and Sirius — Sirius got a card that is **blank to everyone but him**, because *his fate has already been read* — and the **lady of ravens** he sees on it has *spoken*.
 
 ## 👁️ Watch-list
 
 *Not quests. Worries.*
 
-- **Lily, days four and five.** The pies are ash (*cremated* — Sirius insisted on the word, and once you know what they were made of, it's the right one), but the hook is still in her. Every dawn, for one hour, a pie matters more than breathing — a little less each day. She consents to the tree and the rope at night; Sirius has himself tied alongside, dagger in hand; she passed the fake-pie test with pure politeness and won her daylight freedom back. She is carrying it. **Nobody mentions pastry in her hearing.**
-- **The letter's mechanism.** *Speak his name thrice and he comes.* We know it, Ireena knows it, and he **wrote it down for us** — which is the part that keeps Fëanor up at night. Is there any way to make that trap ours instead of his? (The volcano proposal remains under survey. Barovia appears to contain no volcanoes.)
-- **Ireena and the church.** She believes St. Andral's is her sanctuary. We know it's a beautiful shell. Every day we don't tell her is a day the lie compounds — and a day she plans to *sleep there*.
-- **Sirius's new devotee.** Ireena believes an angel of the Morninglord walks with us and that *we cannot fail.* In a town about to hold a mandatory festival of the sun, word of an "angel" could travel in ways we can't steer.
-- **Sirius, post-bite.** Eva looked at his collar a beat too long. The Vistani noticed things we didn't ask about. The bacon test remains negative; the watch continues.
-- **Sirius and the lady of ravens.** His card is blank to the rest of us — but *he* sees a lady of ravens on it, and she has **spoken to him**: *"what was stolen is not fully owned, and the land can be reclaimed."* And now **the raven itself is back** — the same tufty-feathered bird from the village, days of travel behind us, that Lily's beast-speech simply *could not reach*. Not an animal. Hers, we think. Cautiously, we are glad of it.
-- **The henge behind the windmill — still unexamined.** There was never a quiet moment. The stones wear the same winged, three-eyed woman as the [[The Road West|menhir]]. When we go back for Radu, we look.
-- **Kiril's pack, far west.** The *den of beasts* where Lily's tooth is needed. Their alpha would sooner tear us apart than talk; the passphrase *"Radu and Vasha need help"* might buy an audience. Do we go as messengers, or as prey?
-- **"One of my pups managed to grab you."** Strahd's words. Still unexplained.
-- **The lights on the road.** Crying *"help me"* from the trees. Our half-promise to look on the way back is still on the books.
-- **Who is the only man Strahd ever envied?** Seven hundred years unchanged, say the Vistani — nobody alive remembers. The answer is likely **written down** somewhere. Vallaki has printers, a Baron, and at least one very old man — see [[Roger]].
+- **Don't kill the ravens.** Roger's law, given twice, unexplained. His band killed one raven-shaped stranger and the whole land closed against them. One of us carries a raven's feather; a raven that is not an animal follows us; our landlady winced. **Whatever the ravens are, they are watching, and we are polite to them.**
+- **The Martikovs and the ravens.** [[Danika Martikov|Danika]] winced at the raven-man's death. The family winery shut Roger's band out the week they killed it. Urwin's wine "keeps this bubble afloat." How deep does that family go? *(Recorded without conclusion. Deliberately.)*
+- **If not Milivoj — who?** He asked Yeska the question; the bones vanished four days later; he denies it to a wall of armed adults without blinking — and he *came into money* nobody can explain. Innocent, enchanted, or lying? And who cursed him — was the sickness only ever the demon staking its claim?
+- **Who was Felix before the demon** — and who stabbed his parents?
+- **What is [[The Bard]]?** He mocks the name-law, knows usurped fey powers by their stories, spotted our fate-blessing on sight, and watches us with great interest. His advice: *prove yourselves a bit more.* Ally, examiner, or something worse?
+- **Ireena and the church.** She believes St. Andral's is her sanctuary. We know it's a beautiful shell — and our leading plan for the locket is *the same building.* Every day we don't tell her, the lie compounds.
+- **The letter's mechanism.** *Speak his name thrice and he comes.* We know it, Ireena knows it, and he **wrote it down for us.** The volcano proposal remains under survey. Barovia appears to contain no volcanoes.
+- **Sirius's new devotee.** Ireena believes an angel of the Morninglord walks with us. In a town about to hold a mandatory sun festival, word of an "angel" could travel in ways we can't steer.
+- **Sirius, post-bite.** The bacon test remains negative; the watch continues. Noted: the demon's possession *bounced off* him. We are choosing to find that reassuring.
+- **Sirius and the lady of ravens.** Her one line — *"what was stolen is not fully owned, and the land can be reclaimed"* — made [[The Bard]] look up very sharply when paraphrased in his hearing. *"A very astute thing to say, sir."* Interesting.
+- **The henge behind the windmill — still unexamined.** When we go back for Radu, we look.
+- **Kiril's pack, far west.** The *den of beasts* where Lily's tooth is needed — and now, perhaps, where three orphan boys' trail leads. The passphrase *"Radu and Vasha need help"* might buy an audience.
+- **"One of my pups managed to grab you."** Still unexplained.
+- **The lights on the road.** Our half-promise to look on the way back is still on the books.
+- **Who is the only man Strahd ever envied?** Seven hundred years, nobody remembers, and the answer is *written down* somewhere. The Bard tells old stories; the Wachters keep a library; the Baron's son keeps books. One of these will pay out.
 
 ## 🧩 The mystery of the heirlooms — FIVE FOR FIVE
 
-Five keepsakes dragged five strangers through the mists. **The cards have now named all of them.**
+Five keepsakes dragged five strangers through the mists. **The cards have now named all of them** — and Roger's tale added a grim footnote: *his* band carried trinkets too. He burned his the day his destiny died.
 
 | Keepsake | Bearer | What Barovia has said about it |
 | --- | --- | --- |
 | Tattered banner, bird-like sigil | Osric | The sigil crowns the Gates; the cards: *"your blood marched beneath that banner… carry it to the house of the fallen dragon. Kneel, and answer for your blood."* |
-| Raven feather | Sirius | His fate *"already read"*; his card blank to all but him — and the **lady of ravens** on it (her ravens "are our friends") is, he suspects, tied to the feather itself. |
+| Raven feather | Sirius | His fate *"already read"*; his card blank to all but him — and the **lady of ravens** on it (her ravens "are our friends") is, he suspects, tied to the feather itself. Roger, on hearing of it, said only: *don't kill the ravens.* |
 | Flat stone, three-pointed star | Fëanor | Carved into the roadside menhir; glows at the new moon. The cards: *"the stone in your pocket remembers a fire you have never felt."* |
 | Lacquered dire-wolf tooth | Lily | The cards: *"the tooth you carry mends what otherwise cannot be healed — far to the west there is a den of beasts; one who howls there will need it."* |
-| Amber-resin pendant, shifting runes | Drew | **Answered at last.** *"A secret sealed in amber… your blood has carried the question for generations. The message is sealed in amber deep in the mountains — knowledge there is bought dearly."* |
-
-Eva said it straight: **we are here for a reason.** All five of us. Open questions: who is the winged woman with three eyes? Who is the lady of ravens, and who read Sirius's fate? And what will Drew's amber cost?
+| Amber-resin pendant, shifting runes | Drew | *"A secret sealed in amber… your blood has carried the question for generations. The message is sealed in amber deep in the mountains — knowledge there is bought dearly."* |
 
 ## ✅ Kept & done
 
-- **Escort [[Ireena Kolyana|Ireena]] to Vallaki** — **done.** Four days, as promised: through the reading, past the windmill, under the letter, to the east gate at dusk. *Given by [[Ismark]], Session 4; delivered Session 7.* The promise as written is kept. The promise as *meant* — see the watch-list.
-- **Free the woman in the silver net** — **done, half.** [[Vasha and Radu|Vasha]] is out and free; her thank-you at dawn was worth the claw-marks. The other half of that promise is named Radu, and it's in the Active column where it belongs.
-- **Sit for the reading** — done, freely given, no silver asked. *"I have read what may be, not what must be. You could still fail."*
-- **Bury Rose, Thorn, and the maid** — done, beyond the mists of [[Death House]]. They thanked us and named the devil.
+- **Lily is free.** Six days of iron will, one rope, one tree, one bed, two fake-pie tests — and on the sixth morning, *nothing*. The hags' hook broke before she did. Exhaustion remains; the craving is gone; recovery proceeded. **Best news in the ledger.**
+- **The orphanage stands.** Demon fought, sealed, and pocketed; twenty children safe in the garden; Milivoj's curse broken; Clover's rebuild *and* combat debut on the same morning. Also: we promised the kids we'd come back for Felix. That one counts double.
+- **Talk to Roger** — **done, and worth every copper of the wine.** The whole tale is on [[Roger]]. We are taking the syllabus seriously.
+- **Rebuild Clover** — **done.** Rebuilt, beeping, and pulsing shielding energy over everyone in reach. First build destroyed by a hag; second build debuted against a demon. Drew abides.
+- **Escort [[Ireena Kolyana|Ireena]] to Vallaki** — **done.** Four days, as promised. The promise as *meant* — see the watch-list.
+- **Free the woman in the silver net** — done, half. The other half is named Radu, and it's in the Active column where it belongs.
+- **Sit for the reading** — done, freely given. *"I have read what may be, not what must be. You could still fail."*
+- **Bury Rose, Thorn, and the maid** — done, beyond the mists of [[Death House]].
 - **Refuse the altar** — the house demanded one death; it got a broken altar and a shattered crystal heart instead.
-- **Bury the old burgomaster** — carried the coffin the long mile, dug the grave, stood witness. *For [[Ismark]] and [[Ireena Kolyana|Ireena]].*
-- **Free [[Doru]]** — not the rescue his father prayed for, but mercy, given as gently as this land allows.
+- **Bury the old burgomaster** — carried, dug, witnessed. *For [[Ismark]] and [[Ireena Kolyana|Ireena]].*
+- **Free [[Doru]]** — mercy, given as gently as this land allows.
 - **Return [[Lancelot]] to [[Mary]]** — one purely good deed in a bad country.
