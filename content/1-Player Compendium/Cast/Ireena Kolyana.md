@@ -40,7 +40,7 @@ We came back from a dinner party to a taproom gone completely silent: **Ireena o
 
 The song is the thing. She *dreamed* it — *"I've had it in my head forever."* Two walked together, one wore the morning golden and one wore the night blue; the dark one went begging to *a whisper in the stone* and came back with *a hunger of its own*; he *drank his brother's wine*; he *hung his cloak across the sun and nailed it to the sky*, and the valley has had no summer since. And then a second voice: a widow, *a girl beneath the lake*, hunted through harvest and snow by *"a raven on the shoulder of the shadow of a man"* — and the refrain none of us have stopped hearing:
 
-> *"They'll spin it, and they'll spin it, and I'll make another girl."*
+> *"They'll snip it, and they'll spin it, and I'll wake another girl."*
 
 She sang that, jumped off the stage, and asked if we'd had a nice day. She doesn't know where the song came from. We are afraid we do.
 

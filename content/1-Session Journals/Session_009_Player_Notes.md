@@ -57,7 +57,7 @@ We argued the whole walk home about what it means. One theory: she's innocent an
 
 Back at the Blue Water, we found **Ireena on stage**, flushed and delighted, singing with the band — apparently for the first time in her life with actual accompaniment, her brother never having allowed it.
 
-The song is the thing. She says she *dreamed* it — "I've had it in my head forever." It tells of two who walked together, "one wore the morning golden, and one wore the night blue." The dark one went begging to *a whisper in the stone* and came back down the mountain *with a hunger for its own*; he *drank his brother's wine*; he *hung his cloak across the sun and nailed it to the sky*, and the valley has had no summer since. And then a second voice: a widow, *a girl beneath the lake*, hunted through harvest and through snow by a man she somehow knows — *"a raven on the shoulder of the shadow of a man"* — and the refrain that none of us have stopped hearing: **"They'll spin it, and they'll spin it, and I'll make another girl."**
+The song is the thing. She says she *dreamed* it — "I've had it in my head forever." It tells of two who walked together, "one wore the morning golden, and one wore the night blue." The dark one went begging to *a whisper in the stone* and came back down the mountain *with a hunger for its own*; he *drank his brother's wine*; he *hung his cloak across the sun and nailed it to the sky*, and the valley has had no summer since. And then a second voice: a widow, *a girl beneath the lake*, hunted through harvest and through snow by a man she somehow knows — *"a raven on the shoulder of the shadow of a man"* — and the refrain that none of us have stopped hearing: **"They'll snip it, and they'll spin it, and I'll wake another girl."**
 
 Ireena — who does not know where she learned it, who dreamed it, who is the girl every dark thing in this valley keeps reaching for — sang that, jumped off the stage, and asked if we'd had a nice day. We said we'd had a day.
 
@@ -105,7 +105,7 @@ Which is where these minutes close: the bones of St. Andral were carried to a cr
 - **What is Lady Wachter?** Not a fiend, not undead — but she went away grieving for two weeks and came home with a demon on a perch and peace in her heart. Who was the "dear friend" she can't recall? What did she trade?
 - **Who are the Ravens of Barovia**, how do they get into locked rooms, and will they come to the lake?
 - **Where did the fiend-raven fly** — and who is it reporting to about us?
-- **Ireena's song:** two brothers, morning-gold and night-blue, a whisper in the stone, a hunger, a stolen sun — and "they'll spin it and make *another girl*." Why is that song in *her* head?
+- **Ireena's song:** two brothers, morning-gold and night-blue, a whisper in the stone, a hunger, a stolen sun — and "they'll snip it, and they'll spin it, and I'll wake *another girl*." Why is that song in *her* head?
 - **What wrong was Bluto trying to right** at a lake that drowns men — and is he still alive to be rescued?
 - **The abbot** heals minds and raises the dead in a land where the dead should stay down. What is he, and what will he want for the locket?
 - **Five days to the festival**, and the church is still unhallowed. Can we get the bones back in time?
