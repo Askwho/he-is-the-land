@@ -14,7 +14,7 @@ description: "The warmest room in Barovia — wolf steak, beet soup, two gold a 
 
 Kept by **Urwin Martikov** and his wife **Danika**, with their boys **Brom and Bray** permanently underfoot and reportedly under tables. Warm light, real food, honest prices, and the first room in Barovia where nobody watched us eat. After the village, the windmill, and the road, walking in here felt like being handed something we'd forgotten we were owed.
 
-**The menu, priced for the road-weary:** hot beet soup, potato pottage, potato bread — coppers. Wolf steak, properly done — silver. Wine flows and is not yet a problem. Six beds, two gold, a door that locks.
+**The menu, priced for the road-weary:** hot beet soup, potato pottage, potato bread — coppers. Wolf steak, properly done — silver. Six beds, two gold, a door that locks — *mostly* (see below). **The wine is now, officially, a problem: rationing has started.** Urwin watered our round. The Wizards of Wine matter is no longer someone else's.
 
 ## The regulars
 
@@ -27,9 +27,16 @@ Kept by **Urwin Martikov** and his wife **Danika**, with their boys **Brom and B
 
 **[[Danika Martikov|Danika's]] family owns the winery in the south** — the wine that *"keeps this entire bubble afloat"* — and the latest shipment is **days late**, which never happens. If our travels run west and south, we've been asked, quietly, to look in. She filled in Sirius's map herself. And when the raven-man's death came up, she **winced** — the Martikovs and the ravens keep ending up in the same sentences.
 
+## What the inn gave up (Session 9)
+
+- **[[Ireena Kolyana|Ireena]] sang from the stage** — a full room gone completely quiet, a song she *dreamed*, and a refrain we haven't stopped hearing. Her page has it.
+- **The twins hired us**: their friend **Bluto** is missing at the haunted lake — 70–80 gold from Mama to bring him home ([[Quests & Threads]]).
+- And in our **locked** room, windows secured, a letter lay in the middle of the floor. [[Danika Martikov|Danika]] saw no one enter. See [[The Ravens of Barovia]].
+
 ## Open questions
 
 - What do the Martikovs know about the bad times — and about us?
 - Why is the wine late — and what happens to a town like this when it runs dry?
+- Who delivers letters through locked doors — and did anyone *carry* it, or did it simply arrive?
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]].*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]].*

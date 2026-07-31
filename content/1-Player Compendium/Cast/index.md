@@ -20,8 +20,10 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 - **[[Roger]]** — last of the previous Mistwalkers. **The tale is told**: his band killed their destined ally, and the land never forgave them. *Don't be boring. Don't kill the ravens.*
 - **[[Danika Martikov]]** — our landlady, whose family **owns the winery** — and who winced at exactly the wrong moment.
 - **[[The Bard]]** — "Riptarvo," who says the devil's name out loud and watches us *with great interest*. No mere bard.
-- **[[The House of Wachter]]** — Lady Wachter ("talk to Mother"), the rowdy lads Karl & Nikolai, and poor mad Stella.
-- **[[Milivoj]]** — the orphanage's kind giant; our prime suspect, cursed, woken — and denying everything.
+- **[[The House of Wachter]]** — Lady Fiona Wachter (our employer now, 50 gold), the rowdy lads Karl & Nikolai, poor mad Stella — and the raven on the perch that was not a raven.
+- **[[Milivoj]]** — the orphanage's kind giant. Cursed victim, confessed bone thief, confined on his word. He would do it again.
+- **[[Henrik the Coffin Maker]]** — the name on the nails. Session 10 opens at his door.
+- **[[The Abbot]]** — the abbot above Krezk, who heals bodies and *minds*, and reportedly raises the dead. Everything about him comes with a pause first.
 - **[[Headmistress Claudia]]** — holding twenty orphans together with no funds. We started badly and ended allies.
 - **[[Mostly Felix]]** — the boy in the attic, and the shadow demon that used to answer for him. **The demon is in the locket now.**
 - **[[Father Donavich]]** — the village priest. *"Do what you must."*
@@ -29,6 +31,10 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 - **[[Mary]]** — Lancelot's owner; her daughter Gertruda is missing.
 - **[[Bildrath]]** — the village merchant and his "outsider special" prices.
 - **[[The Man in the Tent]]** — he knew all five of our names. He was the doorman; the tent was Eva's.
+
+## The unseen
+
+- **[[The Ravens of Barovia]]** — our pen pals. Letters into locked rooms, impeccable penmanship, no love for Lady Wachter. Meeting requested.
 
 ## The unmasked
 

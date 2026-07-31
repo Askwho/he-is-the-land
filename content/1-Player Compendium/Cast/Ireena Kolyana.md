@@ -6,9 +6,9 @@ description: "The burgomaster's daughter — sharp, striking, cursed with bright
 
 > **Who:** Daughter of the late burgomaster of Barovia; [[Ismark]]'s sister.
 >
-> **Where:** **[[Vallaki]]** — delivered, four days, as promised. Tonight at [[The Blue Water Inn]] with us; in the morning she means to lodge at [[St. Andral's Church]].
+> **Where:** **[[Vallaki]]** — at [[The Blue Water Inn]] with us, and still intending [[St. Andral's Church]].
 >
-> **Status:** Alive, unbitten, welcomed at the gate by rank — and carrying a faith in us that has become slightly alarming (see below).
+> **Status:** Alive, unbitten, welcomed at the gate by rank, carrying a faith in us that has become slightly alarming — and now singing songs nobody taught her (see below).
 >
 > **First met:** Session 4, in the burgomaster's house.
 
@@ -33,6 +33,18 @@ description: "The burgomaster's daughter — sharp, striking, cursed with bright
 - **The angel.** At the farmstead she saw Sirius's black wings unfurl — and dropped to her knees on the spot: *"an angel of the Morninglord walks with us. We cannot fail."* He knelt and prayed with her rather than correct her. She now believes the party is heaven-sent. We are variously charmed and deeply uneasy about this.
 - **Named at the gate.** She entered Vallaki openly as the Burgomaster's sister — condolences from the guards, welcome by rank. Half the gate-watch now knows a red-haired noblewoman is in town. File under: things that felt fine at the time.
 - **The church.** She sat in St. Andral's pews and glowed: *"I'm so glad I'm finally safe."* One night at the inn was all we could negotiate; she means to sleep at the church from tomorrow. **She does not know what we know** ([[St. Andral's Church]]). That conversation is coming, and nobody wants to open it.
+
+## The song (Session 9)
+
+We came back from a dinner party to a taproom gone completely silent: **Ireena on stage, singing with the band** — the first time in her life with actual accompaniment, her brother never having allowed it. She was flushed, delighted, and pitch-perfect.
+
+The song is the thing. She *dreamed* it — *"I've had it in my head forever."* Two walked together, one wore the morning golden and one wore the night blue; the dark one went begging to *a whisper in the stone* and came back with *a hunger of its own*; he *drank his brother's wine*; he *hung his cloak across the sun and nailed it to the sky*, and the valley has had no summer since. And then a second voice: a widow, *a girl beneath the lake*, hunted through harvest and snow by *"a raven on the shoulder of the shadow of a man"* — and the refrain none of us have stopped hearing:
+
+> *"They'll spin it, and they'll spin it, and I'll make another girl."*
+
+She sang that, jumped off the stage, and asked if we'd had a nice day. She doesn't know where the song came from. We are afraid we do.
+
+Also pending: **Lady Wachter's standing invitation** for her to lodge under [[The House of Wachter|Wachter]] protection — which we have not yet passed on, for reasons involving a raven (see [[The House of Wachter]]).
 
 ## Our promise
 

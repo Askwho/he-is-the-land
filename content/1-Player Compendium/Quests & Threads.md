@@ -8,18 +8,19 @@ description: "The party's ledger — active charges, the reading that is now our
 
 ## 🕯️ Right now
 
-- **We are at [[St. Andral's Orphanage]], mid-conversation with a newly awake [[Milivoj]]** — who, pressed about the bones of St. Andral, said: *"I didn't touch any bones. What are you talking about?"* The demon is in the locket. The children are in the garden. The interrogation was still in progress when the minutes closed. **Session 9 opens on his answer.**
+- **We are walking to Henrik's Coffin Works, nails in pocket, five days to the Festival of the Blazing Sun.** [[Milivoj]] confessed; the crypt gave up a handful of custom nails; the Workyard smith named them on sight — *"Oh. You've got [[Henrik the Coffin Maker|Henrik's]] nails."* The only trail in Vallaki leads to a coffin maker's door. **Session 10 opens on the knock.**
 
 ## ⚔️ Active
 
-- **Find the bones of St. Andral.** The relic that kept the devil out of Vallaki — stolen six days before we arrived, and our **only suspect just plausibly denied everything.** What survives of the trail: Milivoj's questions to Yeska, his *unexplained money*, and six days to the mandatory festival. The town still doesn't know. [[Ireena Kolyana|Ireena]] still doesn't know — *and she still plans to sleep there.* **Roger thinks the church is why Vallaki was spared in the bad times.** No pressure.
-- **Guard the locket. Tell no one.** A shadow demon is sealed in a rusted locket in our packs ([[Mostly Felix]] has the full rules). It cannot get out unless someone opens the lid; destroying it only frees the thing elsewhere. Working plan: somewhere warded, somewhere secret, and **nobody talks about the locket.**
-- **Find Lazlo, Hans, and Franz.** Three orphan boys, missing about a week — fled, Claudia believes, in terror of Felix. Two hunters (hired with Milivoj's mystery money, found through the Blue Water) are already searching. First step: ask at the inn who they are.
-- **Look in on the winery.** [[Danika Martikov|Danika]]'s quiet ask: the Martikov shipment is **days late** — that never happens. Route west via Krezk, ~a week; her map is on Sirius's person; her wine, reportedly, opens every gate including Krezk's.
+- **Find the bones of St. Andral.** SOLVED to one name and one trail: [[Milivoj]] took them (300 gold, for the hunters) and left them in the **Vallakovich crypt** for a man with **very nice, very clean shoes** — and the nails found there are **[[Henrik the Coffin Maker|Henrik]]'s signature work.** The town still doesn't know. [[Ireena Kolyana|Ireena]] still doesn't know — *and she still plans to sleep there.* **Roger thinks the church is why Vallaki was spared in the bad times.** Five days.
+- **Find Bluto.** The [[The House of Wachter|Wachter twins]]' drinking companion — older, dour, and the man the **lake ghost "takes great interest in"** — went north to the haunted lake ~two days ago talking about *"righting a wrong,"* and hasn't come back. **70–80 gold from Mama** to see him safe. Three hours' walk each way; we told [[The Ravens of Barovia]] we'd go within a day or so. *A dour man, singled out by a drowning ghost, walking alone to her lake to right a wrong. That errand has a shape we do not like at all.*
+- **Proof of what Victor did.** [[The House of Wachter|Lady Wachter]]'s commission: get into the Burgomaster's residence — she doesn't care how — and bring back **proof of what Victor did to Stella.** 50 gold, considerable goodwill, one strategic wine cellar. Caveat, ours: *treat everything about that house as radioactive until the raven question resolves.*
+- **Carry the locket to [[The Abbot|the abbot above Krezk]].** The demon stays sealed ([[Mostly Felix]] has the rules); per the church's own reluctant counsel, the only one who might *end* it broods behind Krezk's walls. Until then: lid shut, and **nobody talks about the locket.**
+- **Find Lazlo, Hans, and Franz.** Three orphan boys, missing over a week. Two hunters are searching the western woods — paid for, we now know, with the church's own bones. New and unwelcome dot to connect: Lady Wachter says the werewolves west of town *capture children*.
+- **Look in on the winery.** It has a name now — **the Wizards of Wine**, Martikov-owned — and the problem has teeth: **the inn has started watering the wine.** Route west via Krezk, ~a week; [[Danika Martikov|Danika]]'s map is on Sirius's person; her wine reportedly opens every gate including Krezk's.
 - **Go back for Radu. Finish the hags.** Our word, given to [[Vasha and Radu|Vasha]] at the fire. She's watching the mill until we return. The way in, per Fëanor's lore: **break the coven of three and the rest weaken.** See [[The Windmill]] · [[Granny the Pie-Seller]].
-- **Attend the Festival of the Blazing Sun.** **Six days.** Attendance mandatory; *failure to attend is punishable by punishment* ([[Handouts]]).
+- **Attend the Festival of the Blazing Sun.** **Five days.** Attendance mandatory; *failure to attend is punishable by punishment* ([[Handouts]]).
 - **A toy for Araba.** [[Aragal]] pays **20 gold over cost** for a **Blinsky original**. Still unbought; still the one Barovian errand with nothing obviously wrong with it.
-- **The haunted lake.** North of town: a wailing woman, four years of ensorcelled drownings, a dead fishing industry. Filed under *jobs*, pending everything else. (Lake's haunted.)
 - **Keep an eye out for Gertruda.** [[Mary]]'s missing daughter. A half-promise, honestly made.
 
 ## 🗺️ The Reading — our map now
@@ -40,13 +41,17 @@ And five personal threads: Osric must **carry his banner to the house of the fal
 
 *Not quests. Worries.*
 
-- **Don't kill the ravens.** Roger's law, given twice, unexplained. His band killed one raven-shaped stranger and the whole land closed against them. One of us carries a raven's feather; a raven that is not an animal follows us; our landlady winced. **Whatever the ravens are, they are watching, and we are polite to them.**
-- **The Martikovs and the ravens.** [[Danika Martikov|Danika]] winced at the raven-man's death. The family winery shut Roger's band out the week they killed it. Urwin's wine "keeps this bubble afloat." How deep does that family go? *(Recorded without conclusion. Deliberately.)*
-- **If not Milivoj — who?** He asked Yeska the question; the bones vanished four days later; he denies it to a wall of armed adults without blinking — and he *came into money* nobody can explain. Innocent, enchanted, or lying? And who cursed him — was the sickness only ever the demon staking its claim?
+- **Don't kill the ravens — *especially* now they're pen pals.** Roger's law has a return address: [[The Ravens of Barovia]] write into locked rooms, dislike Lady Wachter, and know what we say in bathrooms. Our reply — and our request for a meeting — lies on the floorboards under Drew's alarm. **Standing order: divine sense before violence on anything with feathers.**
+- **What is Lady Wachter?** Not a fiend, not undead — her hand was warm. But she went away grieving for two weeks and came home with **a demon on a perch** and peace in her heart. Who was the "dear friend" she can't recall? What did she trade? And **where did the fiend-raven fly** when it heard us say the word — and who is it reporting to about us? ([[The House of Wachter]])
+- **Is Henrik the man with the nice shoes** — or just the man whose nails were used? Why did the handover happen in the *Baron's family crypt* — connection, or frame?
+- **Ireena's song.** Two brothers, morning-gold and night-blue; a whisper in the stone; a stolen sun; a girl beneath the lake remade over and over — *"and I'll make another girl."* **Why is that song in *her* head?** ([[Ireena Kolyana]])
+- **The abbot** heals minds and raises the dead, in a land where the dead should stay down. What is he, and what will he want for the locket? ([[The Abbot]])
+- **What wrong was Bluto trying to right** at a lake that drowns men — and is he still alive to be rescued?
+- **The Martikovs and the ravens.** [[Danika Martikov|Danika]] winced at the raven-man's death. The family winery shut Roger's band out the week they killed it. Urwin's wine "keeps this bubble afloat." And nobody entered our locked room. *(Recorded without conclusion. Deliberately.)*
 - **Who was Felix before the demon** — and who stabbed his parents?
 - **What is [[The Bard]]?** He mocks the name-law, knows usurped fey powers by their stories, spotted our fate-blessing on sight, and watches us with great interest. His advice: *prove yourselves a bit more.* Ally, examiner, or something worse?
-- **Ireena and the church.** She believes St. Andral's is her sanctuary. We know it's a beautiful shell — and our leading plan for the locket is *the same building.* Every day we don't tell her, the lie compounds.
-- **The letter's mechanism.** *Speak his name thrice and he comes.* We know it, Ireena knows it, and he **wrote it down for us.** The volcano proposal remains under survey. Barovia appears to contain no volcanoes.
+- **Ireena and the church.** She believes St. Andral's is her sanctuary. We know it's a beautiful shell. Every day we don't tell her, the lie compounds — and now we also hold **Lady Wachter's standing invitation** for her, undelivered, pending the raven question. Three roofs, no good answer.
+- **The letter's mechanism — half-solved.** *Speak his name thrice and he comes*… except one of us said it **five times at a dinner table and nothing came.** The name alone summons nothing; **it matters who speaks it.** The volcano proposal has been quietly retired.
 - **Sirius's new devotee.** Ireena believes an angel of the Morninglord walks with us. In a town about to hold a mandatory sun festival, word of an "angel" could travel in ways we can't steer.
 - **Sirius, post-bite.** The bacon test remains negative; the watch continues. Noted: the demon's possession *bounced off* him. We are choosing to find that reassuring.
 - **Sirius and the lady of ravens.** Her one line — *"what was stolen is not fully owned, and the land can be reclaimed"* — made [[The Bard]] look up very sharply when paraphrased in his hearing. *"A very astute thing to say, sir."* Interesting.
@@ -70,6 +75,8 @@ Five keepsakes dragged five strangers through the mists. **The cards have now na
 
 ## ✅ Kept & done
 
+- **The confession, extracted.** No hands were removed. [[Milivoj]] told us everything — the 300 gold, the crypt, the man with the nice shoes — and the trail that was cold a week is now warm enough to knock on. Left confined on his word, sentence deferred, kids adoring him as ever.
+- **The pie affair, officially closed.** One final voluntary tied-down night (her idea), one quiet morning — **Lily is untied for good.** The rope is retired. The era is over.
 - **Lily is free.** Six days of iron will, one rope, one tree, one bed, two fake-pie tests — and on the sixth morning, *nothing*. The hags' hook broke before she did. Exhaustion remains; the craving is gone; recovery proceeded. **Best news in the ledger.**
 - **The orphanage stands.** Demon fought, sealed, and pocketed; twenty children safe in the garden; Milivoj's curse broken; Clover's rebuild *and* combat debut on the same morning. Also: we promised the kids we'd come back for Felix. That one counts double.
 - **Talk to Roger** — **done, and worth every copper of the wine.** The whole tale is on [[Roger]]. We are taking the syllabus seriously.

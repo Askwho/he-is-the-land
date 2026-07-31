@@ -68,19 +68,20 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 
 ---
 
-## Shared kit & assets (as of Session 8)
+## Shared kit & assets (as of Session 9)
 
-- **⚠️ The rusted locket** — oval, X-scratched, Celestial inside, **a shadow demon sealed within** ([[Mostly Felix]] has the rules). It cannot get out unless someone opens the lid. **Nobody opens the lid.** Disposition under discussion; discretion mandatory.
+- **⚠️ The rusted locket** — oval, X-scratched, Celestial inside, **a shadow demon sealed within** ([[Mostly Felix]] has the rules). It cannot get out unless someone opens the lid. **Nobody opens the lid.** Destination, per the church's own counsel: **[[The Abbot|the abbot above Krezk]].** Discretion mandatory.
+- **⚒️ A handful of Henrik's coffin nails** — long, custom, curve-as-hammered; lifted from the Vallakovich crypt floor by Drew. *The only physical evidence in Barovia of the man with the very nice shoes.* See [[Henrik the Coffin Maker]].
 - **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) — now **filled in by [[Danika Martikov|Danika]]'s own hand** (Vallaki → Krezk → the winery) — and Fëanor's **rubbing of the menhir symbol**, the same winged, third-eyed figure carved on a henge behind [[The Windmill|a certain windmill]], *still unexamined*.
 - **The reading** — five fates and five personal threads, recorded card-by-card on [[The Reading]] — now with **Roger's cards beside ours**. And one card **only Sirius can read**, in his keeping.
 - **CLOVER, mark II** — rebuilt (Session 8) and better: pulses **shielding energy** over everyone near. First build died to a hag; second build debuted against a demon.
-- Rations for six (including [[Ireena Kolyana|Ireena]]). **Zero pies, forever** — and as of Session 8, **Lily doesn't want one.** Tents, packs, bedrolls, water skins, whetstone, rope.
-- **One potion of healing** — the last; there are none for sale in Barovia. *(Vallaki claims a potions shop. Investigating.)*
+- Rations for six (including [[Ireena Kolyana|Ireena]]). **Zero pies, forever** — and as of Session 9, **the rope is retired: Lily sleeps untied.** Tents, packs, bedrolls, water skins, whetstone, rope (ceremonially unemployed).
+- **Three potions of healing** — the old last one, plus **two from [[Headmistress Claudia]]** (*"I bought these for Milivoj. He doesn't need them now. You will."*).
+- **Freshly sharpened edges** — Sirius's and Osric's swords, Lily's awl *and* kitchen knife (the Workyard smith, 2 sp, no questions asked).
 - One pristine **wolf pelt** (lightly charred), still unsold, plus **5 silver 16 copper** off the farmstead dead, and one jar of **zombie guts** (Drew insists).
 - **Silver crossbow bolts** (tested on the shambling dead: useless; presumably vital on werewolves) and a **silvered short sword.**
 - **A commission:** one Blinsky-original toy for Aragal's daughter Araba, worth **20 gold over cost**, deliverable to the Vistani camp outside Vallaki. The shop is now in walking distance.
 - The **crystal spell-focus orb** from the pale man's statue, an **unread yellow spellbook**, alchemist's fire, a bullseye lantern, thieves' tools (Lily), and two cult daggers (bone, and bat-skull).
-- **CLOVER** — 💔 smashed to scrap by Morgantha; rebuild in progress (parts, tools, coin — Vallaki has all three, at Vallaki prices).
 - Assorted Death House valuables — and Lily's standing warning that selling things from noble estates *"ends very badly."*
 - Lodging: **a six-bed room at [[The Blue Water Inn]]**, 2 gp/night, door that locks.
 

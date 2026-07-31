@@ -40,16 +40,19 @@ And yet — mark this — **people walk these streets after dark without scurryi
 
 ## Known establishments
 
-- **[[The Blue Water Inn]]** — warmth, wolf steak, and our beds. Also [[Roger]], [[The Bard]], and [[Danika Martikov|our landlady]].
+- **[[The Blue Water Inn]]** — warmth, wolf steak (wine now *rationed*), and our beds. Also [[Roger]], [[The Bard]], and [[Danika Martikov|our landlady]].
 - **[[St. Andral's Church]]** — the finest building in town, with an empty secret under the altar.
-- **[[St. Andral's Orphanage]]** — recently de-demoned. See the field notes; bring nothing but kindness.
+- **[[St. Andral's Orphanage]]** — recently de-demoned; currently housing one confessed, confined, unrepentant gravedigger ([[Milivoj]]).
+- **Wachterhaus** — the finest house in the noble district. We have dined there. See [[The House of Wachter]] — and mind the empty perch.
+- **The Workyard smith** — *not* the shopping-district smith (who, per Lady Wachter, is the Baron's man). Friendly, talks hammers with Drew, sharpens anything for silver, and identifies coffin nails on sight.
+- **The Coffin Works** — [[Henrik the Coffin Maker|Henrik]]'s shop, production district. Doesn't open every day. **We are walking there now.**
 - **Blinsky's toy shop** — as yet unvisited; we owe [[Aragal]] a toy from it, at 20 gold over cost.
 - **The Vistani camp** sits *outside* the east gate — Vallaki admits no Vistani. We waved. The toy isn't bought yet.
 
 ## Open questions
 
-- What exactly happens at a Festival of the Blazing Sun — a festival of the *sun*, in the devil's land, enforced at pike-point? Lathander's? Mockery? Both? **Six days to find out.**
-- Who has the bones of St. Andral? Our only suspect just plausibly denied everything. (The town doesn't know they're gone. Keep it that way.)
-- **Vallaki was the one place spared in the bad times** — Roger thinks *because of the church.* Sit with that.
+- What exactly happens at a Festival of the Blazing Sun — a festival of the *sun*, in the devil's land, enforced at pike-point? Lathander's? Mockery? Both? **Five days to find out.**
+- The bones: taken by [[Milivoj]], bought by a man with very nice shoes, nailed shut with [[Henrik the Coffin Maker|Henrik's]] handiwork. Who does a coffin maker answer to? (The town doesn't know they're gone. Keep it that way.)
+- **Vallaki was the one place spared in the bad times** — Roger thinks *because of the church.* Sit with that. Then count five days again.
 
-*The full record: [[Session_007_Player_Notes|S7 field notes]] · [[Session_008_Player_Notes|S8 field notes]].*
+*The full record: [[Session_007_Player_Notes|S7 field notes]] · [[Session_008_Player_Notes|S8 field notes]] · [[Session_009_Player_Notes|S9 field notes]].*

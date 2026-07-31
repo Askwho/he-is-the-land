@@ -9,7 +9,7 @@ description: "The player chronicle of our Curse of Strahd campaign — recaps, f
   <h1 class="hitl-title">He Is The Land</h1>
   <p class="hitl-tag">Five strangers. Five heirlooms. One road west — and the devil owns it.</p>
   <div class="hitl-cta hitl-in-hero">
-    <a class="hitl-cta-primary" href="./1-podcast/episode-8-—-don't-be-boring">▶ Latest episode</a>
+    <a class="hitl-cta-primary" href="./1-podcast/episode-9-—-cut-the-thread">▶ Latest episode</a>
     <a href="./1-session-journals/the-story-so-far">The story so far</a>
     <a href="./1-player-compendium/">The compendium</a>
   </div>
@@ -21,17 +21,17 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 ## Before next session
 
-> **We are at [[St. Andral's Orphanage]], mid-interrogation, and the suspect just said the wrong eight words.** Behind us: [[Roger]]'s whole terrible story (his band **killed their destined ally** — a half-raven man who came in peace — and the land never forgave them; *don't be boring; don't kill the ravens*), a taproom of intel ([[Danika Martikov|Danika]]'s late winery shipment, [[The House of Wachter|the Wachter lads]], [[The Bard]] who *watches us with great interest*), and — mercy of mercies — **Lily waking up free** of the hags' hook. Then the orphanage: [[Milivoj]] comatose under a **necromantic curse**, three boys missing, and **"[[Mostly Felix|I'm Mostly Felix]]"** — a shadow demon that steel couldn't touch, now **sealed in a rusted locket** that must never, ever be opened. And when Milivoj woke, curse-broken, he denied everything: *"I didn't touch any bones."* **Session 9 opens on his answer.**
+> **We are walking to Henrik's Coffin Works, nails in pocket, five days to the festival.** Behind us, one very full day: [[Milivoj]]'s **confession** (300 gold, a stranger with *very clean shoes*, a dead-drop in the Baron's own family crypt) · dinner at **[[The House of Wachter|Wachterhaus]]** — a 50-gold commission to find **proof of what Victor did to Stella**, and a pet raven that read as a **FIEND** and fled the house when it heard us say so · [[Ireena Kolyana|Ireena]] singing a song she *dreamed* to a silent taproom (*"they'll spin it, and they'll spin it, and I'll make another girl"*) · a letter from **[[The Ravens of Barovia]]** lying in the middle of our **locked** room — our reply, requesting a meeting, lies where it fell · and a smith who glanced at our only evidence and said: *"Oh. You've got [[Henrik the Coffin Maker|Henrik's]] nails."* **Session 10 opens on the knock.**
 
-- **Immediate business:** finish the interrogation — the bones, the mystery money, the hunters. Then: what do we *do* with a demon in a locket?
-- **The clock:** the **Festival of the Blazing Sun is in SIX days.** The church is still hollow. [[Ireena Kolyana|Ireena]] still doesn't know — and still plans to sleep there.
-- **Keep in mind:** the gift of knowledge is at **Krezk** (confirmed twice, forty-five years apart); the winery shipment is late and we said we'd look; *"talk to Mother"*; the toy for [[Aragal]] still isn't bought; and **don't kill the ravens.** The full ledger lives in [[Quests & Threads]].
+- **Immediate business:** the Coffin Works. Then north — **Bluto** is missing at the haunted lake (70–80 gold from Mama Wachter), and we told the Ravens we'd be there.
+- **The clock:** the **Festival of the Blazing Sun is in FIVE days.** The church is still hollow. [[Ireena Kolyana|Ireena]] still doesn't know — and we're also sitting on Lady Wachter's invitation for her, undelivered.
+- **Keep in mind:** the locket's road leads to **[[The Abbot|the abbot above Krezk]]**; the wine is now *rationed* and the Wizards of Wine run west; the toy for [[Aragal]] still isn't bought; and **divine sense before violence on anything with feathers.** The full ledger lives in [[Quests & Threads]].
 
 ## Start here
 
 - 📖 **New, or catching up?** [[The Story So Far]] — the whole tale in one sitting.
-- 🎧 **Latest episode:** [[Episode 8 — Don't Be Boring]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
-- 📋 **Latest recap:** [[Session_008_Player_Recap|Session 8 — Recap]] · deep detail in the [[Session_008_Player_Notes|Field Notes]].
+- 🎧 **Latest episode:** [[Episode 9 — Cut the Thread]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
+- 📋 **Latest recap:** [[Session_009_Player_Recap|Session 9 — Recap]] · deep detail in the [[Session_009_Player_Notes|Field Notes]].
 
 ## The chronicle
 
@@ -43,6 +43,7 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 | # | Listen | Read |
 | --- | --- | --- |
+| 9 | [[Episode 9 — Cut the Thread\|Cut the Thread]] (1:05:06) | [[Session_009_Player_Recap\|Recap]] · [[Session_009_Player_Notes\|Field Notes]] |
 | 8 | [[Episode 8 — Don't Be Boring\|Don't Be Boring]] (1:03:30) | [[Session_008_Player_Recap\|Recap]] · [[Session_008_Player_Notes\|Field Notes]] |
 | 7 | [[Episode 7 — All Will Be Well\|All Will Be Well]] (56:02) | [[Session_007_Player_Recap\|Recap]] · [[Session_007_Player_Notes\|Field Notes]] |
 | 6 | [[Episode 6 — Something Sweet\|Something Sweet]] (52:35) | [[Session_006_Player_Recap\|Recap]] · [[Session_006_Player_Notes\|Field Notes]] |
