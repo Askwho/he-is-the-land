@@ -27,6 +27,7 @@ Or just press play below — every episode also streams right here on the site.
 
 | # | Episode | Runtime | Journal |
 | --- | --- | --- | --- |
+| 10 | [[Episode 10 — You Can Just Leave\|You Can Just Leave]] | 1:11:02 | [[Session_010_Player_Recap\|Recap]] · [[Session_010_Player_Notes\|Notes]] |
 | 9 | [[Episode 9 — Cut the Thread\|Cut the Thread]] | 1:05:06 | [[Session_009_Player_Recap\|Recap]] · [[Session_009_Player_Notes\|Notes]] |
 | 8 | [[Episode 8 — Don't Be Boring\|Don't Be Boring]] | 1:03:30 | [[Session_008_Player_Recap\|Recap]] · [[Session_008_Player_Notes\|Notes]] |
 | 7 | [[Episode 7 — All Will Be Well\|All Will Be Well]] | 56:02 | [[Session_007_Player_Recap\|Recap]] · [[Session_007_Player_Notes\|Notes]] |

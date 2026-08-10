@@ -20,9 +20,11 @@ Asked whether any good needed doing, she gave us a family matter: **the Martikov
 
 Recorded without conclusion: when the death of Roger's **raven-man** came up at the bar, **Danika winced.** She was not happy the subject was raised. The Martikovs and the ravens keep ending up in the same sentences — the family owns the winery that shut Roger's band out *the very week they killed it*; the inn's roof hosts more ravens than pigeons; and Roger's parting law was *don't kill the ravens.* We are watching, politely, and saying nothing.
 
+*(**Update, Session 10:** conclusion no longer avoidable. Her husband is a wereraven — he showed us — his clan holds the winery, and the murdered raven-man was his Great Uncle Frederick. The wince has a first name now. We caught her "saw no one" act on a natural 20 the same evening, and we are gallantly continuing to say nothing.)*
+
 ## Open questions
 
-- Why is the shipment late — weather, bandits, or something with more teeth?
-- What exactly is the Martikov family's relationship with the ravens of this valley?
+- Why is the shipment late — weather, bandits, or something with more teeth? *(Now also: it's her family at the far end of it.)*
+- ~~What exactly is the Martikov family's relationship with the ravens of this valley?~~ **Answered.** See [[Urwin Martikov]] and [[The Ravens of Barovia]].
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]]. See also: [[The Blue Water Inn]] · [[Quests & Threads]] (the late shipment).*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_010_Player_Notes|S10]]. See also: [[The Blue Water Inn]] · [[Quests & Threads]] (the late shipment).*

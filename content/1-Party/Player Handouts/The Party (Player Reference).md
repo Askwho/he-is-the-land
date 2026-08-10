@@ -4,7 +4,7 @@ publish: true
 description: "Who we are — five strangers pulled through the mists, and the keepsakes that dragged us here. Roster, portraits, and current gear."
 ---
 
-*Five strangers, five keepsakes, one very good invention (currently in pieces; see CLOVER). Current as of **Session 7**.*
+*Five strangers, five keepsakes, one very good invention. Current as of **Session 10** — at which point one of us is a hostage of the town government and another is hidden inside a noblewoman's house, so "current" is doing some work.*
 
 ## Roster (all Level 4)
 
@@ -28,7 +28,7 @@ Tinkerer — builds cannons, prosthetics, security systems. Alchemical tattoos u
 
 **Keepsake:** an amber-resin pendant mounted on her goggles, runes shifting inside — *"supposed to unlock huge secrets of the world."* **The only heirloom Barovia hasn't answered yet.**
 
-**CLOVER** — *Combat Laser Ordnance Vehicle for Emergency Enemy Removal.* A small, cheerful walking cannon Drew dreamed up for days and then made real mid-wolf-attack: sheet-of-flame ordnance, force blasts, and dispensed "good vibes" that turn out to be very real. Roughly an hour of power. Adorable, for something that incinerates wolves. **Current status: smashed to scrap by Morgantha** (*"and take your toy, too"* — Session 7). Drew is sourcing parts in Vallaki. Clover will return.
+**CLOVER** — *Combat Laser Ordnance Vehicle for Emergency Enemy Removal.* A small, cheerful walking cannon Drew dreamed up for days and then made real mid-wolf-attack: sheet-of-flame ordnance, force blasts, and dispensed "good vibes" that turn out to be very real. Roughly an hour of power. Adorable, for something that incinerates wolves. First build smashed by a hag; **mark II rebuilt in Vallaki and better than ever** — pulses shielding energy over everyone in reach. Demon-tested. Clover abides.
 
 ## Fëanor Dawnward
 
@@ -46,7 +46,7 @@ Gnome rogue, 3'1", patched clothes, prized boots, a green ribbon on her right wr
 
 **Keepsake:** a lacquered **dire-wolf** tooth on a cord. Euphemia's dying words: *"the tooth will help keep mending what cannot otherwise be healed."*
 
-**Watch-list:** two mornings running she has eaten one of [[Granny the Pie-Seller|Granny's]] pies without a word, without noticing. We are worried. See [[Quests & Threads]].
+**Watch-list, retired with honours:** the pie affair is **over** — six days of iron will and the hags' hook broke before she did. Current status instead: **hidden alone inside Wachterhaus** (Session 10 cliffhanger), having shaken off two waves of magical sleep on the way out the last time. We have written her a commendation and are all pretending our hearts did not stop.
 
 ## Sirius
 
@@ -68,10 +68,12 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 
 ---
 
-## Shared kit & assets (as of Session 9)
+## Shared kit & assets (as of Session 10)
 
-- **⚠️ The rusted locket** — oval, X-scratched, Celestial inside, **a shadow demon sealed within** ([[Mostly Felix]] has the rules). It cannot get out unless someone opens the lid. **Nobody opens the lid.** Destination, per the church's own counsel: **[[The Abbot|the abbot above Krezk]].** Discretion mandatory.
-- **⚒️ A handful of Henrik's coffin nails** — long, custom, curve-as-hammered; lifted from the Vallakovich crypt floor by Drew. *The only physical evidence in Barovia of the man with the very nice shoes.* See [[Henrik the Coffin Maker]].
+- **🪪 FIVE WAX-SEALED WRITS of deputyship** — *"acting under the request of the baron, follow my orders."* No badges (we asked). Opens locks, loosens tongues, and denominates the ransom on our priest. See [[The Baron of Vallaki]].
+- **⚠️ The rusted locket** — oval, X-scratched, Celestial inside, **a shadow demon sealed within** ([[Mostly Felix]] has the rules). It cannot get out unless someone opens the lid. **Nobody opens the lid.** Destination, per the church's own counsel: **[[The Abbot|the abbot above Krezk]].** Discretion mandatory. (Offered to Father Lucian for safekeeping; withdrawn — *not until the church can protect itself.*)
+- **⚒️ A handful of Henrik's coffin nails** — long, custom, curve-as-hammered; lifted from the Vallakovich crypt floor by Drew. Their work is done: Henrik has confessed the whole chain. Kept as a souvenir of solid detective work.
+- **💰 30 gold** from selling the spare heavy crossbow to Celegal's Bowyer — opening offer 15, haggled up with "we are doing the Baron's work — that's not a threat."
 - **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) — now **filled in by [[Danika Martikov|Danika]]'s own hand** (Vallaki → Krezk → the winery) — and Fëanor's **rubbing of the menhir symbol**, the same winged, third-eyed figure carved on a henge behind [[The Windmill|a certain windmill]], *still unexamined*.
 - **The reading** — five fates and five personal threads, recorded card-by-card on [[The Reading]] — now with **Roger's cards beside ours**. And one card **only Sirius can read**, in his keeping.
 - **CLOVER, mark II** — rebuilt (Session 8) and better: pulses **shielding energy** over everyone near. First build died to a hag; second build debuted against a demon.

@@ -33,10 +33,14 @@ Kept by **Urwin Martikov** and his wife **Danika**, with their boys **Brom and B
 - **The twins hired us**: their friend **Bluto** is missing at the haunted lake — 70–80 gold from Mama to bring him home ([[Quests & Threads]]).
 - And in our **locked** room, windows secured, a letter lay in the middle of the floor. [[Danika Martikov|Danika]] saw no one enter. See [[The Ravens of Barovia]].
 
+## What the inn turned out to be (Session 10)
+
+A second impossible letter — through a *warded* window this time — and the pretense collapsed all at once: **[[Urwin Martikov|our barman]] is a wereraven**, the inn is an information hub of **[[The Ravens of Barovia]]**, and the roof's raven population is not a coincidence, it's a staff rota. We have been sleeping in the safest room in Vallaki since the day we arrived and are choosing to be retroactively flattered rather than alarmed.
+
 ## Open questions
 
-- What do the Martikovs know about the bad times — and about us?
-- Why is the wine late — and what happens to a town like this when it runs dry?
-- Who delivers letters through locked doors — and did anyone *carry* it, or did it simply arrive?
+- ~~What do the Martikovs know about the bad times — and about us?~~ **Rather a lot, on both counts.** See [[Urwin Martikov]].
+- Why is the wine late — and what happens to a town like this when it runs dry? *(Now personal: the winery is the Ravens' clan seat.)*
+- ~~Who delivers letters through locked doors?~~ **Wings.**
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]].*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]].*

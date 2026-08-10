@@ -1,29 +1,34 @@
 ---
 title: "The Ravens of Barovia"
 publish: true
-description: "Our pen pals. They write letters into locked rooms, dislike Lady Wachter, know what we say in bathrooms — and have impeccable penmanship."
+description: "No longer pen pals — colleagues. They are wereravens; our barman is one; they have been fighting the devil for 700 years, and they'd like us to prove ourselves."
 ---
 
-> **Who:** Unknown. A collective, capital R, warmly disposed toward ravens and firmly disposed against bad things wearing raven shapes.
+> **Who:** Wereravens. Ravenkin. One of the **two cursed kindreds** of this valley — the wolves are the other. Our barman is one of them.
 >
-> **Where:** Everywhere, apparently. Including locked rooms.
+> **Where:** The [[The Blue Water Inn|Blue Water Inn]] is an information hub. Their clan holds **the winery**. An agent named **Mirabel** has been minding us — beautiful plumage.
 >
-> **Status:** Correspondence open. Meeting requested — by us.
+> **Status:** Revealed (Session 10). Provisionally allied. *"Trust is hard. Want to prove yourselves."*
 
-## The note
+## The reveal
 
-We came upstairs at the [[The Blue Water Inn|Blue Water]] (Session 9) to find a note lying flat in the middle of our bedroom floor. The door had been locked. The windows were secured *from the inside*. [[Danika Martikov|Danika]] saw no one.
+It went: a second impossible letter through a warded window — *trust is hard* — a squirrelly landlady, a fluttering just out of sight, and a barman invited upstairs to *help us understand our window situation*. We walked [[Urwin Martikov|Urwin]] through the logic (*"but you never told us the cake was poisoned"*), said as gently as an armed room can that we all knew — and **he turned into a wereraven in our bedroom.** Same mass. Feathers like scrolled black iron. One of the most beautiful and alarming things any of us have ever seen.
 
-We won't transcribe it here — it sits in the file — but the substance: it is signed by **the Ravens of Barovia**; it makes clear that **Lady Wachter does not enjoy the Ravens' support** — the thing on her perch is *no true raven* — and it addressed, with uncanny precision, the exact crisis of faith Sirius had been having about fiends in feathers all evening ([[The House of Wachter]]). The penmanship is impeccable, which raises its own questions about beaks.
+## What they told us
 
-## Our reply
+- **Seven hundred years** they have worked against the devil, in a land where *"he is almost literally the land."* He is not omnipotent. They do what can be done.
+- The Vistani say a party of adventurers will one day topple him. There have been seven hundred years of parties. Urwin does not hold his breath, and said so, kindly.
+- **The raven the last heroes killed** — the one Roger's band cut down on their first road — **was his Great Uncle Frederick.** *Don't kill the ravens* was never a superstition. It was a family.
+- They are **information brokers, not fighters.** *"The fighting is what you are for."*
+- **The lore of the bones** ([[St. Andral's Church]]): the bones of the saint and the church together cast a hallowing over the **whole city** — while they rest in place, no lesser dead thing can pass Vallaki's walls at all. The devil himself could enter the city — but never the church. The bones rest there no longer. Do the math on six coffins.
+- **Wachterhaus is warded to the nines** — a black hole to raven agents. In ten years they have never gotten inside. *(As of the end of Session 10, we have.)*
 
-Sirius drafted it — opening, naturally, with a compliment on their name — confirming we know the Wachter raven is a demon, thanking them for the counsel, **requesting a proper meeting**, and mentioning we mean to head to the lake in the next day or so, in case they care to find us. We left it exactly where theirs had lain. Drew set an alarm ritual over it. The alarm never rang.
+## Where we stand with them
 
-## What we think we know
+Their offer to gather intelligence stands — at their risk. Their advice, given free and kindly meant: *"There is more to Barovia than Vallaki. **You can just leave.**"*
 
-- Roger's law — *don't kill the ravens* — now has a return address.
-- A raven that is not an animal has followed us since the village. Our landlady winces when raven-men die in stories. The Ravens of Barovia write like scholars and move like ghosts. *(Recorded without conclusion. Deliberately.)*
-- **Standing order, party-wide:** divine sense *first*, violence *after*, on anything with feathers — especially now they're pen pals.
+We are not going to leave.
 
-*Appears in: [[Session_009_Player_Notes|S9]]. See also: [[Roger]], [[The House of Wachter]], [[Quests & Threads]].*
+- **Standing order, party-wide, upgraded:** ***never* harm a raven.**
+
+*Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]]. See also: [[Urwin Martikov]], [[Roger]], [[The House of Wachter]], [[Quests & Threads]].*

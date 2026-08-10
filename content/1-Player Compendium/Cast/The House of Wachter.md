@@ -1,14 +1,14 @@
 ---
 title: "The House of Wachter"
 publish: true
-description: "Lady Fiona Wachter — charisma in a dress, a commission worth 50 gold, and a pet raven that was not a raven. Her hand was warm. The thing on the perch was not."
+description: "Lady Fiona Wachter — charisma in a dress, a canapé party used as a shield wall, and a raven back on her shoulder. 'Your services are no longer required.'"
 ---
 
-> **Who:** Vallaki's *other* noble house. As of Session 9 we have dined at its table.
+> **Who:** Vallaki's *other* noble house. We have dined at its table (S9), fled from its sitting room (S10), and, as of the cliffhanger, have one of us hidden inside it.
 >
-> **Where:** **Wachterhaus** — the finest house in the noble district. Staffed, wined, and, until mid-dinner, home to a raven.
+> **Where:** **Wachterhaus** — the finest house in the noble district. Per the [[The Ravens of Barovia|Ravens]]: **warded to the nines** — in ten years, their agents have never gotten inside.
 >
-> **Status:** Employer. Also: *treat everything about that house as radioactive until the raven question resolves* (our own minutes).
+> **Status:** ⛔ Ex-employer. *"Your services are no longer required."*
 
 ## Lady Fiona Wachter
 
@@ -18,7 +18,7 @@ Assorted intelligence from her table, recorded for the file: the **Wachters held
 
 ## The commission
 
-**Find proof of what Victor did to Stella.** Payment: **50 gold**, her considerable goodwill, and access to a wine cellar that is suddenly one of the more strategically important assets in Vallaki. With proof, she says, the town turns and the Baron falls. We have agreed to seek the proof and to keep our own counsel about the rest. See [[Quests & Threads]].
+**Find proof of what Victor did to Stella.** Payment: **50 gold**, her considerable goodwill, and access to a wine cellar that is suddenly one of the more strategically important assets in Vallaki. With proof, she says, the town turns and the Baron falls. We agreed to seek the proof and keep our own counsel. *(**Update, S10:** revoked — "your services are no longer required." We're keeping the case anyway; see [[Victor Vallakovich]].)*
 
 ## The raven that was not a raven
 
@@ -38,14 +38,38 @@ The two rowdy lads of [[The Blue Water Inn]] — carefree, charming, deep in the
 
 Betrothed to **Victor Vallakovich** ~3 years ago — a match Lady Wachter arranged herself — and returned from that house broken. **Her body is well; it is *merely her mind***, and it has been merely her mind for three years, in a locked room, seeing no one. We have seeded coming back to try healing her. Note what [[Headmistress Claudia]] said about [[The Abbot|the abbot]]: *heals body and minds.*
 
-## The household
+## Lily and the lady (Session 10)
 
-A manservant, **Ernst Larnak**, delivered the invitation and saw us out — polite, forgettable, a good coat. The staff are loyal and well-treated. The wine has no shortage in *that* house.
+The plan was sensible: a note — *we have information about your daughter; meet us at the church, neutral ground* — delivered by Lily, hooded, forgettable. Every part of it was sensible except the footman recognizing her on the doorstep (*"Lily from earlier! Come in"*). So Lily stood alone in the sitting room with Lady Wachter — **raven on her shoulder** — produced the note, rolled her worst deception of the evening, and watched the temperature drop: **"Have you turned on me, Lily?"**
+
+Then: a wave of unnatural **sleep** — shaken off; a sprint for the door; a *second* wave on the threshold — shaken off, luck riding shotgun; and flat-out flight through dusk with a proper diversionary route home, because Lily has done this dance before in worse cities. The last she saw was the lady in her own doorway, raven at her ear, watching her go. *Upset.*
+
+Yes: **the raven is back.** The fiend that fled mid-dinner sat on her shoulder all evening like nothing happened. File under questions that keep us up at night.
+
+## The canapé defense
+
+By half past seven the lady had built her answer: an **impromptu canapé evening**, announced barely an hour after a small hooded messenger fled the premises. Doors flung wide, lamplight, **forty or fifty delighted citizens** flowing in and out with plates of good food. Understand what this is: **a fortification.** She has bricked herself in behind the town's affection, and every wall is a person we refuse to hurt.
+
+Sirius walked in the front door anyway and offered her the truth among witnesses. Her answer, complete: **"I don't think that'll be necessary. Your services are no longer required."**
+
+And across the room, leaning on the wall, watching us the way a man watches a job — **Ernst.** *"It seems your friend took a bit of a fright earlier."* We said she'd only been delivering a message. ***"I think the message was received loud and clear."***
+
+## Ernst Larnak
+
+Promoted in the file from "polite manservant" to **the lady's shadow**. [[Henrik the Coffin Maker|Henrik]] named him: Ernst threatened him, and Ernst's hands took the stolen bones. The Ravens' assessment: *"think of him as an appendage"* — he barely exists as a person apart from her. He watches like a professional. He is, per our minutes, "a bit of a bloke," which is exactly what the best ones look like.
+
+## Karl & Nikolai
+
+The two rowdy lads of [[The Blue Water Inn]] — carefree, charming, deep in their cups nightly, and **innocent, we'd wager, of everything above**. Their drinking companion **Bluto** is still missing at the haunted lake ([[Quests & Threads]]); we still owe them a walk north.
+
+## Stella, and what was done to her
+
+Betrothed to **[[Victor Vallakovich]]** ~3 years ago — a match Lady Wachter arranged herself — and returned from that house broken. **Her body is well; it is *merely her mind***, three years in a locked room. As of Session 10 we hold a second sample of the phenomenon: Sirius's missing half hour. The commission to prove it died with *"your services are no longer required"* — the case didn't.
 
 ## Open questions
 
-- **What is Lady Wachter?** Not a fiend, not undead — but she went away grieving for two weeks and came home with a demon on a perch and peace in her heart. Who was the "dear friend"? What did she trade?
-- **Where did the fiend-raven fly** — and who is it reporting to about us?
-- Do we deliver her invitation to [[Ireena Kolyana|Ireena]] — a real lock on a real door, in a house with *that* on the perch?
+- **What is Lady Wachter?** Not a fiend, not undead — but she went away grieving and came home with a demon on a perch and peace in her heart. And the demon *came back*.
+- **The bones are almost certainly in that house** — the one building in Vallaki the Ravens cannot see into. Where do you keep stolen holy bones in a warded house — and as of the cliffhanger, **Lily is inside, finding out.**
+- What was the *sleep* that reached for Lily twice — the lady, or the thing on her shoulder?
 
-*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]]. See also: [[Vallaki]], [[The Ravens of Barovia]].*
+*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]]. See also: [[Vallaki]], [[The Ravens of Barovia]], [[Henrik the Coffin Maker]].*

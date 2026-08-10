@@ -24,10 +24,18 @@ The trail so far: only Lucian and Yeska knew of the crypt. Yeska told **Milivoj*
 
 **Ireena has not been told.** She sat in these pews and called this place safety. We delivered her to a sanctuary that currently sanctifies nothing, and the arithmetic of when and how to tell her is its own quiet horror.
 
+## What the bones actually did (Session 10, from the Ravens' records)
+
+Worse than we thought, and we thought it was bad. Per [[The Ravens of Barovia]]: the bones and the church together made a hallowing that covered **the whole city** — while the saint rested in his place, *no lesser dead thing could enter Vallaki at all.* The devil himself could walk the streets — but never this ground. Take the bones out, and the city's doors swing open. **Six coffins arrived at the [[Henrik the Coffin Maker|Coffin Works]] the day after the theft.** The math does itself.
+
+## The priest, and our arrangement (Session 10)
+
+We told [[Father Lucian]] the shape of it — Ernst collected the bones; the Wachter raven is a fiend. He took it about as well as a good man can take heresy about the parish's favorite noblewoman (*"She's Lady Wachter"*), and we settled on terms we can live with: **he holds his tongue for now, and if we disappear, he takes all of it to the Baron.** A dead man's switch with a kind heart.
+
 ## Open questions
 
-- Who sent Milivoj asking — and who has the bones now?
-- What, exactly, has been waiting two hundred years for this building to become *just a building*?
-- How long do we have?
+- ~~Who sent Milivoj asking — and who has the bones now?~~ **Walked to the end:** Milivoj → the crypt → [[Henrik the Coffin Maker|Henrik]] → **Ernst** → [[The House of Wachter|the best-warded house in Vallaki]].
+- ~~What has been waiting for this building to become *just a building*?~~ **Six coffins. Upstairs at the Coffin Works. We've counted them through the ceiling.**
+- How long do we have? *The festival — attendance mandatory — is four days out.*
 
-*The full record: [[Session_007_Player_Notes|S7 field notes]]. The quest lives on [[Quests & Threads]].*
+*The full record: [[Session_007_Player_Notes|S7]] · [[Session_010_Player_Notes|S10 field notes]]. The quest lives on [[Quests & Threads]].*

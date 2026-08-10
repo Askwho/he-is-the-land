@@ -26,7 +26,7 @@ He refused — flatly, repeatedly — to apologize. *"To save those kids."* Ther
 
 ## What his crime bought
 
-- Two hunters are out in the western woods **right now**, searching for the boys — paid for with a church's protection.
-- A stranger with very nice shoes owns the heart of St. Andral's — and the only trail he left is **a handful of custom iron nails** on a crypt floor. The nails have a name now. See [[Quests & Threads]].
+- Two hunters are out in the western woods **right now**, searching for the boys — paid for with a church's protection. *(The bowyer corroborated it, S10: Vallaki's only two full-time hunters, standard pre-hunt arrow order, gone west about a week.)*
+- A stranger with very nice shoes owns the heart of St. Andral's — and the trail is now walked to its end: crypt → [[Henrik the Coffin Maker|Henrik]] → **Ernst** → [[The House of Wachter|the House of Wachter]]. The nice shoes themselves remain unaccounted for. See [[Quests & Threads]].
 
 *Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]]. See also: [[St. Andral's Orphanage]].*

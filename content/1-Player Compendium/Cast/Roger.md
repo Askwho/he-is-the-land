@@ -41,8 +41,8 @@ He had a trinket of his own once, like our heirlooms. He burned it. *"My destiny
 
 ## Open questions
 
-- Who — *what* — was the raven-man? Why did **Danika wince** when it came up?
-- If Vallaki was spared for its church… what happens to a Vallaki whose church has lost its bones?
+- ~~Who — *what* — was the raven-man? Why did **Danika wince** when it came up?~~ **Answered, Session 10, both at once:** the raven-man was a **wereraven** of [[The Ravens of Barovia]] — **Great Uncle Frederick**, to be precise, of the family that runs our inn. Roger's band murdered their destined ally *and* their landlady's great-uncle in one stroke. *Don't kill the ravens* was never advice. It was a eulogy.
+- If Vallaki was spared for its church… what happens to a Vallaki whose church has lost its bones? *(Session 10 sharpened this one horribly: the bones shielded the whole **city**. Past tense. See [[Quests & Threads]].)*
 - What else has he seen from that corner table in forty years?
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]]. See also: [[The Reading]] (his cards beside ours) · [[The Party (Player Reference)|the current set of Mistwalkers]].*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]]. See also: [[The Reading]] (his cards beside ours) · [[The Party (Player Reference)|the current set of Mistwalkers]] · [[Urwin Martikov]].*

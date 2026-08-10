@@ -9,7 +9,7 @@ description: "The player chronicle of our Curse of Strahd campaign — recaps, f
   <h1 class="hitl-title">He Is The Land</h1>
   <p class="hitl-tag">Five strangers. Five heirlooms. One road west — and the devil owns it.</p>
   <div class="hitl-cta hitl-in-hero">
-    <a class="hitl-cta-primary" href="./1-podcast/episode-9-—-cut-the-thread">▶ Latest episode</a>
+    <a class="hitl-cta-primary" href="./1-podcast/episode-10-—-you-can-just-leave">▶ Latest episode</a>
     <a href="./1-session-journals/the-story-so-far">The story so far</a>
     <a href="./1-player-compendium/">The compendium</a>
   </div>
@@ -21,17 +21,17 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 ## Before next session
 
-> **We are walking to Henrik's Coffin Works, nails in pocket, five days to the festival.** Behind us, one very full day: [[Milivoj]]'s **confession** (300 gold, a stranger with *very clean shoes*, a dead-drop in the Baron's own family crypt) · dinner at **[[The House of Wachter|Wachterhaus]]** — a 50-gold commission to find **proof of what Victor did to Stella**, and a pet raven that read as a **FIEND** and fled the house when it heard us say so · [[Ireena Kolyana|Ireena]] singing a song she *dreamed* to a silent taproom (*"they'll snip it, and they'll spin it, and I'll wake another girl"*) · a letter from **[[The Ravens of Barovia]]** lying in the middle of our **locked** room — our reply, requesting a meeting, lies where it fell · and a smith who glanced at our only evidence and said: *"Oh. You've got [[Henrik the Coffin Maker|Henrik's]] nails."* **Session 10 opens on the knock.**
+> **MID-SCENE: Lily is still inside Wachterhaus.** Behind us, the fullest day of the campaign: eighteen guards and [[Izek]] (*"the baron wants to see youse"*) · [[The Baron of Vallaki|the Baron's]] bargain — **wax-sealed writs**, deputyship, evidence against Lady Wachter as the price — and **Fëanor kept as collateral** · [[Victor Vallakovich|Victor]] taking **thirty of Sirius's thirty-five minutes** · [[Henrik the Coffin Maker|Henrik's]] confession (he pulled the bones; **Ernst** took them; **six coffins** arrived the next day — and Sirius counted six undead through the ceiling) · **[[Urwin Martikov|our barman]] turning into a wereraven in our bedroom** — the [[The Ravens of Barovia]], revealed, with seven hundred years of context and the lore that reframes everything: **the bones shielded the whole city** · Lily's note-run to Wachterhaus (*"Have you turned on me, Lily?"* — two sleep-waves, shaken off) · and the lady's answer: a **canapé party as a shield wall** and *"your services are no longer required."* **Session 11 opens inside the house.**
 
-- **Immediate business:** the Coffin Works. Then north — **Bluto** is missing at the haunted lake (70–80 gold from Mama Wachter), and we told the Ravens we'd be there.
-- **The clock:** the **Festival of the Blazing Sun is in FIVE days.** The church is still hollow. [[Ireena Kolyana|Ireena]] still doesn't know — and we're also sitting on Lady Wachter's invitation for her, undelivered.
-- **Keep in mind:** the locket's road leads to **[[The Abbot|the abbot above Krezk]]**; the wine is now *rationed* and the Wizards of Wine run west; the toy for [[Aragal]] still isn't bought; and **divine sense before violence on anything with feathers.** The full ledger lives in [[Quests & Threads]].
+- **Immediate business:** get Lily out — or first, decide what Lily can *find*. Then: Fëanor's ransom is denominated in *progress*, and we are richer in reportable truth than we think.
+- **The clock:** the **Festival of the Blazing Sun is in FOUR days** — mandatory, streets, children required — and six coffins sit over a coffin maker's bed. The church is still hollow. [[Ireena Kolyana|Ireena]] still doesn't know.
+- **Keep in mind:** *"Trust is hard. Want to prove yourselves."* The Ravens' intel offer stands; **never harm a raven**; Bluto is overdue at the lake; the locket still points at **[[The Abbot|the abbot above Krezk]]**; the toy for [[Aragal]] still isn't bought. The full ledger lives in [[Quests & Threads]].
 
 ## Start here
 
 - 📖 **New, or catching up?** [[The Story So Far]] — the whole tale in one sitting.
-- 🎧 **Latest episode:** [[Episode 9 — Cut the Thread]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
-- 📋 **Latest recap:** [[Session_009_Player_Recap|Session 9 — Recap]] · deep detail in the [[Session_009_Player_Notes|Field Notes]].
+- 🎧 **Latest episode:** [[Episode 10 — You Can Just Leave]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
+- 📋 **Latest recap:** [[Session_010_Player_Recap|Session 10 — Recap]] · deep detail in the [[Session_010_Player_Notes|Field Notes]].
 
 ## The chronicle
 
@@ -43,6 +43,7 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 | # | Listen | Read |
 | --- | --- | --- |
+| 10 | [[Episode 10 — You Can Just Leave\|You Can Just Leave]] (1:11:02) | [[Session_010_Player_Recap\|Recap]] · [[Session_010_Player_Notes\|Field Notes]] |
 | 9 | [[Episode 9 — Cut the Thread\|Cut the Thread]] (1:05:06) | [[Session_009_Player_Recap\|Recap]] · [[Session_009_Player_Notes\|Field Notes]] |
 | 8 | [[Episode 8 — Don't Be Boring\|Don't Be Boring]] (1:03:30) | [[Session_008_Player_Recap\|Recap]] · [[Session_008_Player_Notes\|Field Notes]] |
 | 7 | [[Episode 7 — All Will Be Well\|All Will Be Well]] (56:02) | [[Session_007_Player_Recap\|Recap]] · [[Session_007_Player_Notes\|Field Notes]] |

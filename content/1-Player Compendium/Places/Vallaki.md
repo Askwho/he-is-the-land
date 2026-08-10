@@ -38,21 +38,30 @@ And yet — mark this — **people walk these streets after dark without scurryi
 - **The lake to the north is haunted** — four years now: a **wailing woman**, fishermen ensorcelled into walking into the water and drowning *in front of their friends*. The fishing industry is dead. (Lake's haunted.)
 - **The dusk elves** — a dying people camped with the Vistani outside the walls, all men, because the devil killed every one of their women.
 
+## The government, now that we've met it (Session 10)
+
+- **[[The Baron of Vallaki|The Baron]]** — received us in a back office, retracted a vigilantism charge, deputized us under **wax-sealed writs**, commissioned us against Lady Wachter, and kept our priest as *surety*. He is not lying about any of it. Somehow that is worse.
+- **The Baroness** — grinned. The entire audience. See [[The Baron of Vallaki|the file]].
+- **[[Izek]]** — eight feet, an arm the size of a grown man, *"The baron wants to see youse."* Now met in the flesh; still best kept off one's eyeline.
+- **[[Victor Vallakovich]]** — the perfect son in the attic, who took half an hour out of our paladin's head.
+- **The Reformation Centre** is run by **"the twins"** — *"either people come out thinking more appropriately, or they don't come out at all."* The Baron said this fondly. Also: **two of his three household staff have disappeared** lately. He mentioned it like a man complaining about the servant problem.
+
 ## Known establishments
 
-- **[[The Blue Water Inn]]** — warmth, wolf steak (wine now *rationed*), and our beds. Also [[Roger]], [[The Bard]], and [[Danika Martikov|our landlady]].
-- **[[St. Andral's Church]]** — the finest building in town, with an empty secret under the altar.
+- **[[The Blue Water Inn]]** — warmth, wolf steak (wine now *rationed*), our beds — and, it turns out, an information hub of [[The Ravens of Barovia]]. Also [[Roger]], [[The Bard]], and [[Danika Martikov|our landlady]].
+- **[[St. Andral's Church]]** — the finest building in town, with an empty secret under the altar — an emptiness that, we now know, used to shield the whole city.
 - **[[St. Andral's Orphanage]]** — recently de-demoned; currently housing one confessed, confined, unrepentant gravedigger ([[Milivoj]]).
-- **Wachterhaus** — the finest house in the noble district. We have dined there. See [[The House of Wachter]] — and mind the empty perch.
+- **Wachterhaus** — the finest house in the noble district. We have dined there, fled from there, and been fired by there, in that order. See [[The House of Wachter]] — the perch is occupied again.
 - **The Workyard smith** — *not* the shopping-district smith (who, per Lady Wachter, is the Baron's man). Friendly, talks hammers with Drew, sharpens anything for silver, and identifies coffin nails on sight.
-- **The Coffin Works** — [[Henrik the Coffin Maker|Henrik]]'s shop, production district. Doesn't open every day. **We are walking there now.**
+- **The Coffin Works** — [[Henrik the Coffin Maker|Henrik]]'s shop, production district. Shuttered; he lives inside. So do six things we are not discussing in public.
+- **Celegal's Bowyer** — next door to the Coffin Works: a chatty grey-skinned, long-eared elf a very long way from home. Bows, bolts, gossip, and fair prices (he paid **30 gold** for a heavy crossbow nobody was using). Vallaki's only ammunition counter.
 - **Blinsky's toy shop** — as yet unvisited; we owe [[Aragal]] a toy from it, at 20 gold over cost.
 - **The Vistani camp** sits *outside* the east gate — Vallaki admits no Vistani. We waved. The toy isn't bought yet.
 
 ## Open questions
 
-- What exactly happens at a Festival of the Blazing Sun — a festival of the *sun*, in the devil's land, enforced at pike-point? Lathander's? Mockery? Both? **Five days to find out.**
-- The bones: taken by [[Milivoj]], bought by a man with very nice shoes, nailed shut with [[Henrik the Coffin Maker|Henrik's]] handiwork. Who does a coffin maker answer to? (The town doesn't know they're gone. Keep it that way.)
-- **Vallaki was the one place spared in the bad times** — Roger thinks *because of the church.* Sit with that. Then count five days again.
+- What exactly happens at a Festival of the Blazing Sun — a festival of the *sun*, in the devil's land, enforced at pike-point, **four days from now** — if six coffins open into a street the whole town is legally required to stand in?
+- ~~The bones: who does a coffin maker answer to?~~ **Answered in full** — the chain runs Milivoj → crypt → Henrik → Ernst → [[The House of Wachter|Lady Wachter]]. What's left is the hard part: getting them *back*. (The town still doesn't know. Keep it that way.)
+- **Vallaki was the one place spared in the bad times** — *because of the church.* No longer Roger's theory: the Ravens' records confirm it. Count four days again.
 
-*The full record: [[Session_007_Player_Notes|S7 field notes]] · [[Session_008_Player_Notes|S8 field notes]] · [[Session_009_Player_Notes|S9 field notes]].*
+*The full record: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10 field notes]].*
