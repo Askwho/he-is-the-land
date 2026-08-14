@@ -20,10 +20,14 @@ He slammed the door on us, folded when we pushed in, and would say nothing in th
 
 And we must record the first thing we did, because it matters: **we checked his shoes. Dirty. Workman's boots.** He is not the man with the nice shoes.
 
-## What's upstairs
+## What was upstairs (Session 11)
 
-Sirius opened his sixth sense in that shop and read straight through the ceiling: **six undead, on the floor above us.** They have not moved. Nobody else in Vallaki knows. The festival — attendance mandatory, by law — is four days out. We are gambling that returning the bones beats fighting six of anything.
+Sirius's sixth sense had read **six undead** through that ceiling, and we collectively assumed zombies. We went back in the morning to finish it — Henrik, mercifully, had slept at the Blue Water — and learned three things in quick succession:
 
-Henrik has no money and no friends (*"not very social,"* he said, and fair), so he is still sleeping under them. He knows everything we know. If the Baron's people reach him first, he will say it all in one breath.
+1. **There is no paperwork anywhere in that building.** Not a delivery note, not a manifest. Whoever supplies Henrik does not do receipts. (We were hunting evidence for [[Izek]]. There is none.)
+2. **A pristine, professional, *expensive* alarm ward** sat on the stairs, and none of us spotted it before it went off like the wrath of god.
+3. They were never zombies. **Vampire spawn. Six.** Someone had moved them out of the coffins into person-sized crates — unmarked, save one small **silver sign**. Four went out the windows into the morning streets. Two stayed, and made their point mostly on Lily. Muriel unmade both of them.
 
-*Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]]. See also: [[The House of Wachter]] (Ernst), [[Quests & Threads]] (the bones), [[Vallaki]].*
+The shop is now the outbreak's ground zero: burst windows, two piles of dust, and a town looking for someone to blame. Henrik knows everything we know, and his coffins just confessed for him. He is very high on the list of people we are somehow responsible for.
+
+*Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]], [[Session_011_Player_Notes|S11]]. See also: [[Ernst Larnak]], [[The House of Wachter]], [[Muriel Vinshaw]], [[Quests & Threads]] (the bones), [[Vallaki]].*

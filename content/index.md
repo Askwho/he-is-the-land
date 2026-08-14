@@ -9,7 +9,7 @@ description: "The player chronicle of our Curse of Strahd campaign — recaps, f
   <h1 class="hitl-title">He Is The Land</h1>
   <p class="hitl-tag">Five strangers. Five heirlooms. One road west — and the devil owns it.</p>
   <div class="hitl-cta hitl-in-hero">
-    <a class="hitl-cta-primary" href="./1-podcast/episode-10-—-you-can-just-leave">▶ Latest episode</a>
+    <a class="hitl-cta-primary" href="./1-podcast/episode-11-—-hunt-well-those-who-hunt">▶ Latest episode</a>
     <a href="./1-session-journals/the-story-so-far">The story so far</a>
     <a href="./1-player-compendium/">The compendium</a>
   </div>
@@ -21,17 +21,17 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 ## Before next session
 
-> **MID-SCENE: Lily is still inside Wachterhaus.** Behind us, the fullest day of the campaign: eighteen guards and [[Izek]] (*"the baron wants to see youse"*) · [[The Baron of Vallaki|the Baron's]] bargain — **wax-sealed writs**, deputyship, evidence against Lady Wachter as the price — and **Fëanor kept as collateral** · [[Victor Vallakovich|Victor]] taking **thirty of Sirius's thirty-five minutes** · [[Henrik the Coffin Maker|Henrik's]] confession (he pulled the bones; **Ernst** took them; **six coffins** arrived the next day — and Sirius counted six undead through the ceiling) · **[[Urwin Martikov|our barman]] turning into a wereraven in our bedroom** — the [[The Ravens of Barovia]], revealed, with seven hundred years of context and the lore that reframes everything: **the bones shielded the whole city** · Lily's note-run to Wachterhaus (*"Have you turned on me, Lily?"* — two sleep-waves, shaken off) · and the lady's answer: a **canapé party as a shield wall** and *"your services are no longer required."* **Session 11 opens inside the house.**
+> **MID-COMBAT: St. Andral's is on fire and we are inside it.** Behind us, the morning that changed Vallaki: the correction to the record (we were *all* at the canapé party) · [[Ernst Larnak|Ernst's]] story — *"there's only one devil in Barovia, and you are flashing his writ"* · **[[Muriel Vinshaw]]**, wereraven, watching us since the Village, now stabbing things on our behalf · [[Izek]]'s arithmetic (*"There are no undead in Vallaki… you literally can't bring evidence"*) and a **deadline: physical proof of Lady Wachter's hand by tomorrow morning**, with Fëanor as the stake · [[The Bard|the bard's]] chest — a complete vampire-hunting kit and five words: ***"Hunt well those who hunt"*** · and the Coffin Works, where six crates held **vampire spawn**: four out the windows, two dust on Muriel's beak, Lily back from death's door — and a race through a burning town to a church where **[[Father Lucian]] is holding two vampires at bay from his own altar with nothing but faith.** *"All is lost."* / *"They won't be for long."* **Session 12 finishes the fight.**
 
-- **Immediate business:** get Lily out — or first, decide what Lily can *find*. Then: Fëanor's ransom is denominated in *progress*, and we are richer in reportable truth than we think.
-- **The clock:** the **Festival of the Blazing Sun is in FOUR days** — mandatory, streets, children required — and six coffins sit over a coffin maker's bed. The church is still hollow. [[Ireena Kolyana|Ireena]] still doesn't know.
-- **Keep in mind:** *"Trust is hard. Want to prove yourselves."* The Ravens' intel offer stands; **never harm a raven**; Bluto is overdue at the lake; the locket still points at **[[The Abbot|the abbot above Krezk]]**; the toy for [[Aragal]] still isn't bought. The full ledger lives in [[Quests & Threads]].
+- **Immediate business:** win the church; keep Father Lucian alive; then find **the two spawn still loose in Vallaki** before nightfall does.
+- **The clock:** **Izek collects at dawn** — the truth was "impossible" yesterday; is a burned church full of witnesses paper enough? And the **Festival is in FOUR days**, in a town that now knows what was waiting for it. [[Ireena Kolyana|Ireena]] *still* doesn't know — and her sanctuary is burning.
+- **Keep in mind:** an angel publicly blamed *"the servants of Lady Wachter"* — there is no walking that back; the lady's door stands open (*"anyone who comes to their senses can still do business with me"*); **Falkon is missing at the winery**; Henrik needs choosing; Bluto (a friend of the Wachter sons, it turns out) is still at the lake; **never harm a raven.** The full ledger lives in [[Quests & Threads]].
 
 ## Start here
 
 - 📖 **New, or catching up?** [[The Story So Far]] — the whole tale in one sitting.
-- 🎧 **Latest episode:** [[Episode 10 — You Can Just Leave]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
-- 📋 **Latest recap:** [[Session_010_Player_Recap|Session 10 — Recap]] · deep detail in the [[Session_010_Player_Notes|Field Notes]].
+- 🎧 **Latest episode:** [[Episode 11 — Hunt Well Those Who Hunt]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
+- 📋 **Latest recap:** [[Session_011_Player_Recap|Session 11 — Recap]] · deep detail in the [[Session_011_Player_Notes|Field Notes]].
 
 ## The chronicle
 
@@ -43,6 +43,7 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 | # | Listen | Read |
 | --- | --- | --- |
+| 11 | [[Episode 11 — Hunt Well Those Who Hunt\|Hunt Well Those Who Hunt]] (1:05:40) | [[Session_011_Player_Recap\|Recap]] · [[Session_011_Player_Notes\|Field Notes]] |
 | 10 | [[Episode 10 — You Can Just Leave\|You Can Just Leave]] (1:11:02) | [[Session_010_Player_Recap\|Recap]] · [[Session_010_Player_Notes\|Field Notes]] |
 | 9 | [[Episode 9 — Cut the Thread\|Cut the Thread]] (1:05:06) | [[Session_009_Player_Recap\|Recap]] · [[Session_009_Player_Notes\|Field Notes]] |
 | 8 | [[Episode 8 — Don't Be Boring\|Don't Be Boring]] (1:03:30) | [[Session_008_Player_Recap\|Recap]] · [[Session_008_Player_Notes\|Field Notes]] |

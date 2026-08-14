@@ -145,7 +145,7 @@ What the comparison taught us:
 - Who is **the only man the devil ever envied**? The Vistani don't know; if the answer exists, it's written down somewhere.
 - What must Fëanor **choose** at dawn?
 - What waits in a *den of beasts*?
-- **The hunter of hunters:** when they step out of the woods — *will we know them?*
+- **The hunter of hunters:** when they step out of the woods — *will we know them?* **Update, Session 11:** a heavy chest, a complete vampire-hunting kit, and five words — *"Hunt well those who hunt."* Delivered the night before we learned what was in the coffins, by way of [[The Bard|the bard]]. We think our destined ally just equipped us. We have not yet managed to look them in the eye.
 
 ---
 

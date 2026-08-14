@@ -1,14 +1,14 @@
 ---
 title: "The House of Wachter"
 publish: true
-description: "Lady Fiona Wachter — charisma in a dress, a canapé party used as a shield wall, and a raven back on her shoulder. 'Your services are no longer required.'"
+description: "Lady Fiona Wachter — charisma in a dress, a canapé party used as a shield wall, and a door held open: 'Anyone who comes to their senses can still do business with me.'"
 ---
 
-> **Who:** Vallaki's *other* noble house. We have dined at its table (S9), fled from its sitting room (S10), and, as of the cliffhanger, have one of us hidden inside it.
+> **Who:** Vallaki's *other* noble house. We have dined at its table (S9), fled from its sitting room (S10), and eaten its canapés under its own roof (S11 — all of us, it turns out; see the correction below).
 >
 > **Where:** **Wachterhaus** — the finest house in the noble district. Per the [[The Ravens of Barovia|Ravens]]: **warded to the nines** — in ten years, their agents have never gotten inside.
 >
-> **Status:** ⛔ Ex-employer. *"Your services are no longer required."*
+> **Status:** ⛔ Ex-employer — but the door is held open: *"No one is beyond redemption. **Anyone who comes to their senses can still do business with me.**"* Also, as of Session 11: **publicly accused of letting vampires into Vallaki, by an angel, over a crowd.** Complicated.
 
 ## Lady Fiona Wachter
 
@@ -30,14 +30,6 @@ Pressed gently, Lady Wachter: it is *"just a bird."* A gift from *"a dear friend
 
 Her sons supplied the missing chapter later, at the inn: when their father died, their grieving mother wrote to everyone — *including the abbey, about raising him from the dead* — then disappeared for two weeks, and **came back with the raven, and seemed at peace.** Sit with that story a moment. We have. (See also: [[The Ravens of Barovia]], who wrote to us that very night about exactly this.)
 
-## Karl & Nikolai
-
-The two rowdy lads of [[The Blue Water Inn]] — carefree, charming, deep in their cups nightly. Good company, better sources. Now also our employers in a small way: their drinking companion **Bluto** is missing at the haunted lake, and they'll have Mama pay 70–80 gold to see him home safe ([[Quests & Threads]]).
-
-## Stella, and what was done to her
-
-Betrothed to **Victor Vallakovich** ~3 years ago — a match Lady Wachter arranged herself — and returned from that house broken. **Her body is well; it is *merely her mind***, and it has been merely her mind for three years, in a locked room, seeing no one. We have seeded coming back to try healing her. Note what [[Headmistress Claudia]] said about [[The Abbot|the abbot]]: *heals body and minds.*
-
 ## Lily and the lady (Session 10)
 
 The plan was sensible: a note — *we have information about your daughter; meet us at the church, neutral ground* — delivered by Lily, hooded, forgettable. Every part of it was sensible except the footman recognizing her on the doorstep (*"Lily from earlier! Come in"*). So Lily stood alone in the sitting room with Lady Wachter — **raven on her shoulder** — produced the note, rolled her worst deception of the evening, and watched the temperature drop: **"Have you turned on me, Lily?"**
@@ -54,13 +46,19 @@ Sirius walked in the front door anyway and offered her the truth among witnesses
 
 And across the room, leaning on the wall, watching us the way a man watches a job — **Ernst.** *"It seems your friend took a bit of a fright earlier."* We said she'd only been delivering a message. ***"I think the message was received loud and clear."***
 
-## Ernst Larnak
+## The canapé party, corrected (Session 11)
 
-Promoted in the file from "polite manservant" to **the lady's shadow**. [[Henrik the Coffin Maker|Henrik]] named him: Ernst threatened him, and Ernst's hands took the stolen bones. The Ravens' assessment: *"think of him as an appendage"* — he barely exists as a person apart from her. He watches like a professional. He is, per our minutes, "a bit of a bloke," which is exactly what the best ones look like.
+For the record: we were **all** inside. Every one of us had followed Sirius through the front door, and we spent the evening eating a hostile noblewoman's canapés under the eyes of fifty adoring citizens. Drew's invisible voice cried *"Fire!"* from a hiding spot near the kitchen; a footman named **Haliq** defeated the entire plan by staying calm and pointing at the absence of smoke. The lady, asked if we should be concerned: *"My house is very safe — **in a lot of ways**."*
+
+And as we left, her voice followed us out like perfume: *"No one is beyond redemption. Anyone who comes to their senses can still do business with me. No one has done anything that could not be saved."* That is a door held open, and we all heard it. What we do not know is whether it survived the next morning — when the coffins her town says nothing about turned out to hold **vampires**, and Sirius told a street full of witnesses whose servants let them in.
+
+## [[Ernst Larnak|Ernst]]
+
+Promoted in the file twice over: from "polite manservant" to "the lady's shadow" (Session 10, when [[Henrik the Coffin Maker|Henrik]] named him) — and then, Session 11, from appendage to **person**, which is worse. He has his own page now: [[Ernst Larnak]]. Two brothers, a rotten apple, the Reformation Center; *"there's only one devil in Barovia, and you are flashing his writ."* We looked for the lie and found only fury. The household chorus behind him — Haliq in the hall, young **Madalena**: *"Each one of us was rescued by the lady."* Her good works are real to the people she saved. We record it plainly because it is the most dangerous fact in this file.
 
 ## Karl & Nikolai
 
-The two rowdy lads of [[The Blue Water Inn]] — carefree, charming, deep in their cups nightly, and **innocent, we'd wager, of everything above**. Their drinking companion **Bluto** is still missing at the haunted lake ([[Quests & Threads]]); we still owe them a walk north.
+The two rowdy lads of [[The Blue Water Inn]] — carefree, charming, deep in their cups nightly, and **innocent, we'd wager, of everything above**. Their drinking companion **Bluto** is still missing at the haunted lake ([[Quests & Threads]]) — and is, we've since learned, **a friend of theirs specifically**; finding him would mean something to this family. We still owe them a walk north.
 
 ## Stella, and what was done to her
 
@@ -69,7 +67,9 @@ Betrothed to **[[Victor Vallakovich]]** ~3 years ago — a match Lady Wachter ar
 ## Open questions
 
 - **What is Lady Wachter?** Not a fiend, not undead — but she went away grieving and came home with a demon on a perch and peace in her heart. And the demon *came back*.
-- **The bones are almost certainly in that house** — the one building in Vallaki the Ravens cannot see into. Where do you keep stolen holy bones in a warded house — and as of the cliffhanger, **Lily is inside, finding out.**
+- **The bones are almost certainly in that house** — the one building in Vallaki the Ravens cannot see into, and the one place the city's shield could be rebuilt from. What does she do with them now that the coffins are spent and the church is burning?
+- **Whose "master's design" was the coffin plot** — hers? Or the devil's, with her as the courier? *"The master cares not for us,"* said the dying thing. It did not say *the mistress*.
 - What was the *sleep* that reached for Lily twice — the lady, or the thing on her shoulder?
+- **Which way does Ernst break**, now that the whole town has seen what his errands let in? He knows where we are.
 
-*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]]. See also: [[Vallaki]], [[The Ravens of Barovia]], [[Henrik the Coffin Maker]].*
+*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]]. See also: [[Ernst Larnak]], [[Vallaki]], [[The Ravens of Barovia]], [[Henrik the Coffin Maker]].*

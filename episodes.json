@@ -1,130 +1,141 @@
 {
-    "show": {
-        "title": "He Is The Land",
-        "subtitle": "A Curse of Strahd actual play",
-        "description": "Five strangers, five heirlooms, and the mists of Barovia. Our Curse of Strahd campaign, edited down to tight audio episodes — the dice, the dread, and the bits that made us laugh. Featuring Vicky as Drew, David as Fëanor, Nathan as Lily, Nick as Sirius, and Duncan as Sir Osric Cunningham. Dungeon Master: Thomas.",
-        "siteUrl": "https://heistheland.askwhocasts.com",
-        "podcastPage": "https://heistheland.askwhocasts.com/1-podcast/",
-        "feedUrl": "https://heistheland.askwhocasts.com/podcast/feed.xml",
-        "audioBase": "https://heistheland.askwhocasts.com/audio",
-        "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/show-cover.png",
-        "author": "Askwho Casts",
-        "email": "askew.thomas@gmail.com",
-        "language": "en-us",
-        "category": "Leisure",
-        "subcategory": "Games",
-        "explicit": false
+  "show": {
+    "title": "He Is The Land",
+    "subtitle": "A Curse of Strahd actual play",
+    "description": "Five strangers, five heirlooms, and the mists of Barovia. Our Curse of Strahd campaign, edited down to tight audio episodes — the dice, the dread, and the bits that made us laugh. Featuring Vicky as Drew, David as Fëanor, Nathan as Lily, Nick as Sirius, and Duncan as Sir Osric Cunningham. Dungeon Master: Thomas.",
+    "siteUrl": "https://heistheland.askwhocasts.com",
+    "podcastPage": "https://heistheland.askwhocasts.com/1-podcast/",
+    "feedUrl": "https://heistheland.askwhocasts.com/podcast/feed.xml",
+    "audioBase": "https://heistheland.askwhocasts.com/audio",
+    "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/show-cover.png",
+    "author": "Askwho Casts",
+    "email": "askew.thomas@gmail.com",
+    "language": "en-us",
+    "category": "Leisure",
+    "subcategory": "Games",
+    "explicit": false
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Death House",
+      "file": "He_Is_The_Land_S01_The_Death_House.mp3",
+      "bytes": 67246001,
+      "durationSec": 2800,
+      "pubDate": "2026-06-04T21:00:00Z",
+      "page": "1-podcast/episode-1-%E2%80%94-the-death-house",
+      "description": "Five strangers on five small errands walk into the same unnatural mist, and five family keepsakes come alive and drag them to the foot of a staircase that has no business existing. At the top: a tall, narrow house whose door opens by itself, whose fire dies the moment the last guest steps inside, and whose walls bleed a verse about a hungry beast beneath the floorboards. The finery is a lie, the taxidermy is watching, the house is arming them — and in a hidden study, a dead man's will and a letter signed 'In darkness I endure' say the word Barovia for the first time.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s01.jpg"
     },
-    "episodes": [
-        {
-            "number": 1,
-            "title": "The Death House",
-            "file": "He_Is_The_Land_S01_The_Death_House.mp3",
-            "bytes": 67246001,
-            "durationSec": 2800,
-            "pubDate": "2026-06-04T21:00:00Z",
-            "page": "1-podcast/episode-1-%E2%80%94-the-death-house",
-            "description": "Five strangers on five small errands walk into the same unnatural mist, and five family keepsakes come alive and drag them to the foot of a staircase that has no business existing. At the top: a tall, narrow house whose door opens by itself, whose fire dies the moment the last guest steps inside, and whose walls bleed a verse about a hungry beast beneath the floorboards. The finery is a lie, the taxidermy is watching, the house is arming them — and in a hidden study, a dead man's will and a letter signed 'In darkness I endure' say the word Barovia for the first time.",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s01.jpg"
-        },
-        {
-            "number": 2,
-            "title": "The House Remembers",
-            "file": "He_Is_The_Land_S02_The_House_Remembers.mp3",
-            "bytes": 59833933,
-            "durationSec": 2491,
-            "pubDate": "2026-06-11T21:00:00Z",
-            "page": "1-podcast/episode-2-%E2%80%94-the-house-remembers",
-            "description": "The house fights back: a suit of armour with nothing inside it throws a paladin over the banister, and the party answers with grease, holy force, and two natural twenties. Upstairs, a mirror holds a maid who doesn't know she's dead, and behind an iron-locked attic door wait two small beds, two small skeletons — and Rose and Thorn Durst, who know exactly what they are. Three bundles of bones go on Drew's belt, a dollhouse gives up every secret passage in the building, and a hidden spiral stair leads down into the dark, where something is crying like a baby.",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s02.jpg"
-        },
-        {
-            "number": 3,
-            "title": "The Devil's Name",
-            "file": "He_Is_The_Land_S03_The_Devils_Name.mp3",
-            "bytes": 46489715,
-            "durationSec": 1935,
-            "pubDate": "2026-06-18T21:00:00Z",
-            "page": "1-podcast/episode-3-%E2%80%94-the-devil's-name",
-            "description": "Under the house the crypts are all empty, the mother's coffin boils with insects, and Gustav Durst hangs from the rafters of an underground bedroom. Deeper down, a chant rises — 'He is ancient. He is the land' — to an altar over black water where robed apparitions demand what altars always demand: one must die. The party looks at the dog, looks at each other, and says no. What midnight sends up out of the refuse instead closes the book on Death House — and three freed spirits finally say the devil's name out loud.",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s03.jpg"
-        },
-        {
-            "number": 4,
-            "title": "Mist Walkers",
-            "file": "He_Is_The_Land_S04_Mist_Walkers.mp3",
-            "bytes": 71054485,
-            "durationSec": 2958,
-            "pubDate": "2026-06-25T21:00:00Z",
-            "page": "1-podcast/episode-4-%E2%80%94-mist-walkers",
-            "description": "Through a crumbling gate stamped with the sigil of the Strahd empire — the same sigil on Osric's family banner — the party walks down into a village where curtains twitch and strangers mean trouble. An old woman sells pies that are far too good and answers no questions about them; a new-made burgomaster explains, patiently, that the vampire is real and there is no leaving; and his sister Ireena needs an escort west. Then a funeral, a weeping priest, a chained trapdoor — and down in the crypt, a frightened voice: 'I'm sorry. I'm so hungry.'",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s04.jpg"
-        },
-        {
-            "number": 5,
-            "title": "Friend-Shaped",
-            "file": "He_Is_The_Land_S05_Friend_Shaped.mp3",
-            "bytes": 71221519,
-            "durationSec": 2965,
-            "pubDate": "2026-07-02T21:00:00Z",
-            "page": "1-podcast/episode-5-%E2%80%94-friend-shaped",
-            "description": "A boy who cannot die begs for mercy beneath a village church. A map is drawn, a test is confessed, and one last evening of wine turns into the house call nobody survives unchanged: a knock after dark, and a visitor everyone at the table simply knows is a friend. The morning after, the party takes the one road west — past lights that lie, a standing stone that knows their family, and a wolf pack that meets the business end of a brand-new invention — to a Vistani campfire where the price of dinner is a story, and a stranger already knows all five of their names. Stay past the credits.",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s05.jpg"
-        },
-        {
-            "number": 6,
-            "title": "Something Sweet",
-            "file": "He_Is_The_Land_S06_Something_Sweet.mp3",
-            "bytes": 75782832,
-            "durationSec": 3155,
-            "pubDate": "2026-07-09T21:00:00Z",
-            "page": "1-podcast/episode-6-%E2%80%94-something-sweet",
-            "description": "In a tent of candles and black velvet, an old woman who needs no introductions deals five fates onto the table — knowledge behind the walls of man, protection in the house of a dragon, power in an amber palace of darkness, an ally who hunts hunters, and a devil waiting in the tomb of the only man he ever envied. Every heirloom is named. One card comes up blank. Then the road west: a magic eye finally sees what is wound through Granny's pies — and around Lily's head — a rider with terrible knees and a toy commission, and at dusk, a leaning windmill that smells of fresh baking. The screaming in the cart is not pies. Ends mid-swing.",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s06.jpg"
-        },
-        {
-            "number": 7,
-            "title": "All Will Be Well",
-            "file": "He_Is_The_Land_S07_All_Will_Be_Well.mp3",
-            "bytes": 80759477,
-            "durationSec": 3362,
-            "pubDate": "2026-07-16T21:00:00Z",
-            "page": "1-podcast/episode-7-%E2%80%94-all-will-be-well",
-            "description": "The windmill fight ends the way fights with three hags end: a paladin and a knight turned into frogs, a gnome sprinting into the middle of it to pocket them both, and a beloved invention smashed to scrap. The party runs; the hags laugh; nobody chases. Then, by firelight, the woman from the silver net explains what the pies are made of — and everyone is quietly glad they burned the lot. The road west offers a dire wolf with roses in its mouth and a letter signed 'your destined future lover'; a raven that is not an animal; and at dusk, Vallaki — real walls, mandatory smiles, a festival in seven days, a church with an empty secret under its altar, and an old man at a corner table who has seen people like them before. All of them. Once.",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s07.jpg"
-        },
-        {
-            "number": 8,
-            "title": "Don't Be Boring",
-            "file": "He_Is_The_Land_S08_Dont_Be_Boring.mp3",
-            "bytes": 91499851,
-            "durationSec": 3810,
-            "pubDate": "2026-07-23T21:00:00Z",
-            "page": "1-podcast/episode-8-%E2%80%94-don't-be-boring",
-            "description": "Roger drinks the wine and tells the party how his story ended, so that theirs might not: a band just like them, forty-five years ago, who met a creature on the road — half raven, half man, speaking peace — and killed it, and were never forgiven by the land. His battered fate-cards go on the table next to theirs, and the one difference matters more than all the matches: his destined ally was the raven. The taproom empties its pockets — a landlady whose family owns the winery, two lordlings with a maddened sister, a bard who says the devil's name out loud and watches with great interest. In the morning Lily wakes free of the pies at last, and the party walks into an orphanage where the groundskeeper lies cursed, three boys are missing, and a small boy in a padlocked attic introduces himself as Mostly Felix. What pours out of him goes through steel like rumor — until an angel's ward, a god's radiance, and a rusted locket end the argument. Then the man who wakes up says eight words that break the whole case open. Stay past the credits.",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s08.jpg"
-        },
-        {
-            "number": 9,
-            "title": "Cut the Thread",
-            "file": "He_Is_The_Land_S09_Cut_the_Thread.mp3",
-            "bytes": 93796991,
-            "durationSec": 3906,
-            "pubDate": "2026-07-30T21:00:00Z",
-            "page": "1-podcast/episode-9-%E2%80%94-cut-the-thread",
-            "description": "Milivoj breaks in a crowded hallway — he took the bones, for 300 gold and three missing boys, paid by a stranger with a hidden face and very clean shoes — and a paladin quoting liturgy about hands is talked down to a deferred sentence. The Baron's family crypt gives up a handful of custom nails; an orphanage headmistress reluctantly names the one man in Barovia who might handle a demon in a box. Then dinner at Wachterhaus: a hostess who says the devil's name freely and wants two men dead, a 50-gold commission, a test of the name spoken five times — and a pet raven that reads as a fiend, overhears the world's least subtle bathroom conference, and flies out of the house for good. Back at the inn, Ireena sings a song she dreamed — two brothers, a stolen sun, a girl beneath the lake remade over and over — and a letter from the Ravens of Barovia lies in the middle of a locked room. In the morning, a smith glances at the party's only evidence and names it on sight. Stay past the credits.",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s09.jpg"
-        },
-        {
-            "number": 10,
-            "title": "You Can Just Leave",
-            "file": "He_Is_The_Land_S10_You_Can_Just_Leave.mp3",
-            "bytes": 102335954,
-            "durationSec": 4262,
-            "pubDate": "2026-08-06T21:00:00Z",
-            "page": "1-podcast/episode-10-%E2%80%94-you-can-just-leave",
-            "description": "Eighteen guards, one street, and eight feet of Izek: 'The baron wants to see youse.' The audience comes with festival floats, a Baroness who never stops grinning, wax-sealed writs of deputyship, a commission against Lady Wachter — and a price collected at the door, when a very large hand lands on Fëanor's shoulder. Sirius goes up to meet the Baron's perfect son and comes down owning five of thirty-five minutes. The coffin maker's shutters hide six things a paladin can count through the ceiling, and Henrik breaks in a side alley for the gentlest reason: somebody finally told him the truth first. Then the barman stops pretending — a second impossible letter, a squirrelly landlady, and a wereraven unfolding in the party's own bedroom with seven hundred years of context and one piece of free advice. A note goes to Wachterhaus in Lily's hood; 'Have you turned on me, Lily?'; sleep falls twice and twice fails to stick. And at half past seven the lady throws a party — fifty delighted citizens as masonry — and delivers the verdict over canapés: 'Your services are no longer required.' The party withdraws to count heads in the dark, and comes up one short. Stay past the credits.",
-            "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s10.jpg"
-        }
-    ]
+    {
+      "number": 2,
+      "title": "The House Remembers",
+      "file": "He_Is_The_Land_S02_The_House_Remembers.mp3",
+      "bytes": 59833933,
+      "durationSec": 2491,
+      "pubDate": "2026-06-11T21:00:00Z",
+      "page": "1-podcast/episode-2-%E2%80%94-the-house-remembers",
+      "description": "The house fights back: a suit of armour with nothing inside it throws a paladin over the banister, and the party answers with grease, holy force, and two natural twenties. Upstairs, a mirror holds a maid who doesn't know she's dead, and behind an iron-locked attic door wait two small beds, two small skeletons — and Rose and Thorn Durst, who know exactly what they are. Three bundles of bones go on Drew's belt, a dollhouse gives up every secret passage in the building, and a hidden spiral stair leads down into the dark, where something is crying like a baby.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s02.jpg"
+    },
+    {
+      "number": 3,
+      "title": "The Devil's Name",
+      "file": "He_Is_The_Land_S03_The_Devils_Name.mp3",
+      "bytes": 46489715,
+      "durationSec": 1935,
+      "pubDate": "2026-06-18T21:00:00Z",
+      "page": "1-podcast/episode-3-%E2%80%94-the-devil's-name",
+      "description": "Under the house the crypts are all empty, the mother's coffin boils with insects, and Gustav Durst hangs from the rafters of an underground bedroom. Deeper down, a chant rises — 'He is ancient. He is the land' — to an altar over black water where robed apparitions demand what altars always demand: one must die. The party looks at the dog, looks at each other, and says no. What midnight sends up out of the refuse instead closes the book on Death House — and three freed spirits finally say the devil's name out loud.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s03.jpg"
+    },
+    {
+      "number": 4,
+      "title": "Mist Walkers",
+      "file": "He_Is_The_Land_S04_Mist_Walkers.mp3",
+      "bytes": 71054485,
+      "durationSec": 2958,
+      "pubDate": "2026-06-25T21:00:00Z",
+      "page": "1-podcast/episode-4-%E2%80%94-mist-walkers",
+      "description": "Through a crumbling gate stamped with the sigil of the Strahd empire — the same sigil on Osric's family banner — the party walks down into a village where curtains twitch and strangers mean trouble. An old woman sells pies that are far too good and answers no questions about them; a new-made burgomaster explains, patiently, that the vampire is real and there is no leaving; and his sister Ireena needs an escort west. Then a funeral, a weeping priest, a chained trapdoor — and down in the crypt, a frightened voice: 'I'm sorry. I'm so hungry.'",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s04.jpg"
+    },
+    {
+      "number": 5,
+      "title": "Friend-Shaped",
+      "file": "He_Is_The_Land_S05_Friend_Shaped.mp3",
+      "bytes": 71221519,
+      "durationSec": 2965,
+      "pubDate": "2026-07-02T21:00:00Z",
+      "page": "1-podcast/episode-5-%E2%80%94-friend-shaped",
+      "description": "A boy who cannot die begs for mercy beneath a village church. A map is drawn, a test is confessed, and one last evening of wine turns into the house call nobody survives unchanged: a knock after dark, and a visitor everyone at the table simply knows is a friend. The morning after, the party takes the one road west — past lights that lie, a standing stone that knows their family, and a wolf pack that meets the business end of a brand-new invention — to a Vistani campfire where the price of dinner is a story, and a stranger already knows all five of their names. Stay past the credits.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s05.jpg"
+    },
+    {
+      "number": 6,
+      "title": "Something Sweet",
+      "file": "He_Is_The_Land_S06_Something_Sweet.mp3",
+      "bytes": 75782832,
+      "durationSec": 3155,
+      "pubDate": "2026-07-09T21:00:00Z",
+      "page": "1-podcast/episode-6-%E2%80%94-something-sweet",
+      "description": "In a tent of candles and black velvet, an old woman who needs no introductions deals five fates onto the table — knowledge behind the walls of man, protection in the house of a dragon, power in an amber palace of darkness, an ally who hunts hunters, and a devil waiting in the tomb of the only man he ever envied. Every heirloom is named. One card comes up blank. Then the road west: a magic eye finally sees what is wound through Granny's pies — and around Lily's head — a rider with terrible knees and a toy commission, and at dusk, a leaning windmill that smells of fresh baking. The screaming in the cart is not pies. Ends mid-swing.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s06.jpg"
+    },
+    {
+      "number": 7,
+      "title": "All Will Be Well",
+      "file": "He_Is_The_Land_S07_All_Will_Be_Well.mp3",
+      "bytes": 80759477,
+      "durationSec": 3362,
+      "pubDate": "2026-07-16T21:00:00Z",
+      "page": "1-podcast/episode-7-%E2%80%94-all-will-be-well",
+      "description": "The windmill fight ends the way fights with three hags end: a paladin and a knight turned into frogs, a gnome sprinting into the middle of it to pocket them both, and a beloved invention smashed to scrap. The party runs; the hags laugh; nobody chases. Then, by firelight, the woman from the silver net explains what the pies are made of — and everyone is quietly glad they burned the lot. The road west offers a dire wolf with roses in its mouth and a letter signed 'your destined future lover'; a raven that is not an animal; and at dusk, Vallaki — real walls, mandatory smiles, a festival in seven days, a church with an empty secret under its altar, and an old man at a corner table who has seen people like them before. All of them. Once.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s07.jpg"
+    },
+    {
+      "number": 8,
+      "title": "Don't Be Boring",
+      "file": "He_Is_The_Land_S08_Dont_Be_Boring.mp3",
+      "bytes": 91499851,
+      "durationSec": 3810,
+      "pubDate": "2026-07-23T21:00:00Z",
+      "page": "1-podcast/episode-8-%E2%80%94-don't-be-boring",
+      "description": "Roger drinks the wine and tells the party how his story ended, so that theirs might not: a band just like them, forty-five years ago, who met a creature on the road — half raven, half man, speaking peace — and killed it, and were never forgiven by the land. His battered fate-cards go on the table next to theirs, and the one difference matters more than all the matches: his destined ally was the raven. The taproom empties its pockets — a landlady whose family owns the winery, two lordlings with a maddened sister, a bard who says the devil's name out loud and watches with great interest. In the morning Lily wakes free of the pies at last, and the party walks into an orphanage where the groundskeeper lies cursed, three boys are missing, and a small boy in a padlocked attic introduces himself as Mostly Felix. What pours out of him goes through steel like rumor — until an angel's ward, a god's radiance, and a rusted locket end the argument. Then the man who wakes up says eight words that break the whole case open. Stay past the credits.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s08.jpg"
+    },
+    {
+      "number": 9,
+      "title": "Cut the Thread",
+      "file": "He_Is_The_Land_S09_Cut_the_Thread.mp3",
+      "bytes": 93796991,
+      "durationSec": 3906,
+      "pubDate": "2026-07-30T21:00:00Z",
+      "page": "1-podcast/episode-9-%E2%80%94-cut-the-thread",
+      "description": "Milivoj breaks in a crowded hallway — he took the bones, for 300 gold and three missing boys, paid by a stranger with a hidden face and very clean shoes — and a paladin quoting liturgy about hands is talked down to a deferred sentence. The Baron's family crypt gives up a handful of custom nails; an orphanage headmistress reluctantly names the one man in Barovia who might handle a demon in a box. Then dinner at Wachterhaus: a hostess who says the devil's name freely and wants two men dead, a 50-gold commission, a test of the name spoken five times — and a pet raven that reads as a fiend, overhears the world's least subtle bathroom conference, and flies out of the house for good. Back at the inn, Ireena sings a song she dreamed — two brothers, a stolen sun, a girl beneath the lake remade over and over — and a letter from the Ravens of Barovia lies in the middle of a locked room. In the morning, a smith glances at the party's only evidence and names it on sight. Stay past the credits.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s09.jpg"
+    },
+    {
+      "number": 10,
+      "title": "You Can Just Leave",
+      "file": "He_Is_The_Land_S10_You_Can_Just_Leave.mp3",
+      "bytes": 102335954,
+      "durationSec": 4262,
+      "pubDate": "2026-08-06T21:00:00Z",
+      "page": "1-podcast/episode-10-%E2%80%94-you-can-just-leave",
+      "description": "Eighteen guards, one street, and eight feet of Izek: 'The baron wants to see youse.' The audience comes with festival floats, a Baroness who never stops grinning, wax-sealed writs of deputyship, a commission against Lady Wachter — and a price collected at the door, when a very large hand lands on Fëanor's shoulder. Sirius goes up to meet the Baron's perfect son and comes down owning five of thirty-five minutes. The coffin maker's shutters hide six things a paladin can count through the ceiling, and Henrik breaks in a side alley for the gentlest reason: somebody finally told him the truth first. Then the barman stops pretending — a second impossible letter, a squirrelly landlady, and a wereraven unfolding in the party's own bedroom with seven hundred years of context and one piece of free advice. A note goes to Wachterhaus in Lily's hood; 'Have you turned on me, Lily?'; sleep falls twice and twice fails to stick. And at half past seven the lady throws a party — fifty delighted citizens as masonry — and delivers the verdict over canapés: 'Your services are no longer required.' The party withdraws to count heads in the dark, and comes up one short. Stay past the credits.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s10.jpg"
+    },
+    {
+      "number": 11,
+      "title": "Hunt Well Those Who Hunt",
+      "file": "He_Is_The_Land_S11_Hunt_Well_Those_Who_Hunt.mp3",
+      "bytes": 94610627,
+      "durationSec": 3940,
+      "pubDate": "2026-08-13T21:00:00Z",
+      "page": "1-podcast/episode-11-%E2%80%94-hunt-well-those-who-hunt",
+      "description": "It turns out everyone was at the canape party - all of us, eating a hostile noblewoman's hors d'oeuvres while Drew's invisible voice yelled fire at a crowd that declined to panic. In a quiet corner, the man filed under 'appendage' tells Sirius a story - two brothers, a rotten apple, the Reformation Center - and ends it with the line of the season: 'There's only one devil in Barovia, and you are flashing his writ.' Back at the inn: Ireena has a job, the wine is half water, and a woman with feathers in her hair has been watching us sleep since the village of Barovia - 'I can stab things.' Morning brings Izek and a lesson in civic epistemology ('There are no undead in Vallaki. You literally can't bring evidence, because it's impossible'), a deadline with our priest as the collateral, and a heavy chest from the bard with five words on a rolled note: hunt well those who hunt. So we go to finish the coffin problem, and learn what was actually in the coffins. Four go out the windows. One goes for Lily's throat. And by the time the screaming starts, the town is burning, an angel is telling a mob whose servants did this, and Father Lucian is standing on his own altar holding back the dead with nothing but faith. Roll initiative. Stay past the credits.",
+      "imageUrl": "https://heistheland.askwhocasts.com/z_assets/player-site/cover-s11.jpg"
+    }
+  ]
 }

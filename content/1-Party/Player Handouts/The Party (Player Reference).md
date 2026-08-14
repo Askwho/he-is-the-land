@@ -4,7 +4,7 @@ publish: true
 description: "Who we are — five strangers pulled through the mists, and the keepsakes that dragged us here. Roster, portraits, and current gear."
 ---
 
-*Five strangers, five keepsakes, one very good invention. Current as of **Session 10** — at which point one of us is a hostage of the town government and another is hidden inside a noblewoman's house, so "current" is doing some work.*
+*Five strangers, five keepsakes, one very good invention. Current as of **Session 11** — at which point one of us is a hostage of the town government and the rest of us are mid-swordfight inside a burning church, so "current" is doing heavy lifting.*
 
 ## Roster (all Level 4)
 
@@ -46,7 +46,7 @@ Gnome rogue, 3'1", patched clothes, prized boots, a green ribbon on her right wr
 
 **Keepsake:** a lacquered **dire-wolf** tooth on a cord. Euphemia's dying words: *"the tooth will help keep mending what cannot otherwise be healed."*
 
-**Watch-list, retired with honours:** the pie affair is **over** — six days of iron will and the hags' hook broke before she did. Current status instead: **hidden alone inside Wachterhaus** (Session 10 cliffhanger), having shaken off two waves of magical sleep on the way out the last time. We have written her a commendation and are all pretending our hearts did not stop.
+**Watch-list, retired with honours:** the pie affair is **over** — six days of iron will and the hags' hook broke before she did. **Correction to the record (Session 11):** she was never hidden in Wachterhaus's walls — we had *all* followed Sirius in; the commendation stands for the sleep-waves regardless. Current status instead: **survived a vampire's fangs at death's door** (one failed save, one furious knight with a potion bottle, one paladin's glowing hands) and responded by sprinting the length of a burning nave alone, leaning — her words — *far too hard into "rogue paladin."* Our hearts have stopped pretending anything.
 
 ## Sirius
 
@@ -68,17 +68,21 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 
 ---
 
-## Shared kit & assets (as of Session 10)
+## Shared kit & assets (as of Session 11)
+
+- **🎒 A BAG OF HOLDING** — built by Drew, overnight, at an inn, because she was annoyed. The locket went straight in, which improved everyone's day. The party's carrying capacity is now a solved problem; the party's respect for Drew was already at capacity.
+- **🧛 The benefactor's kit** (*"Hunt well those who hunt"* — see [[The Bard]]): **3 flasks of holy water · 3 wooden stakes · iron mallet · steel mirror · manacles · oil · crowbar** — divvied around the party. Already spent from it: the scroll of protection and the necrotic-resistance potion (Sirius, at the Coffin Works — both earned their keep), and one healing potion (into Lily, at death's door; it rolled the minimum and we are still grateful). **Osric's torch collection now stands at twelve.**
+- **A second silvered shortsword** — Drew's own, silvered overnight, "on the grounds that it would make her feel better."
 
 - **🪪 FIVE WAX-SEALED WRITS of deputyship** — *"acting under the request of the baron, follow my orders."* No badges (we asked). Opens locks, loosens tongues, and denominates the ransom on our priest. See [[The Baron of Vallaki]].
-- **⚠️ The rusted locket** — oval, X-scratched, Celestial inside, **a shadow demon sealed within** ([[Mostly Felix]] has the rules). It cannot get out unless someone opens the lid. **Nobody opens the lid.** Destination, per the church's own counsel: **[[The Abbot|the abbot above Krezk]].** Discretion mandatory. (Offered to Father Lucian for safekeeping; withdrawn — *not until the church can protect itself.*)
+- **⚠️ The rusted locket** — oval, X-scratched, Celestial inside, **a shadow demon sealed within** ([[Mostly Felix]] has the rules). It cannot get out unless someone opens the lid. **Nobody opens the lid** — and as of Session 11 it lives **inside the bag of holding**, which everyone agrees is where a demon should commute. Destination, per the church's own counsel: **[[The Abbot|the abbot above Krezk]].**
 - **⚒️ A handful of Henrik's coffin nails** — long, custom, curve-as-hammered; lifted from the Vallakovich crypt floor by Drew. Their work is done: Henrik has confessed the whole chain. Kept as a souvenir of solid detective work.
 - **💰 30 gold** from selling the spare heavy crossbow to Celegal's Bowyer — opening offer 15, haggled up with "we are doing the Baron's work — that's not a threat."
 - **Ismark's hand-drawn map** of Barovia (see [[Handouts]]) — now **filled in by [[Danika Martikov|Danika]]'s own hand** (Vallaki → Krezk → the winery) — and Fëanor's **rubbing of the menhir symbol**, the same winged, third-eyed figure carved on a henge behind [[The Windmill|a certain windmill]], *still unexamined*.
 - **The reading** — five fates and five personal threads, recorded card-by-card on [[The Reading]] — now with **Roger's cards beside ours**. And one card **only Sirius can read**, in his keeping.
 - **CLOVER, mark II** — rebuilt (Session 8) and better: pulses **shielding energy** over everyone near. First build died to a hag; second build debuted against a demon.
 - Rations for six (including [[Ireena Kolyana|Ireena]]). **Zero pies, forever** — and as of Session 9, **the rope is retired: Lily sleeps untied.** Tents, packs, bedrolls, water skins, whetstone, rope (ceremonially unemployed).
-- **Three potions of healing** — the old last one, plus **two from [[Headmistress Claudia]]** (*"I bought these for Milivoj. He doesn't need them now. You will."*).
+- **Three potions of healing** — Claudia's two plus the kit's survivor (one kit potion went into Lily; see above).
 - **Freshly sharpened edges** — Sirius's and Osric's swords, Lily's awl *and* kitchen knife (the Workyard smith, 2 sp, no questions asked).
 - One pristine **wolf pelt** (lightly charred), still unsold, plus **5 silver 16 copper** off the farmstead dead, and one jar of **zombie guts** (Drew insists).
 - **Silver crossbow bolts** (tested on the shambling dead: useless; presumably vital on werewolves) and a **silvered short sword.**

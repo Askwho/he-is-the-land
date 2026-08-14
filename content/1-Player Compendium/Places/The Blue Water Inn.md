@@ -37,10 +37,19 @@ Kept by **Urwin Martikov** and his wife **Danika**, with their boys **Brom and B
 
 A second impossible letter — through a *warded* window this time — and the pretense collapsed all at once: **[[Urwin Martikov|our barman]] is a wereraven**, the inn is an information hub of **[[The Ravens of Barovia]]**, and the roof's raven population is not a coincidence, it's a staff rota. We have been sleeping in the safest room in Vallaki since the day we arrived and are choosing to be retroactively flattered rather than alarmed.
 
+## The morning the room changed shape (Session 11)
+
+- **[[Danika Martikov|Danika]] and the boys are gone** — sent to the winery before dawn, *"given the things we discussed."* The wine is now **half water**, and [[Urwin Martikov|Urwin]] keeps glancing at the west road.
+- **[[Ireena Kolyana|Ireena]] is waiting tables.** She's got a job. She's enjoying it. We are not examining our feelings.
+- **[[Muriel Vinshaw]]** claimed a corner table, our acquaintance, and — shortly afterward — two vampires.
+- **[[Izek]] held the best table** for the Baron's status report; see his page for a masterclass in Vallaki arithmetic.
+- **[[The Bard|The bard]]'s corner produced a heavy chest** and five words: *"Hunt well those who hunt."*
+- **[[Henrik the Coffin Maker|Henrik]] slept here** the night his coffins stopped being his problem and became everyone's.
+
 ## Open questions
 
 - ~~What do the Martikovs know about the bad times — and about us?~~ **Rather a lot, on both counts.** See [[Urwin Martikov]].
-- Why is the wine late — and what happens to a town like this when it runs dry? *(Now personal: the winery is the Ravens' clan seat.)*
+- Why is the wine late — and what happens to a town like this when it runs dry? *(Now very personal: the winery is the Ravens' clan seat, **Falkon flew there and hasn't come back**, and Urwin just sent his family into whatever that silence is.)*
 - ~~Who delivers letters through locked doors?~~ **Wings.**
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]].*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]].*

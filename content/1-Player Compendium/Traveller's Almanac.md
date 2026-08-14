@@ -26,6 +26,8 @@ description: "Survival notes, table rules, and prices — everything practical w
 - **The devil's name is a summons.** By his own written promise, spoken **three times** it brings him — see the letter in [[Handouts]]. Whatever you think of the tactical possibilities (the volcano survey continues), treat the name as *loaded* at all times. In [[Vallaki]] it's also illegal.
 - **Vallaki admits no Vistani**, and the gate is a bureaucratic event: attestations, every weapon registered (broom handles count), the laws read aloud. Full survival guide on [[Vallaki]]'s page. The Vistani's "paranoid and distasteful" was, if anything, understatement — but people *do* walk safe after dark there.
 - **"Mistwalkers"** is what Barovia calls people like us — those the mists carry in — and folk hold our arrival to be **an ill omen**, a sign of challenge coming to the land. There was a previous set, once, in what everyone calls *the bad times*. One of them is [[Roger|still alive]].
+- **Vampires are real, and daylight here does not save you from them** — the grey lid over Barovia is not the sun; the spawn that burst from the Coffin Works ran the morning streets without so much as smoking. What *did* work, tested in anger (Session 11): **radiant light, fire, and a wereraven's beak.** What our benefactor's kit implies also works: **holy water, and a wooden stake for something asleep in its box.** *"Hunt well those who hunt."*
+- **A vampire's bite is a door you do not want opened.** Lily has been on the far side of it and back. Carry the healing potions where you can reach them.
 
 ## Table rules (the campaign's house rulings)
 

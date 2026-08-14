@@ -46,8 +46,14 @@ She sang that, jumped off the stage, and asked if we'd had a nice day. She doesn
 
 Also pending: **Lady Wachter's standing invitation** for her to lodge under [[The House of Wachter|Wachter]] protection — which we have not yet passed on, for reasons involving a raven (see [[The House of Wachter]]).
 
+## The barmaid (Session 11)
+
+With the Martikov family away west, **Ireena has taken up waiting tables at the [[The Blue Water Inn|Blue Water]].** She has got a job. She is quite enjoying pitching in. We have elected not to examine our feelings about the doom-magnet of Barovia cheerfully carrying soup — and we note that she poured Izek's ale on the morning of his visit, and the sky did not fall.
+
+Two things changed under her feet that same morning, and she does not know either yet: **the church she calls sanctuary is a burning shell**, and the whole town watched her "angel" hover over a crowd with a burning sword — her private article of faith is now Vallaki's public event. The conversation nobody wanted to open no longer has a door to hide behind.
+
 ## Our promise
 
-Escort Ireena safely to Vallaki. **✅ Kept** — four days, hags and all, delivered at dusk on the fourth. The promise as *written* is complete; the promise as *meant* — that she be **safe** — has quietly become the harder project, because the sanctuary she's counting on is missing its saint. See [[Quests & Threads]].
+Escort Ireena safely to Vallaki. **✅ Kept** — four days, hags and all, delivered at dusk on the fourth. The promise as *written* is complete; the promise as *meant* — that she be **safe** — has quietly become the harder project, because the sanctuary she was counting on is missing its saint and, as of this morning, its roof. See [[Quests & Threads]].
 
-*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_007_Player_Notes|S7]]*
+*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_011_Player_Notes|S11]]*

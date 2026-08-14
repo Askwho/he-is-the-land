@@ -1,7 +1,7 @@
 ---
 title: "St. Andral's Church"
 publish: true
-description: "The finest building we've seen in Barovia — old stone, stained glass, a walled graveyard — and a hidden crypt under the altar that is supposed to hold a saint, and holds dust."
+description: "The finest building we saw in Barovia — currently on fire, with its priest holding two vampires at bay from his own altar, and us inside it. The crypt that should hold a saint still holds dust."
 ---
 
 > **Where:** The west of [[Vallaki]], near the orphanage.
@@ -32,10 +32,17 @@ Worse than we thought, and we thought it was bad. Per [[The Ravens of Barovia]]:
 
 We told [[Father Lucian]] the shape of it — Ernst collected the bones; the Wachter raven is a fiend. He took it about as well as a good man can take heresy about the parish's favorite noblewoman (*"She's Lady Wachter"*), and we settled on terms we can live with: **he holds his tongue for now, and if we disappear, he takes all of it to the Baron.** A dead man's switch with a kind heart.
 
+## The fire (Session 11 — where the record currently stops)
+
+We opened the coffins ourselves, four days early, on our schedule — they were **vampire spawn**, and four of them reached the streets — and two of them came *here*, to the building their whole conspiracy was aimed at, and set it alight. **St. Andral's is an inferno.** Yeska came out alive in a guard's arms. [[Father Lucian]] is on his own altar with the sun raised over his head, holding two vampires at bay with nothing but faith, the roof coming down in pieces — and we are in there with him, blades out, mid-fight, where the record stops.
+
+A detail that will not stop itching: the main road to the church was blocked by a toppled wagon that turned out to be **deliberately weighted with bricks** — built, by someone, before the vampires were ever loose.
+
 ## Open questions
 
 - ~~Who sent Milivoj asking — and who has the bones now?~~ **Walked to the end:** Milivoj → the crypt → [[Henrik the Coffin Maker|Henrik]] → **Ernst** → [[The House of Wachter|the best-warded house in Vallaki]].
-- ~~What has been waiting for this building to become *just a building*?~~ **Six coffins. Upstairs at the Coffin Works. We've counted them through the ceiling.**
-- How long do we have? *The festival — attendance mandatory — is four days out.*
+- ~~What has been waiting for this building to become *just a building*?~~ **Vampire spawn. Six. We know because we let them out.**
+- **Can the church be saved?** And if it burns to the ground — does it even matter who holds the bones anymore?
+- **Who barricaded the road** with a brick-weighted wagon, before the fire, before the vampires?
 
-*The full record: [[Session_007_Player_Notes|S7]] · [[Session_010_Player_Notes|S10 field notes]]. The quest lives on [[Quests & Threads]].*
+*The full record: [[Session_007_Player_Notes|S7]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11 field notes]]. The quest lives on [[Quests & Threads]].*

@@ -16,7 +16,11 @@ A friendly, watchful, quick-witted man who greets guests warmly while his eyes r
 
 ## The wereraven
 
-When we finally cornered the impossible-letters question (Session 10), he stopped pretending, stood up, and **folded into a wereraven** — same mass, black feathers like scrolled iron — then folded back and told us the truth over the remains of our composure: the **[[The Ravens of Barovia]]** are ravenkin, one of the valley's two cursed kindreds; they've fought the devil for **seven hundred years**; his clan holds **the winery** (which explains his face when the wagons stopped coming); the raven Roger's band killed was **his Great Uncle Frederick**; and an agent named **Mirabel** has been keeping an eye on us — we sent compliments on her plumage, and he said she'd appreciate it.
+When we finally cornered the impossible-letters question (Session 10), he stopped pretending, stood up, and **folded into a wereraven** — same mass, black feathers like scrolled iron — then folded back and told us the truth over the remains of our composure: the **[[The Ravens of Barovia]]** are ravenkin, one of the valley's two cursed kindreds; they've fought the devil for **seven hundred years**; his clan holds **the winery** (which explains his face when the wagons stopped coming); the raven Roger's band killed was **his Great Uncle Frederick**; and an agent has been keeping an eye on us — he called her "Mirabel," which turns out to have been a mangling: she is **[[Muriel Vinshaw]]**, she got our plumage compliments, and she has since introduced herself in person. Memorably.
+
+## The father (Session 11)
+
+The morning after we told him what was in the coffins, **Danika and the boys were gone** — sent to the winery, *"given the things we discussed."* The wine is now watered fifty percent and the apologies have stopped hurting him; something else is hurting him instead. The Ravens' courier **Falkon flew west to report and hasn't come back.** Urwin keeps glancing at the west road.
 
 ## The advice
 

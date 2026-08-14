@@ -6,9 +6,9 @@ description: "No longer pen pals — colleagues. They are wereravens; our barman
 
 > **Who:** Wereravens. Ravenkin. One of the **two cursed kindreds** of this valley — the wolves are the other. Our barman is one of them.
 >
-> **Where:** The [[The Blue Water Inn|Blue Water Inn]] is an information hub. Their clan holds **the winery**. An agent named **Mirabel** has been minding us — beautiful plumage.
+> **Where:** The [[The Blue Water Inn|Blue Water Inn]] is an information hub. Their clan holds **the winery**. The agent minding us turned out to be **[[Muriel Vinshaw]]** — "Mirabel" was a mangling; she is quite clear on the spelling — and as of Session 11 she is not minding us. She is *with* us.
 >
-> **Status:** Revealed (Session 10). Provisionally allied. *"Trust is hard. Want to prove yourselves."*
+> **Status:** Revealed (Session 10). Allied in the field (Session 11): **Muriel fights beside us**, and their courier **Falkon is missing at the winery.**
 
 ## The reveal
 
@@ -23,12 +23,18 @@ It went: a second impossible letter through a warded window — *trust is hard* 
 - **The lore of the bones** ([[St. Andral's Church]]): the bones of the saint and the church together cast a hallowing over the **whole city** — while they rest in place, no lesser dead thing can pass Vallaki's walls at all. The devil himself could enter the city — but never the church. The bones rest there no longer. Do the math on six coffins.
 - **Wachterhaus is warded to the nines** — a black hole to raven agents. In ten years they have never gotten inside. *(As of the end of Session 10, we have.)*
 
+## Session 11: the active part
+
+Not all of them are brokers. **[[Muriel Vinshaw]]** — married into the clan, trailing us since the pie days in the village of Barovia — introduced herself at a corner table (*"I heard you were admiring my plumage. You also snore."*), described herself as the Ravens' **active** sort (*"I can stab things"*), and lent us her arm on the grounds that we have been *mucking it up*. She then killed two vampires with her own beak. The brokers-not-fighters rule has a magnificent exception.
+
+Her partner **Falkon** flew to the winery to report to the main clan and **has not come back.** *"Something afoul in the winery,"* she reckons. *"A future endeavor."* Urwin, meanwhile, has sent Danika and the boys there. We are trying not to do that math out loud.
+
 ## Where we stand with them
 
 Their offer to gather intelligence stands — at their risk. Their advice, given free and kindly meant: *"There is more to Barovia than Vallaki. **You can just leave.**"*
 
-We are not going to leave.
+We are not going to leave. Demonstrably. There is dust on our boots to prove it.
 
 - **Standing order, party-wide, upgraded:** ***never* harm a raven.**
 
-*Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]]. See also: [[Urwin Martikov]], [[Roger]], [[The House of Wachter]], [[Quests & Threads]].*
+*Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]], [[Session_011_Player_Notes|S11]]. See also: [[Muriel Vinshaw]], [[Urwin Martikov]], [[Roger]], [[The House of Wachter]], [[Quests & Threads]].*

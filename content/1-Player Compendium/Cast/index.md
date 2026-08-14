@@ -16,17 +16,19 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 - **[[Ireena Kolyana]]** — the burgomaster's daughter, **delivered to Vallaki** as promised. Strahd wants her; his letters have started arriving by wolf.
 - **[[Ismark]]** — her brother, the new burgomaster. Honest about the horrors; less honest about crypts.
 - **[[Vasha and Radu]]** — the hags' living larder: Vasha free and scouting the mill; Radu still chained inside. We owe them a return trip.
-- **[[Father Lucian]]** — priest of St. Andral's in Vallaki. Kind, trusting, and keeper (with us) of the town's worst secret.
+- **[[Father Lucian]]** — priest of St. Andral's in Vallaki. Kind, trusting — and last seen on his own altar, holding two vampires at bay with nothing but faith.
+- **[[Muriel Vinshaw]]** — wereraven, married into the raven clan, the Ravens' *active part*. Trailing us since the Village; fighting beside us since Session 11. *"You also snore."*
 - **[[Roger]]** — last of the previous Mistwalkers. **The tale is told**: his band killed their destined ally — who now has a name: *Great Uncle Frederick.* *Don't be boring. Don't kill the ravens.*
 - **[[Urwin Martikov]]** — our barman. Also a **wereraven**, which he demonstrated, in our bedroom, with tremendous dignity.
 - **[[Danika Martikov]]** — our landlady, whose family **owns the winery** — the wince, fully explained at last.
 - **[[The Bard]]** — "Riptarvo," who says the devil's name out loud and watches us *with great interest*. No mere bard.
-- **[[The House of Wachter]]** — Lady Fiona Wachter (*"your services are no longer required"*), Ernst her shadow, the rowdy lads Karl & Nikolai, poor mad Stella — and the raven, back on her shoulder.
+- **[[The House of Wachter]]** — Lady Fiona Wachter (*"anyone who comes to their senses can still do business with me"*), the rowdy lads Karl & Nikolai, poor mad Stella — and the raven, back on her shoulder.
+- **[[Ernst Larnak]]** — the lady's shadow, the hands that took the bones — and, as of Session 11, a person: two brothers, a rotten apple, the Reformation Center. *"There's only one devil in Barovia, and you are flashing his writ."*
 - **[[The Baron of Vallaki]]** — our other employer. Writs, deputyship, impartial judges — and our priest as collateral. He is not lying. Somehow that is worse.
 - **[[Izek]]** — eight feet of enforcer, an arm the size of a grown man. *"The baron wants to see youse."*
 - **[[Victor Vallakovich]]** — the perfect son in the attic. Sirius spent 35 minutes with him and owns five.
 - **[[Milivoj]]** — the orphanage's kind giant. Cursed victim, confessed bone thief, confined on his word. He would do it again.
-- **[[Henrik the Coffin Maker]]** — confessed the rest of the chain, checked for nice shoes (negative), and sleeps under six coffins he refuses to open.
+- **[[Henrik the Coffin Maker]]** — confessed the rest of the chain, checked for nice shoes (negative). His coffins turned out to hold vampires, and his shop is now the town's crime scene of the century.
 - **[[The Abbot]]** — the abbot above Krezk, who heals bodies and *minds*, and reportedly raises the dead. Everything about him comes with a pause first.
 - **[[Headmistress Claudia]]** — holding twenty orphans together with no funds. We started badly and ended allies.
 - **[[Mostly Felix]]** — the boy in the attic, and the shadow demon that used to answer for him. **The demon is in the locket now.**
@@ -38,7 +40,7 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 
 ## The unmasked, in the best way
 
-- **[[The Ravens of Barovia]]** — no longer pen pals: **wereravens**, seven hundred years against the devil, information brokers with a winery and an agent named Mirabel. They'd like us to prove ourselves.
+- **[[The Ravens of Barovia]]** — no longer pen pals: **wereravens**, seven hundred years against the devil, information brokers with a winery — and one field agent, [[Muriel Vinshaw]], now openly on our side. Their courier **Falkon** is missing at the winery.
 
 ## The unmasked
 

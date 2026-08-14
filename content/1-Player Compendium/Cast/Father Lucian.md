@@ -29,9 +29,19 @@ We searched the crypt with him: dust. Tomorrow we call on Milivoj.
 - **The stories say [[Strahd von Zarovich|the devil]] has not set foot in Vallaki in two hundred years.** The stories were written when the bones were where they belonged.
 - Yeska has been sent to confess the whole thing to Lucian properly. Sirius's parting gift to the boy: the coolest thing one can do is keep a confidence. Too late, but the sentiment stands.
 
+## The altar (Session 11)
+
+"Just a building" mattered on the morning of the vampires, and it mattered like this: **St. Andral's an inferno, two vampire spawn inside it — and Father Lucian standing on his own altar with the symbol of the sun raised over his head, holding them at bay with nothing but the strength of what he believes.** They cannot close on him. They circle and cringe and cannot close. Yeska came out alive in a guard's arms. Lucian did not come out at all.
+
+*"Friends,"* he called to us through the smoke, *"there are undead in the Church of St. Andral. All is lost."*
+
+*"They won't be for long,"* said Sirius.
+
+He is, as the record stands, prone on his own altar behind his raised symbol — the roof knocked him flat, mid-miracle — having paused only to slap Sanctuary on Lily over her explicit objections (*"You will not hurt a child of the Morning Lord"*). Possibly the only wholly good man in Vallaki. Definitely the bravest thing any of us saw on a morning full of brave things.
+
 ## Open questions
 
-- Who sent Milivoj asking? A groundskeeper doesn't desanctify a church for himself.
-- How long before "just a building" matters — and to whom?
+- Who sent Milivoj asking? *(Answered since — the trail runs through [[Ernst Larnak|Ernst]] to [[The House of Wachter]]; see [[Quests & Threads]].)*
+- Can the church be saved — and if it burns to the ground, does it matter who holds the bones?
 
-*Appears in: [[Session_007_Player_Notes|S7]]*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]]. See also: [[St. Andral's Church]].*
