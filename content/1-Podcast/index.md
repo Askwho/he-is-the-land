@@ -27,6 +27,7 @@ Or just press play below — every episode also streams right here on the site.
 
 | # | Episode | Runtime | Journal |
 | --- | --- | --- | --- |
+| 12 | [[Episode 12 — The Baron Promised\|The Baron Promised]] | 55:45 | [[Session_012_Player_Recap\|Recap]] · [[Session_012_Player_Notes\|Notes]] |
 | 11 | [[Episode 11 — Hunt Well Those Who Hunt\|Hunt Well Those Who Hunt]] | 1:05:40 | [[Session_011_Player_Recap\|Recap]] · [[Session_011_Player_Notes\|Notes]] |
 | 10 | [[Episode 10 — You Can Just Leave\|You Can Just Leave]] | 1:11:02 | [[Session_010_Player_Recap\|Recap]] · [[Session_010_Player_Notes\|Notes]] |
 | 9 | [[Episode 9 — Cut the Thread\|Cut the Thread]] | 1:05:06 | [[Session_009_Player_Recap\|Recap]] · [[Session_009_Player_Notes\|Notes]] |

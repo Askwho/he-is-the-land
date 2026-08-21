@@ -8,7 +8,7 @@ description: "Lady Fiona Wachter — charisma in a dress, a canapé party used a
 >
 > **Where:** **Wachterhaus** — the finest house in the noble district. Per the [[The Ravens of Barovia|Ravens]]: **warded to the nines** — in ten years, their agents have never gotten inside.
 >
-> **Status:** ⛔ Ex-employer — but the door is held open: *"No one is beyond redemption. **Anyone who comes to their senses can still do business with me.**"* Also, as of Session 11: **publicly accused of letting vampires into Vallaki, by an angel, over a crowd.** Complicated.
+> **Status:** ⛔ Ex-employer — but the door is held open: *"No one is beyond redemption. **Anyone who comes to their senses can still do business with me.**"* As of Session 11: **publicly accused of letting vampires into Vallaki, by an angel, over a crowd.** As of Session 12: **running the town's hospital, hosting Ireena as a guest — and we are inside her house, uninvited, upstairs, right now.** Very complicated.
 
 ## Lady Fiona Wachter
 
@@ -52,6 +52,24 @@ For the record: we were **all** inside. Every one of us had followed Sirius thro
 
 And as we left, her voice followed us out like perfume: *"No one is beyond redemption. Anyone who comes to their senses can still do business with me. No one has done anything that could not be saved."* That is a door held open, and we all heard it. What we do not know is whether it survived the next morning — when the coffins her town says nothing about turned out to hold **vampires**, and Sirius told a street full of witnesses whose servants let them in.
 
+## The hospital (Session 12)
+
+Within hours of the fire, Wachterhaus threw its doors open as a **house of medicine** — beds in ranks, boiled linen, splints and salves, perhaps a hundred souls through the doors by evening. Saintly. Also, per the medical eye among us: **far too many bandages for a woman who didn't know a disaster was coming.** She was provisioned for this catastrophe before it happened. We are apparently the only people in Vallaki who find that interesting rather than reassuring — every burned family she feeds is a wall we cannot shout through. *"They say my servants did this. Look at what my servants are doing."* Nobody has said that sentence aloud. The beds say it for her.
+
+And one more house-guest, delivered mid-crisis: **[[Ernst Larnak|Ernst]] came to the Blue Water and invited [[Ireena Kolyana|Ireena]]** — the Burgomaster's sister, our charge, the person we told nothing — **and she went.** ([[Quests & Threads]], top of the ledger.)
+
+## The cellar that was lying (Session 12)
+
+We went in under the chaos, hooded among the refugees, and picked the unwatched cellar lock. Behind a pivoting wall: candles, a **great black pentagram**, a wooden chair at each of its five points — and in one chair, a frail survivor of the Reformation Center's basement, whose crime had been *chuckling at a festival* and who would do anything for the lady who saved him. Why was he sitting in a pentagram? *"I was brought down here. Just told to sit."* The pentagram? *"Decoration?"*
+
+He was right, and it killed him anyway. The moment he crossed the threshold — at our urging — **the floor birthed skeletons**, and they cut him down before any shield could reach him. We never learned his name. We smashed the skeletons to powder. And then Drew examined the pentagram with every advantage we could stack and found the twist that reframes the whole room: **it is fake.** Lightly scratched. Not one whisper of magic. **Set dressing.** Somebody built a satanic tableau in Lady Wachter's cellar, wired it with a real and lethal ward, seated a devoted witness inside — and left it to be *found*. Proof that collapses the moment anyone competent inspects it, taking the finder's credibility with it. We have been thinking hard about who was supposed to find that room. The current theory is: **us.**
+
+What we left in it: a dead man, a heap of bones, a kicked-over chair, and a picked lock. We are aware of what that looks like.
+
+## Upstairs (where the record currently stands)
+
+A storeroom (silverware declined; beets liberated). A kitchen turned hospital ward — and on those bedrolls, among the burned, **people with vampire wounds, a couple of whom did not look like they were merely wounded.** Then the hallway: portraits and mirrors, **moaning behind one door**, *No admittance* on every other, and over the stairhead **an enormous, beautiful, horrible map of Barovia** — wolves, the moon, the goat hill — which Drew is memorizing as these notes are written. *"This is the highest floor you know about."*
+
 ## [[Ernst Larnak|Ernst]]
 
 Promoted in the file twice over: from "polite manservant" to "the lady's shadow" (Session 10, when [[Henrik the Coffin Maker|Henrik]] named him) — and then, Session 11, from appendage to **person**, which is worse. He has his own page now: [[Ernst Larnak]]. Two brothers, a rotten apple, the Reformation Center; *"there's only one devil in Barovia, and you are flashing his writ."* We looked for the lie and found only fury. The household chorus behind him — Haliq in the hall, young **Madalena**: *"Each one of us was rescued by the lady."* Her good works are real to the people she saved. We record it plainly because it is the most dangerous fact in this file.
@@ -67,9 +85,12 @@ Betrothed to **[[Victor Vallakovich]]** ~3 years ago — a match Lady Wachter ar
 ## Open questions
 
 - **What is Lady Wachter?** Not a fiend, not undead — but she went away grieving and came home with a demon on a perch and peace in her heart. And the demon *came back*.
-- **The bones are almost certainly in that house** — the one building in Vallaki the Ravens cannot see into, and the one place the city's shield could be rebuilt from. What does she do with them now that the coffins are spent and the church is burning?
+- **The bones are almost certainly in that house — but not where we looked.** The obvious hiding place was a stage set. If the cellar is theatre, where is the real vault?
+- **Who staged the pentagram, and for whom?** If the answer is "her, for us" — she predicted our break-in before we planned it. Does she know we are inside *right now*?
 - **Whose "master's design" was the coffin plot** — hers? Or the devil's, with her as the courier? *"The master cares not for us,"* said the dying thing. It did not say *the mistress*.
 - What was the *sleep* that reached for Lily twice — the lady, or the thing on her shoulder?
-- **Which way does Ernst break**, now that the whole town has seen what his errands let in? He knows where we are.
+- **Which way does Ernst break?** The whole town has seen what his errands let in — and his next recorded act was calmly fetching Ireena to his lady's house through the smoke.
+- **Can the bitten in her kitchen ward *turn*?** Because if they can, the hospital is a nursery, and the most beloved house in Vallaki is incubating the next outbreak in its kitchen.
+- **Why does she hang a war map of Barovia at the top of her stairs?**
 
-*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]]. See also: [[Ernst Larnak]], [[Vallaki]], [[The Ravens of Barovia]], [[Henrik the Coffin Maker]].*
+*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]. See also: [[Ernst Larnak]], [[Ireena Kolyana]], [[Vallaki]], [[The Ravens of Barovia]], [[Henrik the Coffin Maker]].*

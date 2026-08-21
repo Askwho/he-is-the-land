@@ -1,14 +1,14 @@
 ---
 title: "Ireena Kolyana"
 publish: true
-description: "The burgomaster's daughter — sharp, striking, cursed with brightness in a land that punishes it. Delivered to Vallaki, as promised. 'Safe' is a longer conversation."
+description: "The burgomaster's daughter — sharp, striking, cursed with brightness in a land that punishes it. Currently a guest inside Wachterhaus, knowing nothing, because we told her nothing."
 ---
 
 > **Who:** Daughter of the late burgomaster of Barovia; [[Ismark]]'s sister.
 >
-> **Where:** **[[Vallaki]]** — at [[The Blue Water Inn]] with us, and still intending [[St. Andral's Church]].
+> **Where:** **Inside [[The House of Wachter|Wachterhaus]]** — as a guest, invited by [[Ernst Larnak|Ernst]] while we fought the fire. So are we, uninvited. We don't know which door she's behind.
 >
-> **Status:** Alive, unbitten, welcomed at the gate by rank, carrying a faith in us that has become slightly alarming — and now singing songs nobody taught her (see below).
+> **Status:** Alive, unbitten — and lodged, knowing nothing, in the house of the person we publicly accused of everything. This is our fault and the record should say so.
 >
 > **First met:** Session 4, in the burgomaster's house.
 
@@ -52,8 +52,14 @@ With the Martikov family away west, **Ireena has taken up waiting tables at the 
 
 Two things changed under her feet that same morning, and she does not know either yet: **the church she calls sanctuary is a burning shell**, and the whole town watched her "angel" hover over a crowd with a burning sword — her private article of faith is now Vallaki's public event. The conversation nobody wanted to open no longer has a door to hide behind.
 
+## The worst news of the day (Session 12)
+
+While we fought the church fire, **Ernst came to the Blue Water and invited her to Wachterhaus. She went.** Urwin couldn't stop her — why would she say no? A kind house, opened as a hospital, wanting her capable hands. She knows nothing about the bones, the coffins, the raven, the accusation — because in ten days of knowing everything, **we told her none of it.** We left the doom-magnet of Barovia waiting tables with no idea who anyone is, and the enemy's charming survivor walked in and offered her hospitality. The official minutes record the party's full assessment: *"Oh, fuckballs."*
+
+She is somewhere above the hospital beds right now. So are we, uninvited, listing doors. The conversation nobody wanted to open is now scheduled for whichever room she's in — and Sirius, note, cannot lie to her; she told us so herself.
+
 ## Our promise
 
-Escort Ireena safely to Vallaki. **✅ Kept** — four days, hags and all, delivered at dusk on the fourth. The promise as *written* is complete; the promise as *meant* — that she be **safe** — has quietly become the harder project, because the sanctuary she was counting on is missing its saint and, as of this morning, its roof. See [[Quests & Threads]].
+Escort Ireena safely to Vallaki. **✅ Kept** — four days, hags and all, delivered at dusk on the fourth. The promise as *written* is complete; the promise as *meant* — that she be **safe** — is currently on fire: the sanctuary she counted on is a ruin, and she sleeps tonight under the roof our angel publicly accused. See [[Quests & Threads]], first line.
 
-*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_011_Player_Notes|S11]]*
+*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]*

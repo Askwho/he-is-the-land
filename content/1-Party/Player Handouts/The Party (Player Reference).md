@@ -4,7 +4,7 @@ publish: true
 description: "Who we are — five strangers pulled through the mists, and the keepsakes that dragged us here. Roster, portraits, and current gear."
 ---
 
-*Five strangers, five keepsakes, one very good invention. Current as of **Session 11** — at which point one of us is a hostage of the town government and the rest of us are mid-swordfight inside a burning church, so "current" is doing heavy lifting.*
+*Five strangers, five keepsakes, one very good invention. Current as of **Session 12** — at which point one of us is a hostage of the town government and the rest of us are standing, unrested and uninvited, in the upstairs hallway of the most dangerous house in Vallaki, so "current" is doing heavy lifting.*
 
 ## Roster (all Level 4)
 
@@ -68,8 +68,11 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 
 ---
 
-## Shared kit & assets (as of Session 11)
+## Shared kit & assets (as of Session 12)
 
+- **🧥 COMMONER CLOAKS from the Ravens' own spy stock** — Urwin's answer to being talked out of despair. Currently in use, for exactly what you'd think.
+- **🥬 A basket of beets** — liberated from a certain box room, for the hungry. The silverware in the same room was refused: *"We're not common crooks."* The beets, we maintain, are different.
+- **⚠️ Resource status: RUNNING ON FUMES.** No rest since the morning of the vampires: Sirius is out of flight, smites, and lay-on-hands; Clover is spent; Drew is down to her last slots; Osric took the day's only vampire bite (the bard's potion ate half of it). The next long rest is load-bearing.
 - **🎒 A BAG OF HOLDING** — built by Drew, overnight, at an inn, because she was annoyed. The locket went straight in, which improved everyone's day. The party's carrying capacity is now a solved problem; the party's respect for Drew was already at capacity.
 - **🧛 The benefactor's kit** (*"Hunt well those who hunt"* — see [[The Bard]]): **3 flasks of holy water · 3 wooden stakes · iron mallet · steel mirror · manacles · oil · crowbar** — divvied around the party. Already spent from it: the scroll of protection and the necrotic-resistance potion (Sirius, at the Coffin Works — both earned their keep), and one healing potion (into Lily, at death's door; it rolled the minimum and we are still grateful). **Osric's torch collection now stands at twelve.**
 - **A second silvered shortsword** — Drew's own, silvered overnight, "on the grounds that it would make her feel better."

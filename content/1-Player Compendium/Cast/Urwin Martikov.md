@@ -28,4 +28,10 @@ He gives exactly one piece free, and it costs him something to give:
 
 *"There is more to Barovia than Vallaki. **You can just leave.**"*
 
-*Appears in: [[Session_007_Player_Notes|S7]]–[[Session_010_Player_Notes|S10]]. See also: [[The Ravens of Barovia]], [[Danika Martikov]], [[The Blue Water Inn]].*
+## The bad afternoon (Session 12)
+
+The fire nearly finished what the wagons started. *"What's the point? Half the city's gone… you were meant to stop this… I hate living in Vallaki. I hate living in Barovia."* And honestly — fair. We talked him back up the only way that works on a spymaster: with arithmetic. That was *six* vampires, we said; imagine it uncontained; you are entirely unprotected. He heard it, straightened, and answered like the professional he is: **commoner cloaks from the Ravens' own spy stock** for the lot of us, and a flask of what is now legally ten-percent wine.
+
+Then he told us the thing he couldn't stop — *your friend, she left; Ernst invited her* — and watched us do the arithmetic on ourselves. See [[Ireena Kolyana]].
+
+*Appears in: [[Session_007_Player_Notes|S7]]–[[Session_012_Player_Notes|S12]]. See also: [[The Ravens of Barovia]], [[Danika Martikov]], [[The Blue Water Inn]].*

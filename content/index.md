@@ -9,7 +9,7 @@ description: "The player chronicle of our Curse of Strahd campaign — recaps, f
   <h1 class="hitl-title">He Is The Land</h1>
   <p class="hitl-tag">Five strangers. Five heirlooms. One road west — and the devil owns it.</p>
   <div class="hitl-cta hitl-in-hero">
-    <a class="hitl-cta-primary" href="./1-podcast/episode-11-—-hunt-well-those-who-hunt">▶ Latest episode</a>
+    <a class="hitl-cta-primary" href="./1-podcast/episode-12-—-the-baron-promised">▶ Latest episode</a>
     <a href="./1-session-journals/the-story-so-far">The story so far</a>
     <a href="./1-player-compendium/">The compendium</a>
   </div>
@@ -21,17 +21,17 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 ## Before next session
 
-> **MID-COMBAT: St. Andral's is on fire and we are inside it.** Behind us, the morning that changed Vallaki: the correction to the record (we were *all* at the canapé party) · [[Ernst Larnak|Ernst's]] story — *"there's only one devil in Barovia, and you are flashing his writ"* · **[[Muriel Vinshaw]]**, wereraven, watching us since the Village, now stabbing things on our behalf · [[Izek]]'s arithmetic (*"There are no undead in Vallaki… you literally can't bring evidence"*) and a **deadline: physical proof of Lady Wachter's hand by tomorrow morning**, with Fëanor as the stake · [[The Bard|the bard's]] chest — a complete vampire-hunting kit and five words: ***"Hunt well those who hunt"*** · and the Coffin Works, where six crates held **vampire spawn**: four out the windows, two dust on Muriel's beak, Lily back from death's door — and a race through a burning town to a church where **[[Father Lucian]] is holding two vampires at bay from his own altar with nothing but faith.** *"All is lost."* / *"They won't be for long."* **Session 12 finishes the fight.**
+> **MID-INFILTRATION: we are upstairs in Lady Wachter's house, uninvited, unrested, and nearly out of everything.** Behind us, the longest day yet: the Battle of St. Andral's — **all six vampires destroyed**, the last four in a burning church with **[[Izek]] fighting on our side** (his guards died with their names in his mouth; then the crack: *"The Baron promised me. Evil can't come into Vallaki"*) · **the church could not be saved** — seventy percent ash, fourteen houses with it, a statuette carried out blind (*"Lathander lives in our hearts, not in our places"*) · two rumors at war — **her suspiciously-ready hospital vs our angel, who refuses to know he exists** · [[Ireena Kolyana|Ireena]] **gone to Wachterhaus as Ernst's guest, told nothing** (*"Oh, fuckballs"*) · and so: hoods up, cellar lock picked — **a fake pentagram, a real skeleton ward, a man we couldn't save** — past bite patients who *look like they're turning*, to the hallway of judging portraits. A moaning door. *No admittance.* The great map. *"This is the highest floor you know about."* **Session 13 opens the doors.**
 
-- **Immediate business:** win the church; keep Father Lucian alive; then find **the two spawn still loose in Vallaki** before nightfall does.
-- **The clock:** **Izek collects at dawn** — the truth was "impossible" yesterday; is a burned church full of witnesses paper enough? And the **Festival is in FOUR days**, in a town that now knows what was waiting for it. [[Ireena Kolyana|Ireena]] *still* doesn't know — and her sanctuary is burning.
-- **Keep in mind:** an angel publicly blamed *"the servants of Lady Wachter"* — there is no walking that back; the lady's door stands open (*"anyone who comes to their senses can still do business with me"*); **Falkon is missing at the winery**; Henrik needs choosing; Bluto (a friend of the Wachter sons, it turns out) is still at the lake; **never harm a raven.** The full ledger lives in [[Quests & Threads]].
+- **Immediate business:** find Ireena; tell her everything; get out of this house with our name intact — and, if the night is kind, with **the bones**, which were *not* in the obvious place.
+- **The clock:** **Izek collects at dawn** — a man who has now personally fought the impossible and still wants paper on Lady Wachter; Fëanor is still the stake. The **Festival is in THREE days**, on a wounded town whose government has said nothing yet.
+- **Keep in mind:** the cellar holds *our* evidence now (a body, a picked lock) next to proof that is designed to collapse; **whoever staged that room may have predicted us**; Henrik still needs choosing; **Falkon is still missing at the winery**; Bluto is still at the lake; **never harm a raven.** The full ledger lives in [[Quests & Threads]].
 
 ## Start here
 
 - 📖 **New, or catching up?** [[The Story So Far]] — the whole tale in one sitting.
-- 🎧 **Latest episode:** [[Episode 11 — Hunt Well Those Who Hunt]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
-- 📋 **Latest recap:** [[Session_011_Player_Recap|Session 11 — Recap]] · deep detail in the [[Session_011_Player_Notes|Field Notes]].
+- 🎧 **Latest episode:** [[Episode 12 — The Baron Promised]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
+- 📋 **Latest recap:** [[Session_012_Player_Recap|Session 12 — Recap]] · deep detail in the [[Session_012_Player_Notes|Field Notes]].
 
 ## The chronicle
 
@@ -43,6 +43,7 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 | # | Listen | Read |
 | --- | --- | --- |
+| 12 | [[Episode 12 — The Baron Promised\|The Baron Promised]] (55:45) | [[Session_012_Player_Recap\|Recap]] · [[Session_012_Player_Notes\|Field Notes]] |
 | 11 | [[Episode 11 — Hunt Well Those Who Hunt\|Hunt Well Those Who Hunt]] (1:05:40) | [[Session_011_Player_Recap\|Recap]] · [[Session_011_Player_Notes\|Field Notes]] |
 | 10 | [[Episode 10 — You Can Just Leave\|You Can Just Leave]] (1:11:02) | [[Session_010_Player_Recap\|Recap]] · [[Session_010_Player_Notes\|Field Notes]] |
 | 9 | [[Episode 9 — Cut the Thread\|Cut the Thread]] (1:05:06) | [[Session_009_Player_Recap\|Recap]] · [[Session_009_Player_Notes\|Field Notes]] |

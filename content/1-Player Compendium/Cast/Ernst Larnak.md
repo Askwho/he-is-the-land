@@ -26,4 +26,10 @@ Sirius told him there are undead in this city and that he knows who took the bon
 
 Which way does a man like that break? It is one of the questions on our minds.
 
-*Appears in: [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]]. See also: [[The House of Wachter]], [[Henrik the Coffin Maker]].*
+## The errand (Session 12)
+
+We may have watched the answer. On the day the town burned — the day the whole city saw what those coffins held — Ernst's recorded contribution was to walk into the Blue Water, calm as morning, and **invite Ireena to Wachterhaus.** The Burgomaster's sister, our charge, the one person we had told nothing. She went, of course. It was a kind offer from a kind house that had just opened itself as a hospital.
+
+Loyal. Effective. Unhurried. Whatever cracked in him when the vampires came out, it did not slow his hands. We are updating the file from "which way does he break" to: **has he already chosen, and did we mistake grief for doubt?**
+
+*Appears in: [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]. See also: [[The House of Wachter]], [[Ireena Kolyana]], [[Henrik the Coffin Maker]].*

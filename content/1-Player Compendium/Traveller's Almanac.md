@@ -28,6 +28,8 @@ description: "Survival notes, table rules, and prices — everything practical w
 - **"Mistwalkers"** is what Barovia calls people like us — those the mists carry in — and folk hold our arrival to be **an ill omen**, a sign of challenge coming to the land. There was a previous set, once, in what everyone calls *the bad times*. One of them is [[Roger|still alive]].
 - **Vampires are real, and daylight here does not save you from them** — the grey lid over Barovia is not the sun; the spawn that burst from the Coffin Works ran the morning streets without so much as smoking. What *did* work, tested in anger (Session 11): **radiant light, fire, and a wereraven's beak.** What our benefactor's kit implies also works: **holy water, and a wooden stake for something asleep in its box.** *"Hunt well those who hunt."*
 - **A vampire's bite is a door you do not want opened.** Lily has been on the far side of it and back. Carry the healing potions where you can reach them.
+- **Open question, and it matters urgently: can a *spawn's* bite turn the bitten?** The kitchen ward of a certain hospital holds vampire-bitten patients, and a couple of them *did not look like they were merely wounded* (Session 12). Nobody at this table knows the rule. Until someone who does tells us, treat every untreated bite as a candle burning toward something.
+- **A building can fight you.** Burning St. Andral's rolled better initiative than most of us: blinding smoke, backdrafts, falling rubble, poisoned air. In a structure fire, the fire is a combatant — plan like it.
 
 ## Table rules (the campaign's house rulings)
 

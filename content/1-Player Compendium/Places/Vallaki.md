@@ -62,12 +62,19 @@ And yet — mark this — **people walk these streets after dark without scurryi
 
 The question below — *what happens if six coffins open into a mandatory festival crowd?* — got its answer by subtraction: **we opened them first**, four days early, with the town *not* assembled. They were vampire spawn. Four reached the streets. What Vallaki looks like as the record stands: dead guards on the corners, at least one civilian killed, fires burning, **[[St. Andral's Church|St. Andral's an inferno]]** with us and two vampires inside it, **two more spawn loose and unaccounted for** — and a town choosing, street by street, between two stories: *"the outsiders let them in"* versus the word of a hovering angel with a burning sword: *"the servants of Lady Wachter."* Also unexplained: a **brick-weighted barricade** across the church road, built before any of it started.
 
+## The day of the fire (Session 12)
+
+The ledger of Vallaki's worst day in living memory, as we counted it: **all six vampire spawn destroyed** (the last four in the burning church, two of them delivered bodily through the doors by **[[Izek]]**, of all people on earth) · **[[St. Andral's Church|St. Andral's]] seventy percent gone**, fourteen-odd houses and shops with it, dead uncounted · a midday firefight the whole town fought together, bucket lines and all, to an honest, average verdict · and by afternoon, **two stories racing through the streets**: [[The House of Wachter|Lady Wachter's hospital]] — thrown open, saintly, and provisioned suspiciously in advance — versus **the angel of the Morning Lord who named her**. Her story has beds. Ours has a celestial who refuses to know he exists.
+
+The festival is in **three days**, on a wounded town, and the government has yet to say a word about any of it.
+
 ## Open questions
 
-- ~~What happens if six coffins open into a mandatory festival crowd?~~ **We made sure we'll never know.** People are dead this morning who were alive last night — but the whole town was *not* in the streets. We think we did the right thing. We *think* so.
-- ~~The bones: who does a coffin maker answer to?~~ **Answered in full** — the chain runs Milivoj → crypt → Henrik → Ernst → [[The House of Wachter|Lady Wachter]]. What's left is the hard part: getting them *back* — and now, whether there's a church left to bring them back *to*.
-- **Vallaki was the one place spared in the bad times** — *because of the church.* No longer Roger's theory: the Ravens' records confirm it. The church is burning. Count the days to the festival again.
-- **Where are the other two** — and where does a vampire spawn hide in Vallaki until nightfall?
-- **What do we bring [[Izek]] by tomorrow morning?** The truth was "impossible" yesterday. Is a burned church full of witnesses paper enough?
+- ~~What happens if six coffins open into a mandatory festival crowd?~~ **We made sure we'll never know.** People are dead who were alive that morning — but the whole town was *not* in the streets. We think we did the right thing. We *think* so.
+- ~~The bones: who does a coffin maker answer to?~~ **Answered in full** — the chain runs Milivoj → crypt → Henrik → Ernst → [[The House of Wachter|Lady Wachter]]. What's left is the hard part: the obvious hiding place was a decoy, and there may no longer be a church to bring them back *to* — only ground.
+- **Vallaki was the one place spared in the bad times** — *because of the church.* No longer Roger's theory: the Ravens' records confirm it. The church is ash. Count the days to the festival again.
+- ~~Where are the other two?~~ **They came to us** — thrown through the church doors by the Baron's enforcer. All six are accounted for.
+- **What does the state say tomorrow?** A town full of witnesses watched Izek fight vampires. The Baron holds that vampires are impossible. Somebody has to blink, and the criers work for him.
+- **What do we bring [[Izek]] by morning?** He has now *personally* fought the impossible — and still wants paper on Lady Wachter, and still holds our priest.
 
-*The full record: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11 field notes]].*
+*The full record: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12 field notes]].*

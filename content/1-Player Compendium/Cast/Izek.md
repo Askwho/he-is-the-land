@@ -1,14 +1,14 @@
 ---
 title: "Izek"
 publish: true
-description: "Eight feet of the Baron's enforcer, with an arm the size of a grown man. His entire diplomatic overture: 'The baron wants to see youse.'"
+description: "The Baron's enforcer — who threw two vampires through a burning church's doors, fought beside us, and came out with a crack through everything: 'The Baron promised me.'"
 ---
 
-> **Who:** The Baron's enforcer and captain of Vallaki's guard. The reason people in this town vanish when he points.
+> **Who:** The Baron's enforcer and captain of Vallaki's guard. The reason people in this town vanish when he points. As of Session 12: also, improbably, **the man who fought vampires at our side.**
 >
-> **The arm:** His right arm is wrapped in leather to the elbow and is *wrong* underneath — as big around as a grown man. Lady Wachter told us he has **fire powers** to go with it.
+> **The arm:** His right arm is wrapped in leather to the elbow and is *wrong* underneath — as big around as a grown man. The **fire powers** are no longer rumor: we have seen the whole arm wreathed in flame, and watched him hurl a vampire twenty feet with it.
 >
-> **Status:** Met. Herded by. Currently holding our priest.
+> **Status:** Fought beside. Grieved with, almost. Currently holding our priest — and a report the Baron will not want to hear.
 
 ## The meeting (Session 10)
 
@@ -32,6 +32,22 @@ He stood in the Blue Water's taproom — *"The baron wants a status report"* —
 
 **"There are no undead in Vallaki."** *But we've seen them.* **"It is impossible."** *What if we bring evidence?* **"You literally can't, because it's impossible."**
 
-Twenty-three of pure honest persuasion earned us: *"It sounds believable, but it can't be true."* What he was sent to demand is **a piece of paper that says Lady Wachter is working with the devil** — as if villains file paperwork. Terms struck: **physical proof concerning Lady Wachter, by tomorrow morning.** Fëanor's board and lodging depend on it. Hours later, the undead that are impossible were running the streets in daylight. We do not know yet what the state does with that.
+Twenty-three of pure honest persuasion earned us: *"It sounds believable, but it can't be true."* What he was sent to demand is **a piece of paper that says Lady Wachter is working with the devil** — as if villains file paperwork. Terms struck: **physical proof concerning Lady Wachter, by tomorrow morning.** Fëanor's board and lodging depend on it. Hours later, the undead that are impossible were running the streets in daylight.
 
-*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]] (in the flesh), [[Session_011_Player_Notes|S11]]. See also: [[The Baron of Vallaki]], [[Quests & Threads]].*
+## The doors (Session 12)
+
+The back doors of burning St. Andral's exploded, two vampires landed prone on the flagstones — *thrown* — and behind them, screaming, flame roaring off the great right arm, came Izek. He had caught the two escaped spawn in the streets and **delivered them to us bodily**, two town guards at his back.
+
+We record what followed carefully, because it changed how we see him. The vampires opened the throats of both guards in front of him — *"Frederick, no." "Not Petru too."* — and it turns out the Baron's attack dog **knew the names of his men.** He grabbed a vampire *by the head* with the burning arm, informed it, *"I will destroy you, starting with your teeth,"* and in due course hurled it twenty feet into the inferno, where it crisped. Drew made a public show of wrapping him in Clover's protective light — which promptly saved him from a falling roof. If that bought us one ounce of grace from the scary man, it was the best-spent magic of the day.
+
+## The crack
+
+Afterwards he stood staring into the fire, and when we looked closely we saw a man whose entire world had a fissure in it:
+
+***"The Baron promised. The Baron promised me. This can't happen. Evil can't come into Vallaki."***
+
+We tried to tell you, we said. His answer is the exact shape of the problem: **"The vampires I believe. But the Lady Wachter?"** A man who has now personally burned a vampire alive *still cannot cross the second bridge* — and the paper deadline underneath us all still stands. He went to report to the Baron. His parting words to us were *"Do what you must,"* which we have chosen to hear as a permission slip with very wide margins.
+
+What was the promise? Who promises a man that evil cannot come into a city? We suspect the answer explains everything about him, and we intend, carefully, to find out.
+
+*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]] (in the flesh), [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]. See also: [[The Baron of Vallaki]], [[Quests & Threads]].*

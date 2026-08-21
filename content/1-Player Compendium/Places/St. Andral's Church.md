@@ -1,14 +1,14 @@
 ---
 title: "St. Andral's Church"
 publish: true
-description: "The finest building we saw in Barovia — currently on fire, with its priest holding two vampires at bay from his own altar, and us inside it. The crypt that should hold a saint still holds dust."
+description: "The finest building we saw in Barovia — now seventy percent ash. The battle that ended Vallaki's vampires was fought inside it, and it could not be saved."
 ---
 
 > **Where:** The west of [[Vallaki]], near the orphanage.
 >
-> **Status:** Standing, beautiful, and — as of six days before our arrival — **hollow.** Keep reading. Then keep the secret.
+> **Status:** **Destroyed.** Seventy percent gone, fourteen-odd houses and shops with it, the dead not yet counted. Its priest lives. Its saint is still missing. The town's shield is still down.
 >
-> **First entered:** Session 7, the evening we arrived, with [[Ireena Kolyana|Ireena]].
+> **First entered:** Session 7, the evening we arrived, with [[Ireena Kolyana|Ireena]]. Last exited: Session 12, through the smoke, carrying a statuette.
 
 ## The place
 
@@ -38,11 +38,18 @@ We opened the coffins ourselves, four days early, on our schedule — they were 
 
 A detail that will not stop itching: the main road to the church was blocked by a toppled wagon that turned out to be **deliberately weighted with bricks** — built, by someone, before the vampires were ever loose.
 
+## The last battle of St. Andral's (Session 12)
+
+The church fought everyone as it died — blinding smoke, backdrafts, rubble on every fourth heartbeat — and it hosted, in its final hour, the strangest alliance Vallaki will never hear about: our party, a wereraven who refused to be one in front of witnesses, a priest with a mace he kept under the altar, and **Izek**, who threw two vampires through the processional doors and burned one alive with his own arm. One of the creatures spoke a sentence we are still turning over: *"The master wants the priest dead."* The master did not get him. **All six spawn ended here or at the shop — there are, tonight, no vampires in Vallaki** (see, however, [[The House of Wachter|the kitchen ward]]).
+
+The building could not be saved. Sirius walked back into the collapse — blind at the time — for the **sunburst statuette**, and put it in [[Father Lucian]]'s hands: *"Lathander lives in our hearts, not in our places."* The Father, holding it: *"But this church — it was a symbol for so many."*
+
 ## Open questions
 
-- ~~Who sent Milivoj asking — and who has the bones now?~~ **Walked to the end:** Milivoj → the crypt → [[Henrik the Coffin Maker|Henrik]] → **Ernst** → [[The House of Wachter|the best-warded house in Vallaki]].
-- ~~What has been waiting for this building to become *just a building*?~~ **Vampire spawn. Six. We know because we let them out.**
-- **Can the church be saved?** And if it burns to the ground — does it even matter who holds the bones anymore?
+- ~~Who sent Milivoj asking — and who has the bones now?~~ **Walked to the end:** Milivoj → the crypt → [[Henrik the Coffin Maker|Henrik]] → **Ernst** → [[The House of Wachter|the best-warded house in Vallaki]] — where the obvious hiding place has now proven to be **a stage set.** The real vault is still unfound.
+- ~~What has been waiting for this building to become *just a building*?~~ **Vampire spawn. Six. All destroyed — we counted them out and we counted them down.**
+- ~~Can the church be saved?~~ **It could not.** New question: **can a hallowing be raised over a ruin?** If the bones come home, what does the rite need — the crypt? the altar stone? the ground itself? Nobody we've asked knows.
 - **Who barricaded the road** with a brick-weighted wagon, before the fire, before the vampires?
+- **Where does the only priest in Vallaki sleep tonight** — and what happens to a town's faith when its finest building is a cautionary tale?
 
-*The full record: [[Session_007_Player_Notes|S7]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11 field notes]]. The quest lives on [[Quests & Threads]].*
+*The full record: [[Session_007_Player_Notes|S7]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12 field notes]]. The quest lives on [[Quests & Threads]].*

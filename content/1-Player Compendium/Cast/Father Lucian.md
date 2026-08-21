@@ -39,9 +39,17 @@ We searched the crypt with him: dust. Tomorrow we call on Milivoj.
 
 He is, as the record stands, prone on his own altar behind his raised symbol — the roof knocked him flat, mid-miracle — having paused only to slap Sanctuary on Lily over her explicit objections (*"You will not hurt a child of the Morning Lord"*). Possibly the only wholly good man in Vallaki. Definitely the bravest thing any of us saw on a morning full of brave things.
 
+## The mace under the altar (Session 12)
+
+Revised assessment: the man we had assumed was entirely made of faith and cardigan **burned a vampire to dust with a word of the Morning Lord**, then reached *under his own altar*, produced a mace, and advised the survivors: **"Evil creature, get out of this church."** He then bopped one with it.
+
+A vampire announced, mid-fight, *"The master wants the priest dead"* — a direct order from the devil himself, we note with cold interest — and Father Lucian's response to being the specific target of Strahd von Zarovich was to wade *toward* the fight going *"**This is my church**."* Sirius, a literal holy defender of priests, had to pass a persuasion check *on our own ally* to make him stand back. He lived. The vampires did not.
+
+The church could not be saved. Seventy percent of it is ash. Sirius walked back into the collapsing building — blind at the time — to bring him the **sunburst statuette** from the altar: *"Remember, Father — Lathander lives in our hearts, not in our places."* His answer, holding it: *"Thank you, my son. But this church — it was a symbol for so many."*
+
 ## Open questions
 
 - Who sent Milivoj asking? *(Answered since — the trail runs through [[Ernst Larnak|Ernst]] to [[The House of Wachter]]; see [[Quests & Threads]].)*
-- Can the church be saved — and if it burns to the ground, does it matter who holds the bones?
+- ~~Can the church be saved~~ It could not. **What happens to the town's shield now?** If the bones come home, can hallowing be raised over a ruin — and where does the only priest in Vallaki sleep tonight?
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]]. See also: [[St. Andral's Church]].*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]. See also: [[St. Andral's Church]].*
