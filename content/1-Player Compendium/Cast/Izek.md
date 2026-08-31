@@ -50,4 +50,12 @@ We tried to tell you, we said. His answer is the exact shape of the problem: **"
 
 What was the promise? Who promises a man that evil cannot come into a city? We suspect the answer explains everything about him, and we intend, carefully, to find out.
 
-*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]] (in the flesh), [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]. See also: [[The Baron of Vallaki]], [[Quests & Threads]].*
+## Most of him back (Session 13)
+
+He came to the church steps towing **Fëanor** — *"A token of friendship. We are re-releasing him into your custody"* — and snapped off the prisoner's armband with the words ***"You can have most of him back,"*** which is the closest thing to a joke we have ever heard from the flame-armed man, and we hate that we sort of like him now.
+
+Then the other thing. The man who grabbed a vampire by the skull and burned it alive while weeping over his guards **thanked us for our assistance against "the masked men."** Officially, there were no vampires. There were *seditious agitators in very obvious masks*, throwing firebombs. He recited it to our faces without one visible flicker. And then he took **the letter** — our letter, the evidence, the actual paper his own deadline demanded — **and walked it to the Baron**, and there was nothing we could do.
+
+At the festival he stands at the foot of the stage, in the rain, watching the crowd, defending a speech he knows is a lie, with a hanging scheduled on testimony he collected. We keep thinking about the crack. We suspect it is not done cracking.
+
+*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]] (in the flesh), [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]. See also: [[The Baron of Vallaki]], [[Quests & Threads]].*

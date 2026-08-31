@@ -32,4 +32,10 @@ We may have watched the answer. On the day the town burned — the day the whole
 
 Loyal. Effective. Unhurried. Whatever cracked in him when the vampires came out, it did not slow his hands. We are updating the file from "which way does he break" to: **has he already chosen, and did we mistake grief for doubt?**
 
-*Appears in: [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]. See also: [[The House of Wachter]], [[Ireena Kolyana]], [[Henrik the Coffin Maker]].*
+## Me baby. Just a baby. (Session 13)
+
+For the record, and for morale: during our escape from Wachterhaus, Ernst Larnak — the lady's shadow, the man who misses nothing — **looked directly at Lily twice, saw a small child in a commoner's cloak, and shoved her roughly aside on his way to the crime scene.** He then regrouped with his lady on the landing and descended with her, loyal to the last stair. We are recording this as the first fight Ernst Larnak has ever lost, and he does not know it happened.
+
+At the festival he will be wherever she is. He always is.
+
+*Appears in: [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]. See also: [[The House of Wachter]], [[Ireena Kolyana]], [[Henrik the Coffin Maker]].*

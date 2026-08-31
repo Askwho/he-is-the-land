@@ -22,4 +22,10 @@ Someone went into our paladin's head, took half an hour out of it, and left him 
 
 **Stella Wachter has been like that for three years.** Her mother hired us to find proof of what Victor did to her ([[The House of Wachter]]); the Baron hired us against her mother; and somewhere between those two commissions we walked our own paladin into the attic and collected a live sample. We think we just met the thing that broke Stella. It reads scripture, and its father calls it perfect.
 
-*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]]. See also: [[The Baron of Vallaki]], [[The House of Wachter]], [[Quests & Threads]].*
+## The nice boy, boy height (Session 13)
+
+Fëanor came back from the state's custody missing **two days.** His last clear memory is walking into a room to ask a man about nails — and then: *"I met a nice boy… boy height. Very boy-like."* We know that boy. Enough of us have now been upstairs in the Baron's house to have a **rule** about it. That makes three: Stella's three years, Sirius's half hour, Fëanor's two days.
+
+And the secret is no longer a secret. At the festival, from the fountain's lip, to every soul in Vallaki: **"the Baron's son abused Stella."** His mother's enemy said it; the crowd heard it; the rain did not wash it away. Whatever else today decides, Victor Vallakovich's name is now in the town's mouth — and his father, who calls him perfect, was standing right there.
+
+*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]] · [[Session_013_Player_Notes|S13]] (the two days; the accusation). See also: [[The Baron of Vallaki]], [[The House of Wachter]], [[Stella Wachter]], [[Quests & Threads]].*

@@ -47,9 +47,17 @@ A vampire announced, mid-fight, *"The master wants the priest dead"* — a direc
 
 The church could not be saved. Seventy percent of it is ash. Sirius walked back into the collapsing building — blind at the time — to bring him the **sunburst statuette** from the altar: *"Remember, Father — Lathander lives in our hearts, not in our places."* His answer, holding it: *"Thank you, my son. But this church — it was a symbol for so many."*
 
+## We needed this (Session 13)
+
+We found him on the steps of his sixty-five-percent-burned, roofless church, holding the little sunburst statuette like it was the last one in the world. And then we gave him back the thing his whole parish was built around: together we rolled the altar aside — it moves on **greased wheels**; his church kept its own secrets — and laid **the bones of St. Andral** on the sub-altar in the crypt, respectfully, with his hands on them. **And the ground answered.** A wave of holy warmth rolled out through the ruin and past it, and for the first time since the fire, that place felt like a *sanctuary* again.
+
+His whole verdict, delivered with the precision of the truly exhausted: ***"I'm not gonna say it's a bit late. But thank you regardless. We needed this."***
+
+We slept in the roofless nave that night, on guard beside him. In the morning the criers said there had never been any vampires, and mandatory festival attendance emptied the town into the square — including, presumably, him, standing somewhere in the rain in sight of his own ash.
+
 ## Open questions
 
 - Who sent Milivoj asking? *(Answered since — the trail runs through [[Ernst Larnak|Ernst]] to [[The House of Wachter]]; see [[Quests & Threads]].)*
-- ~~Can the church be saved~~ It could not. **What happens to the town's shield now?** If the bones come home, can hallowing be raised over a ruin — and where does the only priest in Vallaki sleep tonight?
+- ~~Can the church be saved~~ It could not. ~~Can hallowing be raised over a ruin?~~ **It can. It was. We felt it.** The new question: *who guards the bones while the whole town stands at a mandatory festival?* We asked the Ravens. We keep doing the arithmetic anyway.
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]. See also: [[St. Andral's Church]].*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]. See also: [[St. Andral's Church]].*

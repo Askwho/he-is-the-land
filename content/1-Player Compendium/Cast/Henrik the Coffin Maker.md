@@ -30,4 +30,10 @@ Sirius's sixth sense had read **six undead** through that ceiling, and we collec
 
 The shop is now the outbreak's ground zero: burst windows, two piles of dust, and a town looking for someone to blame. Henrik knows everything we know, and his coffins just confessed for him. He is very high on the list of people we are somehow responsible for.
 
-*Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]], [[Session_011_Player_Notes|S11]]. See also: [[Ernst Larnak]], [[The House of Wachter]], [[Muriel Vinshaw]], [[Quests & Threads]] (the bones), [[Vallaki]].*
+## Taken (Session 13)
+
+The clock we kept not-quite-getting-to ran out. With the criers' package — no vampires, festival tomorrow, all will be well — came the line we'd been dreading: **Henrik, arrested, sent to the Reformation Center** for *"harboring the seditious elements."* Poor, frightened, coffin-making Henrik, in the building that eats minds, in our place, for the crime of warehousing the things the state says never existed.
+
+The record also preserves the debate on whether coffin-making is an inherently sinister trade: *"You tell me the last time you met a coffin maker you thought was a fine, upstanding servant of the Morning Lord." — "People always die. It's one of the most stable incomes in the village." — "Compelling."* We are aware that the joke is doing load-bearing work over the guilt. He is now first on the list of people we are somehow responsible for, and the list is getting long.
+
+*Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]], [[Session_011_Player_Notes|S11]], [[Session_013_Player_Notes|S13]]. See also: [[Ernst Larnak]], [[The House of Wachter]], [[Muriel Vinshaw]], [[Quests & Threads]] (the bones), [[Vallaki]].*

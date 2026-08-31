@@ -9,7 +9,7 @@ description: "The player chronicle of our Curse of Strahd campaign — recaps, f
   <h1 class="hitl-title">He Is The Land</h1>
   <p class="hitl-tag">Five strangers. Five heirlooms. One road west — and the devil owns it.</p>
   <div class="hitl-cta hitl-in-hero">
-    <a class="hitl-cta-primary" href="./1-podcast/episode-12-—-the-baron-promised">▶ Latest episode</a>
+    <a class="hitl-cta-primary" href="./1-podcast/episode-13-—-they-will-attest">▶ Latest episode</a>
     <a href="./1-session-journals/the-story-so-far">The story so far</a>
     <a href="./1-player-compendium/">The compendium</a>
   </div>
@@ -21,17 +21,17 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 ## Before next session
 
-> **MID-INFILTRATION: we are upstairs in Lady Wachter's house, uninvited, unrested, and nearly out of everything.** Behind us, the longest day yet: the Battle of St. Andral's — **all six vampires destroyed**, the last four in a burning church with **[[Izek]] fighting on our side** (his guards died with their names in his mouth; then the crack: *"The Baron promised me. Evil can't come into Vallaki"*) · **the church could not be saved** — seventy percent ash, fourteen houses with it, a statuette carried out blind (*"Lathander lives in our hearts, not in our places"*) · two rumors at war — **her suspiciously-ready hospital vs our angel, who refuses to know he exists** · [[Ireena Kolyana|Ireena]] **gone to Wachterhaus as Ernst's guest, told nothing** (*"Oh, fuckballs"*) · and so: hoods up, cellar lock picked — **a fake pentagram, a real skeleton ward, a man we couldn't save** — past bite patients who *look like they're turning*, to the hallway of judging portraits. A moaning door. *No admittance.* The great map. *"This is the highest floor you know about."* **Session 13 opens the doors.**
+> **MID-FESTIVAL: the whole town is looking at us, and the rain is not helping.** Behind us, one impossible evening: the doors upstairs opened — **a lord ten years dead and "minutes fresh"** (one bed, slept in on both sides) · **a letter from the devil to the lady of the house** (we read it; it favors *the Baron*) · the lovely, dim sons (*"Mama's room is verboten"* — *"Is that Papa?"*) · and behind the moaning door, **[[Ireena Kolyana|Ireena]]**, tending catatonic **[[Stella Wachter|Stella]]** — so Drew told her *everything*, and Ireena answered with **the secret room: THE BONES.** The escape (windows, "BLASPHEMY!", one extremely convincing baby) → **the bones home on the sub-altar — and the ground answered.** *We won one.* Then the bill: [[Izek]] returned **most of Fëanor** (two days missing; *a nice boy, boy height*), **took our letter to the Baron**, and by crier: *there have never been vampires in Vallaki* · **festival TOMORROW, mandatory** · **Henrik to the Reformation Center** · **Lady Wachter to hang — on our testimony.** Overnight: **Level 5**, one resignation (*"too rich for my blood"*), one celestial horse (**Clancy**). Now: midday, torrential rain, a wicker sun with an empty ball, two dueling sermons both ending *"They will attest"* — and every soul in Vallaki turning to look at us. **Session 14 opens our mouths.**
 
-- **Immediate business:** find Ireena; tell her everything; get out of this house with our name intact — and, if the night is kind, with **the bones**, which were *not* in the obvious place.
-- **The clock:** **Izek collects at dawn** — a man who has now personally fought the impossible and still wants paper on Lady Wachter; Fëanor is still the stake. The **Festival is in THREE days**, on a wounded town whose government has said nothing yet.
-- **Keep in mind:** the cellar holds *our* evidence now (a body, a picked lock) next to proof that is designed to collapse; **whoever staged that room may have predicted us**; Henrik still needs choosing; **Falkon is still missing at the winery**; Bluto is still at the lake; **never harm a raven.** The full ledger lives in [[Quests & Threads]].
+- **Immediate business:** decide whom we attest for — *"There are no good choices." / "Thanks." / "My pleasure."*
+- **Find Ireena** — last confirmed helping us in the bones room; the record then loses her, and we are aware of how that reads.
+- **Keep in mind:** the bones are home but **unguarded during mandatory attendance** (the Ravens are watching); the letter is in the Baron's coat; Henrik is in the RC in our place; **the winery's silence is now official** (the raven never came; one meal a week at the inn); Bluto may or may not be inside the sea monster; **never harm a raven.** The full ledger lives in [[Quests & Threads]].
 
 ## Start here
 
 - 📖 **New, or catching up?** [[The Story So Far]] — the whole tale in one sitting.
-- 🎧 **Latest episode:** [[Episode 12 — The Baron Promised]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
-- 📋 **Latest recap:** [[Session_012_Player_Recap|Session 12 — Recap]] · deep detail in the [[Session_012_Player_Notes|Field Notes]].
+- 🎧 **Latest episode:** [[Episode 13 — They Will Attest]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
+- 📋 **Latest recap:** [[Session_013_Player_Recap|Session 13 — Recap]] · deep detail in the [[Session_013_Player_Notes|Field Notes]].
 
 ## The chronicle
 
@@ -43,6 +43,7 @@ Welcome, travellers. This is the party's chronicle of **Barovia** — the story 
 
 | # | Listen | Read |
 | --- | --- | --- |
+| 13 | [[Episode 13 — They Will Attest\|They Will Attest]] (55:43) | [[Session_013_Player_Recap\|Recap]] · [[Session_013_Player_Notes\|Field Notes]] |
 | 12 | [[Episode 12 — The Baron Promised\|The Baron Promised]] (55:45) | [[Session_012_Player_Recap\|Recap]] · [[Session_012_Player_Notes\|Field Notes]] |
 | 11 | [[Episode 11 — Hunt Well Those Who Hunt\|Hunt Well Those Who Hunt]] (1:05:40) | [[Session_011_Player_Recap\|Recap]] · [[Session_011_Player_Notes\|Field Notes]] |
 | 10 | [[Episode 10 — You Can Just Leave\|You Can Just Leave]] (1:11:02) | [[Session_010_Player_Recap\|Recap]] · [[Session_010_Player_Notes\|Field Notes]] |

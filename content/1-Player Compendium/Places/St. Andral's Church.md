@@ -1,14 +1,14 @@
 ---
 title: "St. Andral's Church"
 publish: true
-description: "The finest building we saw in Barovia — now seventy percent ash. The battle that ended Vallaki's vampires was fought inside it, and it could not be saved."
+description: "A roofless ruin that is, once again, a sanctuary — the bones of St. Andral came home on our watch, and the ground answered with a wave of holy warmth."
 ---
 
 > **Where:** The west of [[Vallaki]], near the orphanage.
 >
-> **Status:** **Destroyed.** Seventy percent gone, fourteen-odd houses and shops with it, the dead not yet counted. Its priest lives. Its saint is still missing. The town's shield is still down.
+> **Status:** A ruin — two-thirds gone, roofless, fourteen-odd houses and shops burned with it — **and a sanctuary again.** The bones are home on the sub-altar; the ground answered with a wave of holy warmth; its priest lives; its saint rests. Currently unguarded, because the entire town is at a mandatory festival.
 >
-> **First entered:** Session 7, the evening we arrived, with [[Ireena Kolyana|Ireena]]. Last exited: Session 12, through the smoke, carrying a statuette.
+> **First entered:** Session 7, the evening we arrived, with [[Ireena Kolyana|Ireena]]. Most recently: Session 13 — we slept in the roofless nave, on guard over the bones we brought home.
 
 ## The place
 
@@ -44,12 +44,21 @@ The church fought everyone as it died — blinding smoke, backdrafts, rubble on 
 
 The building could not be saved. Sirius walked back into the collapse — blind at the time — for the **sunburst statuette**, and put it in [[Father Lucian]]'s hands: *"Lathander lives in our hearts, not in our places."* The Father, holding it: *"But this church — it was a symbol for so many."*
 
+## Bones first (Session 13 — we won one)
+
+The end of the story, and for once it is good. We came back from Wachterhaus at dusk with the bones in the bag of holding and found [[Father Lucian]] on the steps, holding the sunburst statuette like the last one in the world. Together: the altar rolled aside — it moves on **greased wheels**; his church kept its own secrets to the end — and the bones of St. Andral went home to the **sub-altar** in the crypt, laid down respectfully, with the Father's hands on them.
+
+**And the ground answered.** A wave of holy warmth rolled out through the roofless wreck and past it, like the building exhaling — and for the first time since the fire, this place felt like a *sanctuary* again. Lucian, with the precision of the truly exhausted: *"I'm not gonna say it's a bit late. But thank you regardless. We needed this."*
+
+We slept there that night — three of us in the roofless nave on Drew's conjured bedrolls, on guard, under the rain. Write it down: **we actually won one.**
+
 ## Open questions
 
-- ~~Who sent Milivoj asking — and who has the bones now?~~ **Walked to the end:** Milivoj → the crypt → [[Henrik the Coffin Maker|Henrik]] → **Ernst** → [[The House of Wachter|the best-warded house in Vallaki]] — where the obvious hiding place has now proven to be **a stage set.** The real vault is still unfound.
-- ~~What has been waiting for this building to become *just a building*?~~ **Vampire spawn. Six. All destroyed — we counted them out and we counted them down.**
-- ~~Can the church be saved?~~ **It could not.** New question: **can a hallowing be raised over a ruin?** If the bones come home, what does the rite need — the crypt? the altar stone? the ground itself? Nobody we've asked knows.
+- ~~Who sent Milivoj asking — and who has the bones now?~~ **Walked to the very end:** Milivoj → the crypt → [[Henrik the Coffin Maker|Henrik]] → **Ernst** → a secret room off [[The House of Wachter|Lady Wachter's library]] → **home.** The chain is closed. We closed it.
+- ~~What has been waiting for this building to become *just a building*?~~ **Vampire spawn. Six. All destroyed.**
+- ~~Can a hallowing be raised over a ruin?~~ **Yes.** We felt it roll past us and keep going. How *far* it keeps going — whether the city's shield is truly back up — is the question we'd ask a theologian, if Vallaki had one left who wasn't herding orphans.
+- **Who guards the bones during a mandatory festival?** Nobody, is the answer. Every soul in Vallaki is in the square by law, including us. We asked the Ravens to watch. We keep doing the arithmetic anyway.
 - **Who barricaded the road** with a brick-weighted wagon, before the fire, before the vampires?
-- **Where does the only priest in Vallaki sleep tonight** — and what happens to a town's faith when its finest building is a cautionary tale?
+- **What does a town rebuild first** — a roofless church, or the fourteen houses around it — with winter coming and one meal a week?
 
-*The full record: [[Session_007_Player_Notes|S7]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12 field notes]]. The quest lives on [[Quests & Threads]].*
+*The full record: [[Session_007_Player_Notes|S7]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13 field notes]]. The quest — complete at last — lives on [[Quests & Threads]].*

@@ -30,6 +30,10 @@ description: "Survival notes, table rules, and prices — everything practical w
 - **A vampire's bite is a door you do not want opened.** Lily has been on the far side of it and back. Carry the healing potions where you can reach them.
 - **Open question, and it matters urgently: can a *spawn's* bite turn the bitten?** The kitchen ward of a certain hospital holds vampire-bitten patients, and a couple of them *did not look like they were merely wounded* (Session 12). Nobody at this table knows the rule. Until someone who does tells us, treat every untreated bite as a candle burning toward something.
 - **A building can fight you.** Burning St. Andral's rolled better initiative than most of us: blinding smoke, backdrafts, falling rubble, poisoned air. In a structure fire, the fire is a combatant — plan like it.
+- **A corpse can be kept "minutes fresh" indefinitely.** *Gentle Repose* — a modest little spell — stops the clock on a body for ten days per casting. Re-cast faithfully, it will hold a decade. If you find a suspiciously recent corpse, ask when it *actually* died, and then ask **who has been visiting it every ten days** (Session 13; see [[The House of Wachter]]).
+- **Barovia notices you.** Levels arrive overnight here, when the land pays attention — no ceremony, no trainer, just the morning and the new weight of yourself. Whether being *noticed* by this land is good news is a question we've stopped asking out loud.
+- **Search the chest for traps *before* your rogue opens it.** In loving memory of the order of operations, Session 13. She lived. The needle was poisoned. The guidance was plentiful.
+- **Hallowing can be raised over a ruin.** The building is not the sanctuary; **the saint is.** We watched a roofless wreck exhale a wave of holy warmth the moment the bones touched the sub-altar. Stone burns; sanctity, apparently, does not. ([[St. Andral's Church]])
 
 ## Table rules (the campaign's house rulings)
 
@@ -48,6 +52,6 @@ description: "Survival notes, table rules, and prices — everything practical w
 
 ![[merchants-price-list.jpg|420]]
 
-**[[The Blue Water Inn]]** (Vallaki): hot beet soup, potato pottage, potato bread — coppers each · wolf steak — silver · wine cheap and plentiful (for now) · **six-bed room, 2 gp/night.** The best value in Barovia by a country mile.
+**[[The Blue Water Inn]]** (Vallaki): ~~hot beet soup, potato pottage, potato bread — coppers each · wolf steak — silver · wine cheap and plentiful~~ **rationing (Session 13): one meal per week per soul; the wine is dregs** · **six-bed room, 2 gp/night.** Still the best people in Barovia by a country mile — the kitchen just has nothing left to sell.
 
 **Coin:** the currency bears [[Strahd von Zarovich|Strahd's]] face. A gold piece is a *lot* of money here — a pie at 1 gp is "dear," and we rather overpaid for our first one, since the tavern feeds dogs free.

@@ -31,6 +31,21 @@ Delivered on the road to Vallaki by **a dire wolf carrying roses** (Session 7). 
 > *Your destined future lover,*
 > *Strahd von Zarovich.*
 
+## Strahd's letter to Lady Wachter
+
+Found in an iron chest (poison-needle defended; ask Lily) on a high shelf in the Wachterhaus master bedroom's closet — and confiscated by [[Izek]] the same evening, delivered to the Baron it happens to flatter (Session 13). Transcribed exactly, from the handout, because every clause of it is doing something:
+
+> *Lady Wachter,*
+>
+> *It is fortunate that you considered Barovian law before enacting your plan. If you had tried to take what is not yours by right, whether from the Vallakovich heir or the guard captain, I would have had no choice but to punish the Wachter family.*
+>
+> *Your foresight and submission have bought you my favor, Lady Wachter. In the event that the Vallakovich family finds itself without an appropriate successor, you have my personal endorsement as Vallaki's next burgomistress. However, if such a tragic fate should befall the Vallakovichs, I would hate to find your hands bloodied and your good name no longer worthy of the title.*
+>
+> *Your Dread Lord and Master,*
+> *Strahd von Zarovich*
+
+Read it twice. It is not a plot against the Baron — it is a license *conditioned on keeping him*. And note who else stands inside the devil's fence: *the Vallakovich heir* — and *the guard captain*.
+
 ## The festival flyer
 
 Pressed into our hands at Vallaki's east gate, fresh from the printers (Session 7):

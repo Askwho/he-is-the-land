@@ -46,10 +46,14 @@ A second impossible letter — through a *warded* window this time — and the p
 - **[[The Bard|The bard]]'s corner produced a heavy chest** and five words: *"Hunt well those who hunt."*
 - **[[Henrik the Coffin Maker|Henrik]] slept here** the night his coffins stopped being his problem and became everyone's.
 
+## One meal a week (Session 13)
+
+The taproom has become a ration station: **one meal per week** per soul, served without apology, because arithmetic doesn't take apologies. The wine is dregs — ten percent wine, ninety percent history. Drew's contribution to the crisis: **Lady Wachter's liberated beets**, distributed Oprah-style (*"You get a beet. You get a beet."*). [[Muriel Vinshaw|Muriel]] resigned from our company at this bar at dawn; [[Urwin Martikov|Urwin]] accepted the beets like sandbags in a flood and keeps not-looking at the west road, where a bird he was expecting has not come.
+
 ## Open questions
 
 - ~~What do the Martikovs know about the bad times — and about us?~~ **Rather a lot, on both counts.** See [[Urwin Martikov]].
-- Why is the wine late — and what happens to a town like this when it runs dry? *(Now very personal: the winery is the Ravens' clan seat, **Falkon flew there and hasn't come back**, and Urwin just sent his family into whatever that silence is.)*
+- Why is the wine late — and what happens when it runs dry? **It has run dry. This is what happens.** The winery is silent, Falkon never came back, Danika and the boys flew into that silence, and the whole town now eats once a week and drinks memory. The west road is no longer a question. It's a destination.
 - ~~Who delivers letters through locked doors?~~ **Wings.**
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]].*
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_013_Player_Notes|S13]].*

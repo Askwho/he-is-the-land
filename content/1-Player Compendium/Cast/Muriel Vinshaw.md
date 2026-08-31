@@ -30,4 +30,12 @@ Then, in Lady Wachter's cellar, with the skeletons up and no officialdom in a hu
 
 On the town's civil war, one opinion only: there are no good options, but she leans against *"the option that keeps kidnapping people off the street."* On the winery: her partner **Falkon** flew there to report to the main clan and **has not come back** — *"I reckon there's something afoul in the winery. But that is for a future endeavor."* On where Urwin's family went, and on anything else about the clan: nothing. She watches people sleep for a living, and she wants you to know it.
 
-*Appears in: [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]. See also: [[The Ravens of Barovia]], [[Urwin Martikov]], [[The Blue Water Inn]].*
+## The resignation (Session 13)
+
+Her last recorded fieldwork: blending into a crowd beside a fake child during our escape, watching the enemy regroup, and reporting it all — flawless to the end. Then, at dawn, she resigned:
+
+***"Yesterday was too rich for my blood. I thought I was it, but turns out I'm not."***
+
+Amicable. No falling-out, no reveal — a professional recognizing the story got bigger than one spymaster's arm. We owe her several lives and a great deal of pecking, and the ledger says so in ink. The Ravens remain our allies; she remains one of them; and we suspect — we hope — that this is not the last time a woman with feathers in her hair delivers us the truth at a corner table.
+
+*Appears in: [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]. See also: [[The Ravens of Barovia]], [[Urwin Martikov]], [[The Blue Water Inn]].*

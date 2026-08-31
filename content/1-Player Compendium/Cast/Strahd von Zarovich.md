@@ -44,6 +44,12 @@ So: **his name, spoken three times, summons him** — by his own written promise
 - There are **other lands like this one** — the Vistani call them the *Domains of Dread* — and ordinary sunny places beyond: the Coast of Faerûn, Waterdeep. Home still exists. This place just doesn't let go.
 - And from [[Madam Eva]]'s reading, the last card: when the time comes, we will find the devil **"in the tomb of the only man he ever envied."** A tomb. A name nobody remembers. See [[Quests & Threads]].
 
+## The letter to Lady Wachter (Session 13)
+
+We have now read his correspondence, and we wish we hadn't. Found in an iron chest in Lady Wachter's own bedroom: **a letter from the devil to the lady** — courteous, precise, and stranger than any accusation we'd prepared. It does not order the Baron overthrown. Read carefully, it says: **keep the Baron. Keep the status quo. Do it subtly** — with her succession blessed only *if* the ruling family should happen to fall, and a warning not to bloody her hands doing it. Lawfully evil. The full text is on [[Handouts]].
+
+Then [[Izek]] confiscated it and carried it to the Baron — the man the letter quietly favors. Our best evidence now props up the regime it should indict, held by a ruler who kept the accusation and buried the signature. We assume the author finds all of this *very* entertaining.
+
 ## Open questions
 
 - How long has he ruled? The Vistani finally gave us a number: **~700 years.**
@@ -51,5 +57,6 @@ So: **his name, spoken three times, summons him** — by his own written promise
 - Why does he *court* Ireena rather than simply take her?
 - What are his "pups"?
 - **Who is the only man he ever envied — and where is that man's tomb?**
+- **Why does the devil want the Baron kept?** What is the status quo *for*?
 
-*Appears in: [[Session_001_Player_Notes|S1]] · [[Session_003_Player_Notes|S3]] · [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]]*
+*Appears in: [[Session_001_Player_Notes|S1]] · [[Session_003_Player_Notes|S3]] · [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_013_Player_Notes|S13]] (the letter)*

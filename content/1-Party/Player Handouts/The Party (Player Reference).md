@@ -4,9 +4,9 @@ publish: true
 description: "Who we are — five strangers pulled through the mists, and the keepsakes that dragged us here. Roster, portraits, and current gear."
 ---
 
-*Five strangers, five keepsakes, one very good invention. Current as of **Session 12** — at which point one of us is a hostage of the town government and the rest of us are standing, unrested and uninvited, in the upstairs hallway of the most dangerous house in Vallaki, so "current" is doing heavy lifting.*
+*Five strangers, five keepsakes, one very good invention. Current as of **Session 13** — at which point all five of us are together again (most of Fëanor, anyway), freshly **Level 5**, and standing in a rain-soaked town square while every soul in Vallaki waits to hear whose side we're on. "Current" remains a bold claim.*
 
-## Roster (all Level 4)
+## Roster (all Level 5 — Barovia paid attention to us overnight)
 
 | PC | Player | Ancestry / Class | Origin |
 | --- | --- | --- | --- |
@@ -30,6 +30,8 @@ Tinkerer — builds cannons, prosthetics, security systems. Alchemical tattoos u
 
 **CLOVER** — *Combat Laser Ordnance Vehicle for Emergency Enemy Removal.* A small, cheerful walking cannon Drew dreamed up for days and then made real mid-wolf-attack: sheet-of-flame ordnance, force blasts, and dispensed "good vibes" that turn out to be very real. Roughly an hour of power. Adorable, for something that incinerates wolves. First build smashed by a hag; **mark II rebuilt in Vallaki and better than ever** — pulses shielding energy over everyone in reach. Demon-tested. Clover abides.
 
+**Level 5:** Drew can now make a weapon into an **arcane firearm** — her own summary, delivered with terrifying joy: *"I get a gun."* Second-level spell slots to feed it.
+
 ## Fëanor Dawnward
 
 ![[feanor.png|280]]
@@ -37,6 +39,8 @@ Tinkerer — builds cannons, prosthetics, security systems. Alchemical tattoos u
 Wealthy family's black sheep and social misfit, deliberately slumming it in plain clothes; a Life cleric of Lathander who insists he isn't devout, to which the record replies: he turned four ghouls with a raised holy symbol, and he was **the only one of us to keep his wits through Strahd's charm** — and to shoot at him. *"You are the sun in these lands, Father"* (Sirius). He means to truly connect with his god for the first time. We'll hold him to it.
 
 **Keepsake:** a round flat stone engraved with a three-pointed star, from his grandmother — *"only sentimental value."* Except it glows at the new moon, in a land with no moon, and its symbol rings a Barovian standing stone. See [[Quests & Threads]].
+
+**Watch-list (Session 13):** returned from state custody **minus two days of memory** — last recollection: asking a man about nails, then *"a nice boy… boy height."* We have a rule about that house now. **Level 5: SPIRIT GUARDIANS** — the Morninglord finally answers in area-of-effect. On Sirius's new horse: *"When I turned twelve, the Morning Lord gave me a book token."* He is managing his envy.
 
 ## Lilli-grai "Lily"
 
@@ -48,6 +52,8 @@ Gnome rogue, 3'1", patched clothes, prized boots, a green ribbon on her right wr
 
 **Watch-list, retired with honours:** the pie affair is **over** — six days of iron will and the hags' hook broke before she did. **Correction to the record (Session 11):** she was never hidden in Wachterhaus's walls — we had *all* followed Sirius in; the commendation stands for the sleep-waves regardless. Current status instead: **survived a vampire's fangs at death's door** (one failed save, one furious knight with a potion bottle, one paladin's glowing hands) and responded by sprinting the length of a burning nave alone, leaning — her words — *far too hard into "rogue paladin."* Our hearts have stopped pretending anything.
 
+**Session 13 addenda:** rolled a **thirty** on an unlocked door — *the master of unlocking* — then ate a poison needle from an untrapped-checked chest (order of operations under review) and got up again. Knifed a fiend out of the air. Impersonated a baby so well the enemy's spymaster shoved her aside twice. **Level 5: uncanny dodge + cunning strike.**
+
 ## Sirius
 
 ![[sirius.jpg|280]]
@@ -57,6 +63,8 @@ Aasimar paladin of the Morning Lord — noble, oblivious, frequently drunk, fait
 **Keepsake:** a raven feather from his grandfather (also "Sirius"), given at his coming-of-age — *"for good."* Ravens in Barovia are good luck. Worth noting: Sirius cannot remember how he came to be here.
 
 **Watch-list:** [[Strahd von Zarovich|Strahd]] drank from him. He seems himself — appetite aimed at bacon, not blood — but we are keeping watch. Black pudding is the designated test.
+
+**CLANCY** (Session 13, Level 5): Sirius greeted the dawn by summoning his new privileges — a **gleaming celestial horse**, glorious, mud repelling itself from the hooves, the single most conspicuous object in a starving burned town. *"When Plan A and Plan B don't work — Plan C."* The name is Clancy. The town is coping.
 
 ## Sir Osric Cunningham
 
@@ -68,11 +76,15 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 
 ---
 
-## Shared kit & assets (as of Session 12)
+## Shared kit & assets (as of Session 13)
 
-- **🧥 COMMONER CLOAKS from the Ravens' own spy stock** — Urwin's answer to being talked out of despair. Currently in use, for exactly what you'd think.
-- **🥬 A basket of beets** — liberated from a certain box room, for the hungry. The silverware in the same room was refused: *"We're not common crooks."* The beets, we maintain, are different.
-- **⚠️ Resource status: RUNNING ON FUMES.** No rest since the morning of the vampires: Sirius is out of flight, smites, and lay-on-hands; Clover is spent; Drew is down to her last slots; Osric took the day's only vampire bite (the bard's potion ate half of it). The next long rest is load-bearing.
+- **📚 THE DRUID PRIESTESS' TOME** — leathered pages of ritual diagrams, seasons and nature-rites, what little text there is in **Druidic**, which none of us read. Out of Lady Wachter's chest, into the bag. Fëanor keeps looking at it sideways; his grandmother's stone has a *symbol* that also came off a standing stone. We are pattern-matching and we know it.
+- **📜 FIVE SCROLLS** — from the secret room, beside the bones. Ireena guessed one is ***Gentle Repose*** — the spell somebody has been re-casting on Lord Wachter every ten days for ten years. The other four: unread. We carried a dead man's maintenance schedule out of that house and we intend to find out what else.
+- **💰 180 electrum + 110 gold** — coin bearing the devil's face, from the same chest. Apparently that's just what money looks like here.
+- **⛔ THE LETTER: GONE.** We had it. We read it (see [[Handouts]]). Izek took it to the Baron. The file notes this so nobody forgets the feeling.
+- **🧥 COMMONER CLOAKS from the Ravens' own spy stock** — Urwin's answer to being talked out of despair. Battle-tested by one (1) baby.
+- **🥬 ~~A basket of beets~~ — DISTRIBUTED.** *"You get a beet. You get a beet."* The Blue Water's one-meal-a-week crisis is one basket less dire. The silverware was refused; the beets, we maintain, were different — and we were right.
+- **✅ Resource status: RESTED-ISH.** One night in a roofless church on holy ground, guarding the bones we brought home. Everything is topped up except our nerve, and the festival is working on that.
 - **🎒 A BAG OF HOLDING** — built by Drew, overnight, at an inn, because she was annoyed. The locket went straight in, which improved everyone's day. The party's carrying capacity is now a solved problem; the party's respect for Drew was already at capacity.
 - **🧛 The benefactor's kit** (*"Hunt well those who hunt"* — see [[The Bard]]): **3 flasks of holy water · 3 wooden stakes · iron mallet · steel mirror · manacles · oil · crowbar** — divvied around the party. Already spent from it: the scroll of protection and the necrotic-resistance potion (Sirius, at the Coffin Works — both earned their keep), and one healing potion (into Lily, at death's door; it rolled the minimum and we are still grateful). **Osric's torch collection now stands at twelve.**
 - **A second silvered shortsword** — Drew's own, silvered overnight, "on the grounds that it would make her feel better."

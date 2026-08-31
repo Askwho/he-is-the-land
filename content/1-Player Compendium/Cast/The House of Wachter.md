@@ -8,7 +8,7 @@ description: "Lady Fiona Wachter — charisma in a dress, a canapé party used a
 >
 > **Where:** **Wachterhaus** — the finest house in the noble district. Per the [[The Ravens of Barovia|Ravens]]: **warded to the nines** — in ten years, their agents have never gotten inside.
 >
-> **Status:** ⛔ Ex-employer — but the door is held open: *"No one is beyond redemption. **Anyone who comes to their senses can still do business with me.**"* As of Session 11: **publicly accused of letting vampires into Vallaki, by an angel, over a crowd.** As of Session 12: **running the town's hospital, hosting Ireena as a guest — and we are inside her house, uninvited, upstairs, right now.** Very complicated.
+> **Status:** As of Session 13: **we robbed her.** The bones of St. Andral came out of her library through a window, the devil's letter came out of her bedroom chest, and her sons learned what sleeps in the master bedroom because we aimed them at it. She is **scheduled to hang on our testimony** — and answered by climbing onto the fountain's lip at the mandatory festival and giving the counter-sermon of her life, fiend raven riding her shoulder openly, ending on the same three words as the Baron: **"They will attest."** Very, *very* complicated.
 
 ## Lady Fiona Wachter
 
@@ -66,9 +66,31 @@ He was right, and it killed him anyway. The moment he crossed the threshold — 
 
 What we left in it: a dead man, a heap of bones, a kicked-over chair, and a picked lock. We are aware of what that looks like.
 
-## Upstairs (where the record currently stands)
+## Upstairs (Session 12)
 
-A storeroom (silverware declined; beets liberated). A kitchen turned hospital ward — and on those bedrolls, among the burned, **people with vampire wounds, a couple of whom did not look like they were merely wounded.** Then the hallway: portraits and mirrors, **moaning behind one door**, *No admittance* on every other, and over the stairhead **an enormous, beautiful, horrible map of Barovia** — wolves, the moon, the goat hill — which Drew is memorizing as these notes are written. *"This is the highest floor you know about."*
+A storeroom (silverware declined; beets liberated). A kitchen turned hospital ward — and on those bedrolls, among the burned, **people with vampire wounds, a couple of whom did not look like they were merely wounded.** Then the hallway: portraits and mirrors, **moaning behind one door**, *No admittance* on every other, and over the stairhead **an enormous, beautiful, horrible map of Barovia** — wolves, the moon, the goat hill — which Drew memorized what she could of. *"This is the highest floor you know about."*
+
+## The man who died ten years ago, minutes ago (Session 13)
+
+The master bedroom — *"Mama's room is verboten,"* per both sons, separately — held a family portrait (father, mother, two mischievous sons, a baby daughter) and, on the canopy bed, a very still man with **two coins on his eyes**. Drew's medical verdict: *freshly dead — minutes.* Our collected arcana said something far worse: **Gentle Repose** — the little spell that stops the clock on a corpse, ten days per casting — **re-cast, faithfully, every ten days, for a decade.** Lord Wachter died about ten years ago. Someone has knelt at that bed roughly every tenth day since. There is one bed in that room, and the other side of it has clearly been slept in.
+
+We have seen a fake pentagram, a skeleton ward, and a fiend on a shoulder, and we are prepared to state that this bedroom is the creepiest thing in that house. (Osric's motion to take the body as collateral was debated with more seriousness than it deserved, and declined.)
+
+## The bone-less box
+
+The closet's iron chest (high shelf) defended itself: a **poison needle** put Lily unconscious on the floor before it gave up its contents — coin bearing the devil's face, a **Druid Priestess' Tome** full of ritual diagrams none of us can read, and **a letter from He Who Shall Not Be Named to Lady Wachter.** An actual letter. From him. To her. It smells of crime, and read carefully it says something stranger than any of us expected: *keep the Baron; keep the status quo; do it subtly.* Lawfully evil. What the box did not contain was bones.
+
+## The secret room, and who opened it
+
+Behind the moaning door we found **[[Ireena Kolyana|Ireena]]** — tending a catatonic girl we now know to be **[[Stella Wachter]]**, and telling us what a saint the lady of the house is. So Drew told her *everything*. And Ireena, asked why we'd kept her out of every loop, asked only *"Why didn't you tell me before?"* — and paid the truth back in full: **the supplies come from a secret room off the library.** Behind that bookshelf, on a tarpaulin, neatly ordered: **the bones of St. Andral.** Plus five scrolls. That was the moment Lady Wachter came up her own stairs, saw the haul, and said — quietly, which was worse — **"The bones."**
+
+## The escape (six rounds, four windows, one baby)
+
+Sirius aimed the boys at the forbidden door (*"Is that Papa?"*) to buy a corridor; Drew smashed the safe-room window and hauled Ireena and the future through it; Sirius bellowed **"BLASPHEMY! She stole the bones of St. Andral!"** for the benefit of a house full of commoners and went off the roof; Osric found the openable window; and Lily became a small child so convincingly that **Ernst looked at her twice, saw a child, and shoved past her on his way to the crime.** The fiend raven — knifed once out of the air — ended the scene **perched on Lady Wachter's shoulder.** Their final form. Everyone got out. The bones went home. ([[St. Andral's Church]] has the rest, and it is the best page in this compendium this week.)
+
+## The fountain's lip (Session 13, mid-festival — where the record stands)
+
+The state's answer came by nightfall: there were never any vampires, the festival is *today*, attendance mandatory — and **Lady Wachter will hang on the strength of our testimony.** Her answer came at midday, in torrential rain, from the fountain: the Baron's sunlight as fake as his smile; *"How dare he scorn our dead… They WERE vampires. He could not protect us"*; the Reformation Center *"twisting the minds of the citizenry"*; and — publicly, for the first time — **"the Baron's son abused Stella."** Then she looked at us. *"They will attest. They will back me up."*
 
 ## [[Ernst Larnak|Ernst]]
 
@@ -76,21 +98,21 @@ Promoted in the file twice over: from "polite manservant" to "the lady's shadow"
 
 ## Karl & Nikolai
 
-The two rowdy lads of [[The Blue Water Inn]] — carefree, charming, deep in their cups nightly, and **innocent, we'd wager, of everything above**. Their drinking companion **Bluto** is still missing at the haunted lake ([[Quests & Threads]]) — and is, we've since learned, **a friend of theirs specifically**; finding him would mean something to this family. We still owe them a walk north.
+Met at last, upstairs, mid-burglary — and we want this minuted: *lovely.* Perfectly normal, deeply dim, four-and-a-half-stars-would-drink-with-again nobles, who each separately asked whether we were wizards, and each separately recited the one rule of the house: **"Mama's room is verboten. Never."** Then Sirius opened the forbidden door at them, and Karl's voice came through it later, forever: *"Mama, I think we've got some questions for you." — "Not now, Karl." — "But it's* disgusting.*" — "We will talk about this later."* We are not proud of it. Their drinking companion **Bluto** is still missing at the haunted lake — a kindness we can still do them, whatever today does to their mother.
 
 ## Stella, and what was done to her
 
-Betrothed to **[[Victor Vallakovich]]** ~3 years ago — a match Lady Wachter arranged herself — and returned from that house broken. **Her body is well; it is *merely her mind***, three years in a locked room. As of Session 10 we hold a second sample of the phenomenon: Sirius's missing half hour. The commission to prove it died with *"your services are no longer required"* — the case didn't.
+She has her own page now: **[[Stella Wachter]]**. Seen at last — catatonic, tended by Ireena — and her story is no longer a family secret: her mother said it to the whole town from the fountain. Betrothed to **[[Victor Vallakovich]]**, returned broken; three years in a locked room; and now three samples of the phenomenon — hers, Sirius's half hour, and Fëanor's two days.
 
 ## Open questions
 
-- **What is Lady Wachter?** Not a fiend, not undead — but she went away grieving and came home with a demon on a perch and peace in her heart. And the demon *came back*.
-- **The bones are almost certainly in that house — but not where we looked.** The obvious hiding place was a stage set. If the cellar is theatre, where is the real vault?
-- **Who staged the pentagram, and for whom?** If the answer is "her, for us" — she predicted our break-in before we planned it. Does she know we are inside *right now*?
-- **Whose "master's design" was the coffin plot** — hers? Or the devil's, with her as the courier? *"The master cares not for us,"* said the dying thing. It did not say *the mistress*.
+- **What is Lady Wachter?** Not a fiend, not undead — but she went away grieving and came home with a demon on a perch and peace in her heart. The demon now rides her shoulder in public. *Their final form.*
+- **Who re-casts Gentle Repose on Lord Wachter every ten days** — and is being *raised* what the deal with the devil is for?
+- **Who staged the pentagram, and for whom?** Still open — and now the least of her theatre.
+- **Whose "master's design" was the coffin plot** — hers? Or the devil's, with her as the courier? The letter we read suggests the devil holds *everyone's* leash in that town, hers included.
 - What was the *sleep* that reached for Lily twice — the lady, or the thing on her shoulder?
-- **Which way does Ernst break?** The whole town has seen what his errands let in — and his next recorded act was calmly fetching Ireena to his lady's house through the smoke.
-- **Can the bitten in her kitchen ward *turn*?** Because if they can, the hospital is a nursery, and the most beloved house in Vallaki is incubating the next outbreak in its kitchen.
-- **Why does she hang a war map of Barovia at the top of her stairs?**
+- **Which way does Ernst break** — if she hangs? If she wins? If her own sons ask their questions out loud?
+- **Can the bitten in her kitchen ward *turn*?** The comatose man with two neat neck-holes upstairs did not settle the question.
+- **What happens at the "later" talk** — the one Karl was promised about the thing in Mama's room?
 
-*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]. See also: [[Ernst Larnak]], [[Ireena Kolyana]], [[Vallaki]], [[The Ravens of Barovia]], [[Henrik the Coffin Maker]].*
+*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]. See also: [[Stella Wachter]], [[Ernst Larnak]], [[Ireena Kolyana]], [[Vallaki]], [[The Ravens of Barovia]], [[Henrik the Coffin Maker]], [[Handouts]] (the letter).*

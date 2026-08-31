@@ -58,8 +58,18 @@ While we fought the church fire, **Ernst came to the Blue Water and invited her 
 
 She is somewhere above the hospital beds right now. So are we, uninvited, listing doors. The conversation nobody wanted to open is now scheduled for whichever room she's in — and Sirius, note, cannot lie to her; she told us so herself.
 
+## Why didn't you tell me before? (Session 13)
+
+We found her behind the moaning door — tending catatonic **[[Stella Wachter]]**, and telling the burglars what a saint the lady of the house is. So Drew, finally — *finally* — told her everything. The crates. The pentagram. The dead man from the Reformation Center. The letter. We apologized for keeping her out of every loop, and her only question was **"Why didn't you tell me before?"**, and we did not have a good answer.
+
+And then Ireena Kolyana, doom-magnet of Barovia, paid us back in full: ***"The supplies come from a secret room off the library."*** She handed us the bones of St. Andral. The truth we were too afraid to give her turned out to be the price of everything we were looking for.
+
+## Where is she? (the record's worst sentence)
+
+In the escape, Drew pulled her into the barricaded room with the haul — and then the record loses her. **Nobody can state with confidence where Ireena ended up.** We are aware of how that sentence reads in context. It is at the top of the list. Attendance at today's festival is mandatory *for every soul in Vallaki* — which means she is probably somewhere in this soaked, furious crowd, and so is everyone else in this file.
+
 ## Our promise
 
-Escort Ireena safely to Vallaki. **✅ Kept** — four days, hags and all, delivered at dusk on the fourth. The promise as *written* is complete; the promise as *meant* — that she be **safe** — is currently on fire: the sanctuary she counted on is a ruin, and she sleeps tonight under the roof our angel publicly accused. See [[Quests & Threads]], first line.
+Escort Ireena safely to Vallaki. **✅ Kept** — four days, hags and all, delivered at dusk on the fourth. The promise as *written* is complete; the promise as *meant* — that she be **safe** — now includes finding her, in a town mid-upheaval, after she risked her host's wrath to help us. See [[Quests & Threads]].
 
-*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]]*
+*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]*

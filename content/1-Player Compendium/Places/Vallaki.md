@@ -68,13 +68,19 @@ The ledger of Vallaki's worst day in living memory, as we counted it: **all six 
 
 The festival is in **three days**, on a wounded town, and the government has yet to say a word about any of it.
 
+## The rewrite, and the festival (Session 13 — where the record stands)
+
+The state said its word, by crier, at the wrong hour of the evening: *"There are no vampires in Vallaki. There have never been vampires in Vallaki."* The attack was *seditious agitators in very obvious masks.* And in answer to the insult: **the Festival of the Blazing Sun, brought forward to the very next midday. Attendance mandatory for every soul in Vallaki, whatever their circumstances. Bring your sick. Bring your grieving. All will be well.** Also in the package: [[Henrik the Coffin Maker|Henrik]] arrested to the Reformation Center, and **Lady Wachter to hang — on our testimony.**
+
+So here the town stands, all of it, by law, in torrential rain: children dressed as flowers, a ten-foot wicker sun on a scaffold (ball: *currently* empty), the stretcher-borne wounded carried into the crowd by [[The House of Wachter|Wachter]] medics, one meal a week in every stomach, a burned quarter still steaming — and **two rulers giving dueling sermons that both ended on us.** *"They will attest."* / *"They will attest. They will back me up."* Every soaked, bereaved, furious soul in Vallaki is turning to look at five outsiders. That is where the record stops.
+
 ## Open questions
 
 - ~~What happens if six coffins open into a mandatory festival crowd?~~ **We made sure we'll never know.** People are dead who were alive that morning — but the whole town was *not* in the streets. We think we did the right thing. We *think* so.
-- ~~The bones: who does a coffin maker answer to?~~ **Answered in full** — the chain runs Milivoj → crypt → Henrik → Ernst → [[The House of Wachter|Lady Wachter]]. What's left is the hard part: the obvious hiding place was a decoy, and there may no longer be a church to bring them back *to* — only ground.
-- **Vallaki was the one place spared in the bad times** — *because of the church.* No longer Roger's theory: the Ravens' records confirm it. The church is ash. Count the days to the festival again.
-- ~~Where are the other two?~~ **They came to us** — thrown through the church doors by the Baron's enforcer. All six are accounted for.
-- **What does the state say tomorrow?** A town full of witnesses watched Izek fight vampires. The Baron holds that vampires are impossible. Somebody has to blink, and the criers work for him.
-- **What do we bring [[Izek]] by morning?** He has now *personally* fought the impossible — and still wants paper on Lady Wachter, and still holds our priest.
+- ~~The bones: who does a coffin maker answer to?~~ **Answered, recovered, and RETURNED** — the chain ran Milivoj → crypt → Henrik → Ernst → Lady Wachter's library → **home to the sub-altar.** The ground answered. See [[St. Andral's Church]].
+- **Vallaki was the one place spared in the bad times** — *because of the church.* The bones are back and the sanctuary held a wave of holy warmth. Whether the whole city's shield is up again — we felt it roll *past* the ruin, for what that's worth — is the town's most important unanswered question, and nobody in charge believes the question exists.
+- ~~What does the state say tomorrow?~~ **It says nothing happened.** There have never been vampires in Vallaki. We have watched a government reply to fangs with stationery, and we understand the town better now.
+- **Whom do we attest for?** The hanging is scheduled on our word. The evidence we can produce damns her; the letter that complicates everything is in the Baron's coat; the crowd hates everyone. *There are no good choices.*
+- **Who is guarding the bones** while every soul in Vallaki — by law — stands in this square?
 
-*The full record: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12 field notes]].*
+*The full record: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13 field notes]].*
