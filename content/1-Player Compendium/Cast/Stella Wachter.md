@@ -8,7 +8,7 @@ description: "The girl behind the moaning door — catatonic, tended by Ireena, 
 >
 > **Where:** A room on the upper floor of Wachterhaus — the moaning door.
 >
-> **Status:** Catatonic. Tended, when we found her, by [[Ireena Kolyana|Ireena]] — who called the lady of the house a saint for keeping her.
+> **Status:** Catatonic, at home, in the care of her brothers. Her mother is dead. We have promised to help her and have not yet found the way.
 
 ## The moaning door
 
@@ -24,4 +24,10 @@ Three years ago she was betrothed to **[[Victor Vallakovich]]** — a match her 
 
 Nothing, formally. The commission died months of ledger-pages ago. And yet: the party seeded — back at the dinner, before everything — that we would come back and try to heal her. The abbot above Krezk is said to heal bodies *and minds*. The list of reasons to go west keeps growing, and she is quietly on it.
 
-*Appears in: [[Session_008_Player_Notes|S8]] (her brothers' account) · [[Session_009_Player_Notes|S9]] (the dinner) · [[Session_013_Player_Notes|S13]] (seen; the accusation made public). See also: [[The House of Wachter]], [[Victor Vallakovich]], [[Ireena Kolyana]], [[The Abbot]].*
+## Victor's book (Session 14)
+
+We found it in his attic, after he had gone. It is his own account. The first time was an accident: a memory spell cast on the girl he was betrothed to and found annoying, and it frightened him. Then he saw that nothing bad happened to him. So he did it again, on purpose, and again, experimenting on her mind and wiping what he had done each time, until she broke. Any idea that he was made to do it does not survive reading his own words.
+
+Her brothers asked us, afterwards, who will look after her now. We promised to help. We do not yet have a cure. Father Lucian's abbey near Krezk, where a holy man is said to heal minds, is the only lead we hold.
+
+*Appears in: [[Session_008_Player_Notes|S8]] (her brothers' account) · [[Session_009_Player_Notes|S9]] (the dinner) · [[Session_013_Player_Notes|S13]] (seen; the accusation made public) · [[Session_014_Player_Notes|S14]] (the book). See also: [[The House of Wachter]], [[Victor Vallakovich]], [[Ireena Kolyana]], [[The Abbot]].*

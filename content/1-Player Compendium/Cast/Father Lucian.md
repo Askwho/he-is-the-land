@@ -8,7 +8,7 @@ description: "The priest of St. Andral's in Vallaki — gentle, unhurried, far t
 >
 > **Where:** St. Andral's, in the west of Vallaki, with his altar boy **Yeska** (eight years old, recently instructed in push-ups and confidentiality — in that order).
 >
-> **Status:** Ally. Possibly the only wholly good man in Vallaki. Definitely the most trusting.
+> **Status:** Ally, and now the closest thing Vallaki has to a public conscience. He told the whole town the vampires were real, and he is backing Ireena as burgomistress. Lydia is in his care.
 >
 > **First met:** Session 7, the evening we arrived.
 
@@ -60,4 +60,12 @@ We slept in the roofless nave that night, on guard beside him. In the morning th
 - Who sent Milivoj asking? *(Answered since — the trail runs through [[Ernst Larnak|Ernst]] to [[The House of Wachter]]; see [[Quests & Threads]].)*
 - ~~Can the church be saved~~ It could not. ~~Can hallowing be raised over a ruin?~~ **It can. It was. We felt it.** The new question: *who guards the bones while the whole town stands at a mandatory festival?* We asked the Ravens. We keep doing the arithmetic anyway.
 
-*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]. See also: [[St. Andral's Church]].*
+## He said it out loud (Session 14)
+
+Osric called him forward in the square, and Father Lucian told the whole town, in the rain, that the vampires had been real. It cost him. The Baron named him a seditionist on the spot and moved to have him taken, and only Izek holding the guards back kept him off the stage. He stayed where he was.
+
+When we proposed Ireena as burgomistress he endorsed her, carefully, with the face of a man who has just watched two governments fail. After the square he took Lydia to the church. She is not well and he has not pretended otherwise.
+
+He also gave us a lead. There is an abbey near Krezk, he says, where a powerful holy figure is said to heal bodies and minds. He offered it as a place to ask, not a promise. We have written it down for Lydia, for Stella, and for the two of us who are missing time.
+
+*Appears in: [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]] · [[Session_014_Player_Notes|S14]]. See also: [[St. Andral's Church]], [[Ireena Kolyana]], [[The Abbot]].*

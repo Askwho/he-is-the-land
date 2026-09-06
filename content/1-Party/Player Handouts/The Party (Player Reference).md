@@ -4,9 +4,9 @@ publish: true
 description: "Who we are — five strangers pulled through the mists, and the keepsakes that dragged us here. Roster, portraits, and current gear."
 ---
 
-*Five strangers, five keepsakes, one very good invention. Current as of **Session 13** — at which point all five of us are together again (most of Fëanor, anyway), freshly **Level 5**, and standing in a rain-soaked town square while every soul in Vallaki waits to hear whose side we're on. "Current" remains a bold claim.*
+*Five strangers, five keepsakes, one very good invention. Current as of **Session 14**: all five of us Level 5, unrested, inside the Reformation Center with Izek at our shoulder, facing two elves who take memories out of people for a living. The Baron is dead by our priest's hand. Lady Wachter is dead by the crowd's. Ireena governs Vallaki because we said so. "Current" remains a bold claim.*
 
-## Roster (all Level 5 — Barovia paid attention to us overnight)
+## Roster (all Level 5)
 
 | PC | Player | Ancestry / Class | Origin |
 | --- | --- | --- | --- |
@@ -42,6 +42,8 @@ Wealthy family's black sheep and social misfit, deliberately slumming it in plai
 
 **Watch-list (Session 13):** returned from state custody **minus two days of memory** — last recollection: asking a man about nails, then *"a nice boy… boy height."* We have a rule about that house now. **Level 5: SPIRIT GUARDIANS** — the Morninglord finally answers in area-of-effect. On Sirius's new horse: *"When I turned twelve, the Morning Lord gave me a book token."* He is managing his envy.
 
+**Session 14:** with David away, the table ran him, and the table made history. His Laeral's Silver Lance went down a line of imp, enforcer and Baron with the crowd out of it. The imp and the Baron failed. **Vargas Vallakovich died on his own stage.** He then read a cooling teleportation circle for what it was and put two guards to sleep without a scratch on them. We are not sure how he feels about any of it yet. Neither is he.
+
 ## Lilli-grai "Lily"
 
 ![[lily.png|280]]
@@ -66,6 +68,8 @@ Aasimar paladin of the Morning Lord — noble, oblivious, frequently drunk, fait
 
 **CLANCY** (Session 13, Level 5): Sirius greeted the dawn by summoning his new privileges — a **gleaming celestial horse**, glorious, mud repelling itself from the hooves, the single most conspicuous object in a starving burned town. *"When Plan A and Plan B don't work — Plan C."* The name is Clancy. The town is coping.
 
+**Session 14:** cast Zone of Truth on a Baron, blocked a stone thrown at the same Baron, was seized by Izek's demon hand and answered with a hug and a speech until Izek said "Hold," then spent ten minutes getting the devil's title wrong to his face and offering him a ball in Neverwinter. He is at 15 hit points thanks to Clancy. Clancy also kicked an imp.
+
 ## Sir Osric Cunningham
 
 ![[osric.jpg|280]]
@@ -76,20 +80,22 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 
 ---
 
-## Shared kit & assets (as of Session 13)
+## Shared kit & assets (as of Session 14)
 
+- **🗺️ THE GREAT MAP OF BAROVIA** — the framed map from the burgomaster's mansion, taken down on Ireena's order and lent to us. Drew no longer has to memorise anything. The whole valley, annotated by people who wanted to keep it.
+- **📖 VICTOR'S JOURNAL** — read in his attic: how he broke Stella, in his own hand. Whether it left the room in one of our packs is a question for the character sheets; the contents are not in doubt.
+- **🧪 One more potion of healing**, from the desk in the Center's office. (Also seen there and not taken: 23 gold, 16 copper.)
+- **⛔ THE WRITS: VOID.** Five wax seals from a dead man. Keep them as souvenirs.
+- **⛔ THE LETTER: STILL GONE.** It was in the Baron's hand when he died. None of us picked it up.
+- **⚠️ Resource status: NOT RESTED.** The festival, the fight, the devil, the mansion and the Center, all on one afternoon's sleep. Sirius is at 15. Fëanor's big spells are spent. Osric's surge is spent. Drew rebuilt Clover on a spell slot. We are walking into a fight with two enchanters in this condition.
 - **📚 THE DRUID PRIESTESS' TOME** — leathered pages of ritual diagrams, seasons and nature-rites, what little text there is in **Druidic**, which none of us read. Out of Lady Wachter's chest, into the bag. Fëanor keeps looking at it sideways; his grandmother's stone has a *symbol* that also came off a standing stone. We are pattern-matching and we know it.
 - **📜 FIVE SCROLLS** — from the secret room, beside the bones. Ireena guessed one is ***Gentle Repose*** — the spell somebody has been re-casting on Lord Wachter every ten days for ten years. The other four: unread. We carried a dead man's maintenance schedule out of that house and we intend to find out what else.
 - **💰 180 electrum + 110 gold** — coin bearing the devil's face, from the same chest. Apparently that's just what money looks like here.
-- **⛔ THE LETTER: GONE.** We had it. We read it (see [[Handouts]]). Izek took it to the Baron. The file notes this so nobody forgets the feeling.
 - **🧥 COMMONER CLOAKS from the Ravens' own spy stock** — Urwin's answer to being talked out of despair. Battle-tested by one (1) baby.
-- **🥬 ~~A basket of beets~~ — DISTRIBUTED.** *"You get a beet. You get a beet."* The Blue Water's one-meal-a-week crisis is one basket less dire. The silverware was refused; the beets, we maintain, were different — and we were right.
-- **✅ Resource status: RESTED-ISH.** One night in a roofless church on holy ground, guarding the bones we brought home. Everything is topped up except our nerve, and the festival is working on that.
 - **🎒 A BAG OF HOLDING** — built by Drew, overnight, at an inn, because she was annoyed. The locket went straight in, which improved everyone's day. The party's carrying capacity is now a solved problem; the party's respect for Drew was already at capacity.
 - **🧛 The benefactor's kit** (*"Hunt well those who hunt"* — see [[The Bard]]): **3 flasks of holy water · 3 wooden stakes · iron mallet · steel mirror · manacles · oil · crowbar** — divvied around the party. Already spent from it: the scroll of protection and the necrotic-resistance potion (Sirius, at the Coffin Works — both earned their keep), and one healing potion (into Lily, at death's door; it rolled the minimum and we are still grateful). **Osric's torch collection now stands at twelve.**
 - **A second silvered shortsword** — Drew's own, silvered overnight, "on the grounds that it would make her feel better."
 
-- **🪪 FIVE WAX-SEALED WRITS of deputyship** — *"acting under the request of the baron, follow my orders."* No badges (we asked). Opens locks, loosens tongues, and denominates the ransom on our priest. See [[The Baron of Vallaki]].
 - **⚠️ The rusted locket** — oval, X-scratched, Celestial inside, **a shadow demon sealed within** ([[Mostly Felix]] has the rules). It cannot get out unless someone opens the lid. **Nobody opens the lid** — and as of Session 11 it lives **inside the bag of holding**, which everyone agrees is where a demon should commute. Destination, per the church's own counsel: **[[The Abbot|the abbot above Krezk]].**
 - **⚒️ A handful of Henrik's coffin nails** — long, custom, curve-as-hammered; lifted from the Vallakovich crypt floor by Drew. Their work is done: Henrik has confessed the whole chain. Kept as a souvenir of solid detective work.
 - **💰 30 gold** from selling the spare heavy crossbow to Celegal's Bowyer — opening offer 15, haggled up with "we are doing the Baron's work — that's not a threat."
@@ -97,7 +103,7 @@ Ex-farmer, knighted two weeks before the mists took him (bandits fought, lord's 
 - **The reading** — five fates and five personal threads, recorded card-by-card on [[The Reading]] — now with **Roger's cards beside ours**. And one card **only Sirius can read**, in his keeping.
 - **CLOVER, mark II** — rebuilt (Session 8) and better: pulses **shielding energy** over everyone near. First build died to a hag; second build debuted against a demon.
 - Rations for six (including [[Ireena Kolyana|Ireena]]). **Zero pies, forever** — and as of Session 9, **the rope is retired: Lily sleeps untied.** Tents, packs, bedrolls, water skins, whetstone, rope (ceremonially unemployed).
-- **Three potions of healing** — Claudia's two plus the kit's survivor (one kit potion went into Lily; see above).
+- **Four potions of healing** — Claudia's two, the kit's survivor, and the one from the Center's office desk.
 - **Freshly sharpened edges** — Sirius's and Osric's swords, Lily's awl *and* kitchen knife (the Workyard smith, 2 sp, no questions asked).
 - One pristine **wolf pelt** (lightly charred), still unsold, plus **5 silver 16 copper** off the farmstead dead, and one jar of **zombie guts** (Drew insists).
 - **Silver crossbow bolts** (tested on the shambling dead: useless; presumably vital on werewolves) and a **silvered short sword.**

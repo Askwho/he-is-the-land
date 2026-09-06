@@ -38,4 +38,8 @@ Then he told us the thing he couldn't stop — *your friend, she left; Ernst inv
 
 The hoarding economy has arrived: the Blue Water now serves **one meal per week** per soul, and means it. The wine is dregs. Drew answered with Lady Wachter's liberated beets — *you get a beet, you get a beet* — and he took them with the grace of a man accepting sandbags during a flood. His family is west, at a winery that has gone completely silent; a bird he was expecting has not come; and at the mandatory festival he stands in the rain with his face turned slightly toward the western sky, counting something the rest of us can't see.
 
+## Session 14
+
+We did not see him this session. The Blue Water is still on one meal a week. We promised the Wachter brothers wine, which was optimistic, and the winery is still where we mean to go once Vallaki is settled.
+
 *Appears in: [[Session_007_Player_Notes|S7]]–[[Session_013_Player_Notes|S13]]. See also: [[The Ravens of Barovia]], [[Danika Martikov]], [[The Blue Water Inn]].*

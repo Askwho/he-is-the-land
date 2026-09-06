@@ -8,28 +8,29 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 
 ## The devil
 
-- **[[Strahd von Zarovich]]** — vampire, lord of the land, our self-appointed host. He has met us. He owns the coins, the gate, and — by his own account — the land itself.
+- **[[Strahd von Zarovich]]** — vampire, lord of the land, our self-appointed host. He came to the festival in person on a burning horse. The bones spoil his view of Vallaki, he said, so he had to look for himself. He killed a man in front of us and left with "Do not be boring."
 
 ## The living
 
 - **[[Madam Eva]]** — the ancient seer of Tser Pool. She read our fates for free, and called Sirius an imbecile. Twice.
-- **[[Ireena Kolyana]]** — the burgomaster's daughter, delivered to Vallaki as promised. **Told everything at last — and answered with the bones.** Current whereabouts: unknown, and we hate the sentence too.
+- **[[Ireena Kolyana]]** — the burgomaster's daughter we escorted to Vallaki. Now, on our proposal, Vallaki's acting burgomistress. Her first order was to shut the Reformation Center.
 - **[[Ismark]]** — her brother, the new burgomaster. Honest about the horrors; less honest about crypts.
 - **[[Vasha and Radu]]** — the hags' living larder: Vasha free and scouting the mill; Radu still chained inside. We owe them a return trip.
-- **[[Father Lucian]]** — priest of St. Andral's. His bones came home on our watch, and the ground answered. *"I'm not gonna say it's a bit late…"*
+- **[[Father Lucian]]** — priest of St. Andral's. Told the whole town the vampires were real, and is backing Ireena. Lydia is in his care.
 - **[[Muriel Vinshaw]]** — wereraven, married into the raven clan, the Ravens' *active part*. Fought beside us from Session 11 — and **resigned at dawn, Session 13**: *"too rich for my blood."* We owe her several lives.
 - **[[Roger]]** — last of the previous Mistwalkers. **The tale is told**: his band killed their destined ally — who now has a name: *Great Uncle Frederick.* *Don't be boring. Don't kill the ravens.*
 - **[[Urwin Martikov]]** — our barman. Also a **wereraven**, which he demonstrated, in our bedroom, with tremendous dignity.
 - **[[Danika Martikov]]** — our landlady, whose family **owns the winery** — the wince, fully explained at last.
 - **[[The Bard]]** — "Riptarvo," who says the devil's name out loud and watches us *with great interest*. No mere bard.
-- **[[The House of Wachter]]** — Lady Fiona Wachter: robbed by us, scheduled to hang on our word, and magnificent at the fountain anyway. The lads Karl & Nikolai (*"Mama's room is verboten"* — not anymore), a decade-fresh corpse on the marital bed, and the raven riding her shoulder openly. *Their final form.*
-- **[[Stella Wachter]]** — the girl behind the moaning door. Catatonic, tended by Ireena — and now the subject of the most public accusation in Vallaki's history.
-- **[[Ernst Larnak]]** — the lady's shadow, the hands that took the bones — and, as of Session 13, a man who lost a staring contest with a fake baby, twice.
-- **[[The Baron of Vallaki]]** — our other employer. Now holds the devil's own letter, a rewritten history (*"there have never been vampires in Vallaki"*), and a scaffold waiting on our testimony. He is not lying. Somehow that is still worse.
-- **[[Izek]]** — eight feet of enforcer. Returned most of our priest (*"a token of friendship"*), took our letter, and recites the official version to our faces. We hate that we sort of like him now.
-- **[[Victor Vallakovich]]** — the perfect son in the attic. Three samples now: Stella's years, Sirius's half hour, Fëanor's two days. And the accusation is public.
-- **[[Milivoj]]** — the orphanage's kind giant. Cursed victim, confessed bone thief, confined on his word. The bones are home; his sentence comes due.
-- **[[Henrik the Coffin Maker]]** — confessed the rest of the chain, checked for nice shoes (negative) — and **arrested to the Reformation Center in our place.** The list of people we're responsible for grows teeth.
+- **[[The House of Wachter]]** — Lady Fiona Wachter is dead: she surrendered to the crowd and it trampled her. Her sons Karl and Nikolai are alive, spared because they told the square the truth about their father's bed before anyone asked them to. The raven on her shoulder was an imp. Osric killed it.
+- **[[Stella Wachter]]** — the girl behind the moaning door. Catatonic, in her brothers' care. Victor's own book describes what he did to her.
+- **[[Ernst Larnak]]** — the lady's shadow, the hands that took the bones. Seen hiding a bloody dagger at the festival. Missing since.
+- **[[Izek]]** — eight feet of enforcer. Held Sirius in the demonic hand, was ordered to kill him, and called "Hold" instead. Now follows Ireena. He walked into the Reformation Center with us.
+- **[[Victor Vallakovich]]** — the perfect son in the attic. Gone, by a teleportation circle that was still cooling. His book stayed behind, and it confirms everything.
+- **[[Milivoj]]** — the orphanage's kind giant. Confessed bone thief, confined on his word. The bones are home and the Baron is dead; the priest will decide his sentence.
+- **[[Henrik the Coffin Maker]]** — confessed the rest of the chain, and was arrested to the Reformation Center in our place. We are inside the building looking for him.
+- **[[Ilimir and Ivalice]]** — the twins who run the Reformation Center. Met in armchairs. They call their work "cleaning their heads." Told to stop, they refused.
+- **[[Udo Lukovich]]** — the man chained in the Baron's closet, kept there to be beaten. We freed him.
 - **[[The Abbot]]** — the abbot above Krezk, who heals bodies and *minds*, and reportedly raises the dead. Everything about him comes with a pause first.
 - **[[Headmistress Claudia]]** — holding twenty orphans together with no funds. We started badly and ended allies.
 - **[[Mostly Felix]]** — the boy in the attic, and the shadow demon that used to answer for him. **The demon is in the locket now.**
@@ -49,6 +50,8 @@ description: "Everyone we've met in Barovia — who they are, what they told us,
 
 ## The dead, and the at-rest
 
+- **[[The Baron of Vallaki|Vargas Vallakovich †]]** — Burgomaster of Vallaki. Died on his own stage, by Fëanor's silver lance, after ordering Izek to kill Sirius. Lydia, his wife, is alive and broken, sheltering at the church.
+- **Lady Fiona Wachter †** — see [[The House of Wachter]]. Surrendered to the mob; the mob did not accept it.
 - **[[Doru|Doru †]]** — the priest's son, Strahd's cruellest lesson. At rest by our hands.
 - **[[Rose and Thorn|Rose & Thorn †]]** — the children of Death House. Buried, freed, grateful.
 - **[[The Durst Household]]** — the cult that built the horror under their own home.

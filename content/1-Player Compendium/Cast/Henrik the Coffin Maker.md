@@ -8,7 +8,7 @@ description: "He pulled the bones from the crypt and handed them to Ernst. His p
 >
 > **Where:** The **Coffin Works**, production district — he lives *in* the shop. Next door: **Celegal's Bowyer**, run by a chatty grey-skinned, long-eared elf.
 >
-> **Status:** Confessed. Homeless in place. On the list of people we are somehow responsible for.
+> **Status:** Inside the Reformation Center. We are inside it too, on the new burgomistress's orders, and we have not found him yet.
 
 ## The confession (Session 10)
 
@@ -36,4 +36,8 @@ The clock we kept not-quite-getting-to ran out. With the criers' package — no 
 
 The record also preserves the debate on whether coffin-making is an inherently sinister trade: *"You tell me the last time you met a coffin maker you thought was a fine, upstanding servant of the Morning Lord." — "People always die. It's one of the most stable incomes in the village." — "Compelling."* We are aware that the joke is doing load-bearing work over the guilt. He is now first on the list of people we are somehow responsible for, and the list is getting long.
 
-*Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]], [[Session_011_Player_Notes|S11]], [[Session_013_Player_Notes|S13]]. See also: [[Ernst Larnak]], [[The House of Wachter]], [[Muriel Vinshaw]], [[Quests & Threads]] (the bones), [[Vallaki]].*
+## Session 14
+
+The Baron who sent him there is dead. Ireena's first order as burgomistress was to dismantle the Reformation Center and get its prisoners out, and we walked in with Izek to do it. Two guards are asleep and tied in the courtroom. We have searched an office and found the twins who run the place. We have not yet found Henrik. He is somewhere in the building, and he has been there a day.
+
+*Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]], [[Session_011_Player_Notes|S11]], [[Session_013_Player_Notes|S13]], [[Session_014_Player_Notes|S14]]. See also: [[Ernst Larnak]], [[The House of Wachter]], [[Muriel Vinshaw]], [[Quests & Threads]] (the bones), [[Vallaki]].*

@@ -1,14 +1,14 @@
 ---
 title: "The Baron of Vallaki"
 publish: true
-description: "Burgomaster Vallakovich: mandatory festivals, impartial judges, wax-sealed writs — and our priest as collateral. He is not lying. Somehow that is worse."
+description: "Vargas Vallakovich, Burgomaster of Vallaki: mandatory festivals, impartial judges, wax-sealed writs, and our priest as collateral. Dead on his own stage at the last festival."
 ---
 
-> **Who:** The Burgomaster of [[Vallaki]] — head of the Vallakovich line, author of the mandatory festivals, proprietor of the Reformation Center. *"All will be well."*
+> **Who:** Vargas Vallakovich, Burgomaster of [[Vallaki]]. Head of the Vallakovich line, author of the mandatory festivals, proprietor of the Reformation Center. *"All will be well."*
 >
 > **Family:** The **Baroness** (see below), and **[[Victor Vallakovich]]**, the perfect son in the attic.
 >
-> **Status:** Our employer. Also our friend's jailer. These are the same fact.
+> **Status:** Dead. Killed on his own stage at the festival by Fëanor's silver lance, moments after he ordered Izek to kill Sirius. Vallaki is now run by Ireena, whom we proposed.
 
 ## The audience (Session 10)
 
@@ -35,4 +35,14 @@ His town watched vampires run its streets in daylight; his own enforcer burned o
 
 In the rain, torch in hand, beside the unlit wicker sun: *"Death is meaningless, easily forgotten… We have survived. **We are worthy, not they. Let us burn the unworthy…** These five fine examples of heroism will attest that the Lady Wachter has been consorting with the devil. **They will attest.**"* He has bet the scaffold on our word. We have not given it yet.
 
-*Appears in: [[Session_010_Player_Notes|S10]] · [[Session_013_Player_Notes|S13]]. See also: [[Izek]], [[Victor Vallakovich]], [[The House of Wachter]], [[Quests & Threads]], [[Handouts]] (the letter).*
+## The last festival (Session 14)
+
+We did not attest for him. When the crowd started listening to us instead, he pulled the letter from his coat and held it up in the rain: proof, he said, that the devil names Lady Wachter as the next burgomistress. He would not read it out. When Father Lucian testified that the vampires had been real, the Baron called him a seditionist and tried to have him taken. Izek would not do it.
+
+Then Sirius cast Zone of Truth over the platform, and the Baron failed to resist it. He could not explain why his son was missing from a festival he had made mandatory for every soul in town. Asked whether the letter mentioned him, he admitted that it did. Asked whether the devil wanted him kept in his chair, he refused to answer at all. The spell can stop a lie. It cannot make a man speak.
+
+We proposed Ireena in his place, with Lucian's support. He insisted the town was his. Lady Wachter insisted it was hers. The crowd turned on both, the guards closed ranks, and Izek caught Sirius in the demonic hand. The Baron gave his last order: kill him. Fëanor answered with Laeral's Silver Lance, a line of force down the platform that took the imp, Izek and the Baron and spared everyone standing between. Izek shook it off. Vargas Vallakovich did not. He died on his own stage.
+
+**Lydia** stared and smiled beside the body, as she has smiled through everything. Father Lucian took her to the church afterwards. She has not been healed, and nobody has said she can be.
+
+*Appears in: [[Session_010_Player_Notes|S10]] · [[Session_013_Player_Notes|S13]] · [[Session_014_Player_Notes|S14]]. See also: [[Izek]], [[Victor Vallakovich]], [[The House of Wachter]], [[Ireena Kolyana]], [[Quests & Threads]], [[Handouts]] (the letter).*

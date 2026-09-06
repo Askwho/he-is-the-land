@@ -6,7 +6,7 @@ description: "The walled town at the end of the road west — registered weapons
 
 > **Where:** West along [[The Road West|the road]], four days from the village — past Tser Pool and [[The Windmill|the windmill]], on the shore of a grey lake.
 >
-> **Status:** 🏠 **We are here** — lodged at [[The Blue Water Inn]] as of the evening of our arrival.
+> **Status:** We are here. As of the evening of the festival the Baron and Lady Wachter are both dead, **Ireena is acting burgomistress**, and we are inside the Reformation Center on her first order.
 >
 > **First entered:** Session 7, at dusk, through the east gate.
 
@@ -74,13 +74,31 @@ The state said its word, by crier, at the wrong hour of the evening: *"There are
 
 So here the town stands, all of it, by law, in torrential rain: children dressed as flowers, a ten-foot wicker sun on a scaffold (ball: *currently* empty), the stretcher-borne wounded carried into the crowd by [[The House of Wachter|Wachter]] medics, one meal a week in every stomach, a burned quarter still steaming — and **two rulers giving dueling sermons that both ended on us.** *"They will attest."* / *"They will attest. They will back me up."* Every soaked, bereaved, furious soul in Vallaki is turning to look at five outsiders. That is where the record stops.
 
+## The festival, and what it cost (Session 14)
+
+Both rulers wanted our word. We gave the town something else: the Wachter sons saying what was in their mother's bedroom, Father Lucian saying the vampires were real, a Zone of Truth over the Baron, and Ireena's name. The crowd came to us. Then somebody on our side shouted *"All is not well in Vallaki!"*, both rulers claimed the town anyway, and the square turned on both of them.
+
+What it cost, in order. The Baron, **Vargas Vallakovich**, ordered Izek to kill Sirius and died to Fëanor's lance on his own stage. Lady Wachter's raven turned out to be an imp; Osric killed it. **Lady Wachter surrendered to the crowd and the crowd trampled her to death**; we did not stop it. Izek, still holding Sirius, called "Hold," and the guards obeyed. Then Strahd came in person, on a burning horse, told us the bones had spoiled his view of the town, drank one man dry, and left. Ernst vanished. The wicker sun was never lit.
+
+## The government, now
+
+- **[[Ireena Kolyana|Ireena]] is acting burgomistress.** We proposed her, Father Lucian endorsed her, and Izek accepted her. She has not been formally inducted. She is at the mansion with guards around her, and she is not happy about any of it.
+- **[[Izek]]** serves the office of burgomaster, whoever holds it. He is with us in the Center.
+- **[[Father Lucian]]** has the Baroness, Lydia, at the church. She stares and smiles and answers nothing.
+- **[[Victor Vallakovich]]** is gone. His attic held a spent teleportation circle and the book in which he wrote what he did to Stella.
+- **The Wachter brothers** are alive and cleared by their own words, at home with Stella.
+- **The Reformation Center** is being dismantled, by Ireena's first order and our hands. The twins who run it, **[[Ilimir and Ivalice]]**, disagree.
+- **Udo Lukovich**, chained in the Baron's closet so the Baron would have someone to hit, is free.
+
 ## Open questions
 
+- **Can Ireena hold this town?** The devil said she is "of the right stock" and that he is patient. We are leaving. She is not.
+- **How many guards are the twins'?** Two at the courtroom door did not know their own captain.
 - ~~What happens if six coffins open into a mandatory festival crowd?~~ **We made sure we'll never know.** People are dead who were alive that morning — but the whole town was *not* in the streets. We think we did the right thing. We *think* so.
 - ~~The bones: who does a coffin maker answer to?~~ **Answered, recovered, and RETURNED** — the chain ran Milivoj → crypt → Henrik → Ernst → Lady Wachter's library → **home to the sub-altar.** The ground answered. See [[St. Andral's Church]].
 - **Vallaki was the one place spared in the bad times** — *because of the church.* The bones are back and the sanctuary held a wave of holy warmth. Whether the whole city's shield is up again — we felt it roll *past* the ruin, for what that's worth — is the town's most important unanswered question, and nobody in charge believes the question exists.
 - ~~What does the state say tomorrow?~~ **It says nothing happened.** There have never been vampires in Vallaki. We have watched a government reply to fangs with stationery, and we understand the town better now.
-- **Whom do we attest for?** The hanging is scheduled on our word. The evidence we can produce damns her; the letter that complicates everything is in the Baron's coat; the crowd hates everyone. *There are no good choices.*
-- **Who is guarding the bones** while every soul in Vallaki — by law — stands in this square?
+- ~~**Whom do we attest for?**~~ Neither. We attested for Ireena, and the town went along with it.
+- ~~**Who is guarding the bones?**~~ Nobody needed to. Strahd himself said they are working: they blind his watching and hinder his agents. They do not keep him out.
 
-*The full record: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13 field notes]].*
+*The full record: [[Session_007_Player_Notes|S7]] · [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]] · [[Session_014_Player_Notes|S14 field notes]].*

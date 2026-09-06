@@ -37,4 +37,8 @@ We are not going to leave. Demonstrably. There is dust on our boots to prove it.
 
 - **Standing order, party-wide, upgraded:** ***never* harm a raven.**
 
+## Session 14
+
+The Ravens did not appear. But the devil did, and he said something that matches what they told us: the restored bones have spoiled his usual way of watching Vallaki, and they hinder his agents. He had to come in person to see what we had done. That is the Ravens' lore, confirmed by the one person who would know.
+
 *Appears in: [[Session_009_Player_Notes|S9]], [[Session_010_Player_Notes|S10]], [[Session_011_Player_Notes|S11]]. See also: [[Muriel Vinshaw]], [[Urwin Martikov]], [[Roger]], [[The House of Wachter]], [[Quests & Threads]].*

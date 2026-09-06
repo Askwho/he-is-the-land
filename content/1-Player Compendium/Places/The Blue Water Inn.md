@@ -50,6 +50,10 @@ A second impossible letter — through a *warded* window this time — and the p
 
 The taproom has become a ration station: **one meal per week** per soul, served without apology, because arithmetic doesn't take apologies. The wine is dregs — ten percent wine, ninety percent history. Drew's contribution to the crisis: **Lady Wachter's liberated beets**, distributed Oprah-style (*"You get a beet. You get a beet."*). [[Muriel Vinshaw|Muriel]] resigned from our company at this bar at dawn; [[Urwin Martikov|Urwin]] accepted the beets like sandbags in a flood and keeps not-looking at the west road, where a bird he was expecting has not come.
 
+## Session 14
+
+Still one meal a week. We have not been back this evening; we went from the square to the mansion to the Reformation Center without stopping. We promised the Wachter brothers wine. The inn does not have any.
+
 ## Open questions
 
 - ~~What do the Martikovs know about the bad times — and about us?~~ **Rather a lot, on both counts.** See [[Urwin Martikov]].

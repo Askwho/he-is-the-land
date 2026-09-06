@@ -10,9 +10,9 @@ description: "The devil. Lord of Castle Ravenloft, Count of Barovia — vampire,
 >
 > **Where:** [[The Land of Barovia|Castle Ravenloft]], marked on our map with one word: **AVOID!**
 >
-> **Status:** Very much active. He has met us. He has *fed* on one of us.
+> **Status:** Very much active. He has met us twice now. He has fed on one of us, and killed a man in front of us for a drink.
 >
-> **First encountered:** By name in [[Death House]] (Session 1); in person at Ismark's house (Session 5).
+> **First encountered:** By name in [[Death House]] (Session 1); in person at Ismark's house (Session 5); in person again, in Vallaki's square (Session 14).
 
 *The statue above is how we first saw his face — carved in painted wood, in a hidden room beneath Death House, one hand on a wolf's head. We've since seen the face itself. The statue flatters him less.*
 
@@ -50,8 +50,25 @@ We have now read his correspondence, and we wish we hadn't. Found in an iron che
 
 Then [[Izek]] confiscated it and carried it to the Baron — the man the letter quietly favors. Our best evidence now props up the regime it should indict, held by a ruler who kept the accusation and buried the signature. We assume the author finds all of this *very* entertaining.
 
+## He came to Vallaki (Session 14)
+
+Bats first, then a horse on fire, and then the man himself, stepping down into a square where both rulers had just died. Most of the town went glassy-eyed. So did Ireena. We could speak freely; he seemed to enjoy it.
+
+What he told us, as near to his words as we could keep them:
+
+- **Why he came.** *"You have reinstated those damn bones. My usual methods of viewing have been curtailed, so I've had to come here and see for myself. And what a fine mess you've made."*
+- **What he thought of it.** *"It was a lovely den of misery they had going here. But it had stayed its course. It was getting boring, and you may have heard how I hate boring."* We were doing much better than the last lot, who were an embarrassment and had to be put down.
+- **On Ireena as burgomistress.** *"Not too untenable. She is of the right stock."* He has always given her her space. He does not like to force things; he tried that once and it did not work. She will come round eventually.
+- **On titles.** Sirius called him Baron, Earl and Marquis, and offered him a really excellent ball in Neverwinter. *"Call me Strahd von Zarovich. Do not presume to tell me how to be. Who cares what happens beyond the Mists? Barovia is the one true civilization."*
+- **On the bones, plainly.** They are an annoyance. They hinder his agents and make it harder for him to act and to watch. *"Should I see fit, I may enter."* He was standing there. The point was made.
+- **On us.** A promising start. Not yet ready to be invited into his fold. One day we may be worthy.
+
+Then he reached into the crowd, took a man at random, drank him dry, and dropped him. Lily's thrown knife missed. Sirius's spell did nothing. *"Don't stay too long in Vallaki. I can't watch you whilst you're here anymore. So get out there and be interesting. Do not be boring."* And he was gone.
+
 ## Open questions
 
+- **What does he want with a town he cannot watch?** He came to look, and left it to Ireena. He seems to think she will be his either way.
+- **"Invited into my fold."** Invited to what?
 - How long has he ruled? The Vistani finally gave us a number: **~700 years.**
 - What does "I am this land" actually mean? The cult believed it literally.
 - Why does he *court* Ireena rather than simply take her?
@@ -59,4 +76,4 @@ Then [[Izek]] confiscated it and carried it to the Baron — the man the letter 
 - **Who is the only man he ever envied — and where is that man's tomb?**
 - **Why does the devil want the Baron kept?** What is the status quo *for*?
 
-*Appears in: [[Session_001_Player_Notes|S1]] · [[Session_003_Player_Notes|S3]] · [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_013_Player_Notes|S13]] (the letter)*
+*Appears in: [[Session_001_Player_Notes|S1]] · [[Session_003_Player_Notes|S3]] · [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_013_Player_Notes|S13]] (the letter) · [[Session_014_Player_Notes|S14]] (in person)*

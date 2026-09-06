@@ -1,14 +1,14 @@
 ---
 title: "Izek"
 publish: true
-description: "The Baron's enforcer — who threw two vampires through a burning church's doors, fought beside us, and came out with a crack through everything: 'The Baron promised me.'"
+description: "The Baron's enforcer, who held our paladin in a demon's hand, listened to a hug and a speech, and said 'Hold.' Now he follows Ireena, and he is with us in the Reformation Center."
 ---
 
-> **Who:** The Baron's enforcer and captain of Vallaki's guard. The reason people in this town vanish when he points. As of Session 12: also, improbably, **the man who fought vampires at our side.**
+> **Who:** Captain of Vallaki's guard. Once the Baron's enforcer; the Baron is dead. He says he serves the office of burgomaster, whoever holds it, and the office is now Ireena.
 >
-> **The arm:** His right arm is wrapped in leather to the elbow and is *wrong* underneath — as big around as a grown man. The **fire powers** are no longer rumor: we have seen the whole arm wreathed in flame, and watched him hurl a vampire twenty feet with it.
+> **The arm:** His right arm is wrapped in leather to the elbow and is wrong underneath, as big around as a grown man. We have seen it burn, seen it throw a vampire twenty feet, and felt it close around Sirius.
 >
-> **Status:** Fought beside. Grieved with, almost. Currently holding our priest — and a report the Baron will not want to hear.
+> **Status:** With us, inside the Reformation Center. He asked us not to kill the guards. He does not remember the office in there with the cot that is exactly his size.
 
 ## The meeting (Session 10)
 
@@ -56,6 +56,18 @@ He came to the church steps towing **Fëanor** — *"A token of friendship. We a
 
 Then the other thing. The man who grabbed a vampire by the skull and burned it alive while weeping over his guards **thanked us for our assistance against "the masked men."** Officially, there were no vampires. There were *seditious agitators in very obvious masks*, throwing firebombs. He recited it to our faces without one visible flicker. And then he took **the letter** — our letter, the evidence, the actual paper his own deadline demanded — **and walked it to the Baron**, and there was nothing we could do.
 
-At the festival he stands at the foot of the stage, in the rain, watching the crowd, defending a speech he knows is a lie, with a hanging scheduled on testimony he collected. We keep thinking about the crack. We suspect it is not done cracking.
+At the festival he stood at the foot of the stage, in the rain, defending a speech he knew was a lie. We kept thinking about the crack. It was not done cracking.
 
-*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]] (in the flesh), [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]. See also: [[The Baron of Vallaki]], [[Quests & Threads]].*
+## Hold (Session 14)
+
+When the Baron tried to have Father Lucian dragged off as a seditionist, it was Sirius's appeal to Izek's own memory of the church that made him stop the guards. He passed Sirius's Zone of Truth. Then the square turned, and he did what he was made for: the demon hand closed on Sirius, and the Baron ordered him to kill the angel.
+
+Fëanor's lance went through the imp and the Baron and left Izek standing. Sirius, still held, did not fight. He hugged the man, and talked to him about the town he was raised to protect, and the crowd nearest them stopped to watch. Izek said **"Hold."** Then, quieter, the truest thing anyone said all day:
+
+***"I don't know what to do. I have always had instruction. The son by rights should be in charge, but that feels wrong."***
+
+The guards held. He let Sirius go. Afterwards he said that he served the office of burgomaster and would follow the burgomistress. He agreed to seal the Reformation Center, though he did not like the idea of sending guards against the twins; he thinks they have their own men, and he is not sure those men are their own. He led us to Victor's attic and kicked the door in, and admitted he could not remember ever climbing those stairs. Inside the Center, two guards at the courtroom door did not recognise him and drew. He asked us to spare them. We did. Then we found an office with a cot lengthened by a crate and a chair too big for anyone else in Vallaki, and he said he had no memory of the room.
+
+We hate that we like him. We are fairly sure somebody has been taking things out of his head for a long time.
+
+*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]] (in the flesh), [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]] · [[Session_014_Player_Notes|S14]]. See also: [[The Baron of Vallaki]], [[Ireena Kolyana]], [[Ilimir and Ivalice]], [[Quests & Threads]].*

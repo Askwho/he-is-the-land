@@ -8,7 +8,7 @@ description: "Lady Wachter's manservant — the hands that took the bones, and, 
 >
 > **Also:** As of Session 11, a person. We regret several things.
 >
-> **Status:** The enemy's man — with the most understandable hatred of the Baron in Vallaki, and an open invitation from Sirius in his pocket.
+> **Status:** Missing. Last seen at the festival with a bloody dagger. His lady is dead. We searched for him afterwards and did not find him.
 
 ## The story he told
 
@@ -36,6 +36,12 @@ Loyal. Effective. Unhurried. Whatever cracked in him when the vampires came out,
 
 For the record, and for morale: during our escape from Wachterhaus, Ernst Larnak — the lady's shadow, the man who misses nothing — **looked directly at Lily twice, saw a small child in a commoner's cloak, and shoved her roughly aside on his way to the crime scene.** He then regrouped with his lady on the landing and descended with her, loyal to the last stair. We are recording this as the first fight Ernst Larnak has ever lost, and he does not know it happened.
 
-At the festival he will be wherever she is. He always is.
+At the festival he was wherever she was. He always is.
 
-*Appears in: [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]. See also: [[The House of Wachter]], [[Ireena Kolyana]], [[Henrik the Coffin Maker]].*
+## Session 14
+
+He was in the square. During the shouting, somebody cried that the guards had stabbed a man, and in the confusion Sirius spotted Ernst pushing a bloody dagger into his boot. Later, when the crowd had turned against both rulers, it was his voice shouting that we had robbed a hospital. He did not fight when the fighting came. When the mob knocked his lady down and killed her after she surrendered, we did not see where he went.
+
+We looked for him afterwards and found nothing. A man who carries a knife for his lady and then loses her in front of him is not a loose end we are comfortable leaving behind.
+
+*Appears in: [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]] · [[Session_014_Player_Notes|S14]]. See also: [[The House of Wachter]], [[Ireena Kolyana]], [[Henrik the Coffin Maker]].*

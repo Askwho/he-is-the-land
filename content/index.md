@@ -9,7 +9,7 @@ description: "The player chronicle of our Curse of Strahd campaign — recaps, f
   <h1 class="hitl-title">He Is The Land</h1>
   <p class="hitl-tag">Five strangers. Five heirlooms. One road west — and the devil owns it.</p>
   <div class="hitl-cta hitl-in-hero">
-    <a class="hitl-cta-primary" href="./1-podcast/episode-13-—-they-will-attest">▶ Latest episode</a>
+    <a class="hitl-cta-primary" href="./1-podcast/episode-14-—-all-is-not-well">▶ Latest episode</a>
     <a href="./1-session-journals/the-story-so-far">The story so far</a>
     <a href="./1-player-compendium/">The compendium</a>
   </div>
@@ -17,32 +17,38 @@ description: "The player chronicle of our Curse of Strahd campaign — recaps, f
 
 *The mists part for a moment. Pull up a chair by the fire, and remember where the road has taken us.*
 
-Welcome, travellers. This is the party's chronicle of **Barovia** — the story so far, the podcast of every session, and our own spoiler-free encyclopedia of the people, places, and prices of this grey country. If it's written here, we learned it at the table; nothing is spoiled, because nothing is known before we know it.
+Welcome, travellers. This is the party's chronicle of **Barovia**: the story so far, the podcast of every session, and our own spoiler-free encyclopedia of the people, places and prices of this grey country. If it is written here, we learned it at the table. Nothing is spoiled, because nothing is known before we know it.
 
 ## Before next session
 
-> **MID-FESTIVAL: the whole town is looking at us, and the rain is not helping.** Behind us, one impossible evening: the doors upstairs opened — **a lord ten years dead and "minutes fresh"** (one bed, slept in on both sides) · **a letter from the devil to the lady of the house** (we read it; it favors *the Baron*) · the lovely, dim sons (*"Mama's room is verboten"* — *"Is that Papa?"*) · and behind the moaning door, **[[Ireena Kolyana|Ireena]]**, tending catatonic **[[Stella Wachter|Stella]]** — so Drew told her *everything*, and Ireena answered with **the secret room: THE BONES.** The escape (windows, "BLASPHEMY!", one extremely convincing baby) → **the bones home on the sub-altar — and the ground answered.** *We won one.* Then the bill: [[Izek]] returned **most of Fëanor** (two days missing; *a nice boy, boy height*), **took our letter to the Baron**, and by crier: *there have never been vampires in Vallaki* · **festival TOMORROW, mandatory** · **Henrik to the Reformation Center** · **Lady Wachter to hang — on our testimony.** Overnight: **Level 5**, one resignation (*"too rich for my blood"*), one celestial horse (**Clancy**). Now: midday, torrential rain, a wicker sun with an empty ball, two dueling sermons both ending *"They will attest"* — and every soul in Vallaki turning to look at us. **Session 14 opens our mouths.**
+> **Where we stopped:** inside the Reformation Center, on the evening of the festival, facing the twins **Ilimir and Ivalice**. They refuse to stop. Combat is about to begin and initiative will be rolled fresh. Izek is with us. Two guards are asleep and tied. Nobody has rested.
+>
+> **What changed in one afternoon:** The Baron, **Vargas Vallakovich**, is dead. He ordered Izek to kill Sirius, and Fëanor put a lance of silver through him. **Lady Wachter** is dead: she surrendered to the crowd, and the crowd did not accept it, and we did not stop them. Her raven was an imp; Osric killed it. Then **Strahd came in person**, on a burning horse, because the bones we brought home have spoiled his view of the town. He drank a man dry in front of us and told us to leave and be interesting. **Ireena is acting burgomistress** because we proposed her and Father Lucian agreed. At the mansion we found **Victor gone** by a teleportation circle and his own written account of what he did to Stella, and we freed a man named **Udo** from a closet. Ireena's first order was to dismantle the Center. So here we are.
 
-- **Immediate business:** decide whom we attest for — *"There are no good choices." / "Thanks." / "My pleasure."*
-- **Find Ireena** — last confirmed helping us in the bones room; the record then loses her, and we are aware of how that reads.
-- **Keep in mind:** the bones are home but **unguarded during mandatory attendance** (the Ravens are watching); the letter is in the Baron's coat; Henrik is in the RC in our place; **the winery's silence is now official** (the raven never came; one meal a week at the inn); Bluto may or may not be inside the sea monster; **never harm a raven.** The full ledger lives in [[Quests & Threads]].
+- **First:** the twins, and the two dozen prisoners behind them. Henrik is one of them.
+- **Then:** keep Ireena's government standing, find Victor, find Ernst, and a cure for Stella and for Lydia.
+- **Then west:** the Wizard of Wines. The inn is on one meal a week and the winery has gone silent.
+- **Standing orders:** never harm a raven; nobody opens the locket; and, from the devil himself, do not be boring.
+
+The full ledger lives in [[Quests & Threads]]. Next game: **1 October**.
 
 ## Start here
 
 - 📖 **New, or catching up?** [[The Story So Far]] — the whole tale in one sitting.
-- 🎧 **Latest episode:** [[Episode 13 — They Will Attest]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
-- 📋 **Latest recap:** [[Session_013_Player_Recap|Session 13 — Recap]] · deep detail in the [[Session_013_Player_Notes|Field Notes]].
+- 🎧 **Latest episode:** [[Episode 14 — All Is Not Well]] — or [[1-Podcast/index|subscribe to the podcast]] in any app.
+- 📋 **Latest recap:** [[Session_014_Player_Recap|Session 14 — Recap]] · deep detail in the [[Session_014_Player_Notes|Field Notes]].
 
 ## The chronicle
 
 - **[[1-Player Compendium/index|Player Compendium]]** — [[1-Player Compendium/Cast/index|Cast of Characters]] · [[1-Player Compendium/Places/index|Places]] · [[Quests & Threads]] · [[Traveller's Almanac]] · [[Handouts]]
 - **[[The Party (Player Reference)|The Party]]** — who we are, with portraits.
-- **[[1-Podcast/index|The Podcast]]** — every session as a ~45-minute episode.
+- **[[1-Podcast/index|The Podcast]]** — every session as an hour-long episode.
 
 ## Sessions
 
 | # | Listen | Read |
 | --- | --- | --- |
+| 14 | [[Episode 14 — All Is Not Well\|All Is Not Well]] (1:01:25) | [[Session_014_Player_Recap\|Recap]] · [[Session_014_Player_Notes\|Field Notes]] |
 | 13 | [[Episode 13 — They Will Attest\|They Will Attest]] (55:43) | [[Session_013_Player_Recap\|Recap]] · [[Session_013_Player_Notes\|Field Notes]] |
 | 12 | [[Episode 12 — The Baron Promised\|The Baron Promised]] (55:45) | [[Session_012_Player_Recap\|Recap]] · [[Session_012_Player_Notes\|Field Notes]] |
 | 11 | [[Episode 11 — Hunt Well Those Who Hunt\|Hunt Well Those Who Hunt]] (1:05:40) | [[Session_011_Player_Recap\|Recap]] · [[Session_011_Player_Notes\|Field Notes]] |

@@ -1,14 +1,14 @@
 ---
 title: "The House of Wachter"
 publish: true
-description: "Lady Fiona Wachter — charisma in a dress, a canapé party used as a shield wall, and a door held open: 'Anyone who comes to their senses can still do business with me.'"
+description: "Lady Fiona Wachter, who fed a town for ten years and was trampled by it after she surrendered. Her sons are alive. Her raven was an imp. Her manservant is missing."
 ---
 
-> **Who:** Vallaki's *other* noble house. We have dined at its table (S9), fled from its sitting room (S10), and eaten its canapés under its own roof (S11 — all of us, it turns out; see the correction below).
+> **Who:** Vallaki's *other* noble house. We dined at its table, fled from its sitting room, ate its canapés, burgled it, and finally stood in a square while its lady died.
 >
-> **Where:** **Wachterhaus** — the finest house in the noble district. Per the [[The Ravens of Barovia|Ravens]]: **warded to the nines** — in ten years, their agents have never gotten inside.
+> **Where:** **Wachterhaus**, the finest house in the noble district, now a hospital run by her two sons.
 >
-> **Status:** As of Session 13: **we robbed her.** The bones of St. Andral came out of her library through a window, the devil's letter came out of her bedroom chest, and her sons learned what sleeps in the master bedroom because we aimed them at it. She is **scheduled to hang on our testimony** — and answered by climbing onto the fountain's lip at the mandatory festival and giving the counter-sermon of her life, fiend raven riding her shoulder openly, ending on the same three words as the Baron: **"They will attest."** Very, *very* complicated.
+> **Status:** **Lady Fiona Wachter is dead.** She surrendered to the crowd at the festival and the crowd killed her. We did not stop it. Her raven was an imp, and it died to Osric's sword. Karl and Nikolai are alive because they told the town the truth about their mother before we asked them to. Ernst is missing.
 
 ## Lady Fiona Wachter
 
@@ -104,15 +104,23 @@ Met at last, upstairs, mid-burglary — and we want this minuted: *lovely.* Perf
 
 She has her own page now: **[[Stella Wachter]]**. Seen at last — catatonic, tended by Ireena — and her story is no longer a family secret: her mother said it to the whole town from the fountain. Betrothed to **[[Victor Vallakovich]]**, returned broken; three years in a locked room; and now three samples of the phenomenon — hers, Sirius's half hour, and Fëanor's two days.
 
+## The square (Session 14)
+
+The "later" talk never happened. Drew called on Nikolai and Karl in front of the whole town, and the brothers said what they had seen in their mother's bedroom and stepped away from her. That is the reason they are alive.
+
+When the square turned, Lady Wachter drew a rapier and backed toward a doorway. Her raven became an imp, thick and fast, and went for Fëanor. Fëanor's lance took the imp and the Baron together; Osric finished the imp with four strokes of his sword, and she cried out *"My compact!"* as it died. Then the crowd she had fed for ten years had her on the ground. **She called out that she surrendered. We did not intervene. They trampled her to death.**
+
+Afterwards her sons asked us why she had to die, and who would look after Stella. We did not have a good answer to the first. To the second we said: we will help, and there will be wine. Wachterhaus is a hospital with two grieving young men running it.
+
+Ernst was seen sliding a bloody dagger into his boot during the festival, shouted later that we had robbed a hospital, and could not be found when it was over.
+
 ## Open questions
 
-- **What is Lady Wachter?** Not a fiend, not undead — but she went away grieving and came home with a demon on a perch and peace in her heart. The demon now rides her shoulder in public. *Their final form.*
-- **Who re-casts Gentle Repose on Lord Wachter every ten days** — and is being *raised* what the deal with the devil is for?
-- **Who staged the pentagram, and for whom?** Still open — and now the least of her theatre.
-- **Whose "master's design" was the coffin plot** — hers? Or the devil's, with her as the courier? The letter we read suggests the devil holds *everyone's* leash in that town, hers included.
-- What was the *sleep* that reached for Lily twice — the lady, or the thing on her shoulder?
-- **Which way does Ernst break** — if she hangs? If she wins? If her own sons ask their questions out loud?
-- **Can the bitten in her kitchen ward *turn*?** The comatose man with two neat neck-holes upstairs did not settle the question.
-- **What happens at the "later" talk** — the one Karl was promised about the thing in Mama's room?
+- **What was "my compact"?** Whatever she had with the devil, it went with the bird.
+- **Where is Ernst, and what does he do now** that the woman he would have died for is dead, and we let it happen?
+- **What happens to Lord Wachter** now nobody is casting Gentle Repose on him every ten days? His sons do not know that question exists yet.
+- **Who staged the pentagram, and who barricaded the church road?** Both still open, and both now questions about a dead woman's household, which still has people in it.
+- ~~What is Lady Wachter?~~ Not a fiend, not undead. A woman with a compact, and now a dead one.
+- **Can the bitten in her kitchen ward *turn*?** Still unanswered.
 
-*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]. See also: [[Stella Wachter]], [[Ernst Larnak]], [[Ireena Kolyana]], [[Vallaki]], [[The Ravens of Barovia]], [[Henrik the Coffin Maker]], [[Handouts]] (the letter).*
+*Appears in: [[Session_008_Player_Notes|S8]] · [[Session_009_Player_Notes|S9]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]] · [[Session_014_Player_Notes|S14]]. See also: [[Stella Wachter]], [[Ernst Larnak]], [[Ireena Kolyana]], [[Vallaki]], [[The Ravens of Barovia]], [[Henrik the Coffin Maker]], [[Handouts]] (the letter).*

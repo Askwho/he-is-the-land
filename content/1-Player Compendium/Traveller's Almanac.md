@@ -34,6 +34,10 @@ description: "Survival notes, table rules, and prices — everything practical w
 - **Barovia notices you.** Levels arrive overnight here, when the land pays attention — no ceremony, no trainer, just the morning and the new weight of yourself. Whether being *noticed* by this land is good news is a question we've stopped asking out loud.
 - **Search the chest for traps *before* your rogue opens it.** In loving memory of the order of operations, Session 13. She lived. The needle was poisoned. The guidance was plentiful.
 - **Hallowing can be raised over a ruin.** The building is not the sanctuary; **the saint is.** We watched a roofless wreck exhale a wave of holy warmth the moment the bones touched the sub-altar. Stone burns; sanctity, apparently, does not. ([[St. Andral's Church]])
+- **Zone of Truth stops a lie, not a refusal.** The Baron failed to resist it and simply declined to answer the questions that mattered. If you want an admission, ask a question that cannot be dodged. (Session 14)
+- **A burgomaster can be replaced by a crowd and a priest.** Vallaki changed rulers in an afternoon, on our proposal, with Father Lucian's endorsement and Izek's consent. There was no ceremony. Whether that holds is another question. (Session 14)
+- **What the bones do, from the devil's own mouth.** The bones of St. Andral hinder his agents and his ability to watch the town. They do not stop him entering in person. He came to prove it. (Session 14)
+- **A single-use teleportation circle leaves cooling marks and no trail.** Victor's did. Fëanor read it as damaged and spent. There was nothing in the room that could say where it went. (Session 14)
 
 ## Table rules (the campaign's house rulings)
 

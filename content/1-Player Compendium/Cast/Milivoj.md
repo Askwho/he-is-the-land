@@ -8,7 +8,7 @@ description: "The orphanage's kind giant of a groundskeeper — cursed victim, c
 >
 > **Where:** Confined to the orphanage — on his own sworn word, under [[Headmistress Claudia]]'s eye.
 >
-> **Status:** Confessed. Sentence deferred until the bones come home. Unrepentant, in the way that complicates everything.
+> **Status:** Confessed. The bones are home and the Baron is dead, so the only sentence he will face is the priest's. Still deferred. Still unrepentant.
 >
 > **First seen:** Session 8 — grey, unrousable, three days into a coma we were told was an illness.
 

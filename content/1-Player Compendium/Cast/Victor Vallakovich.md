@@ -1,14 +1,14 @@
 ---
 title: "Victor Vallakovich"
 publish: true
-description: "The Baron's perfect son, who studies the good book in the attic. Sirius spent 35 minutes with him and owns five of them."
+description: "The Baron's perfect son, who wrote down what he did to Stella and then left by a teleportation circle before anyone could ask him about it."
 ---
 
-> **Who:** The Baron's son. Per his father: a perfect, devout young man who studies the good book in the attic.
+> **Who:** The late Baron's son. Per his father: a perfect, devout young man who studies the good book in the attic.
 >
-> **Per our evidence:** something that takes memory out of people's heads, cleanly, and leaves them content about it.
+> **Per our evidence:** something that takes memory out of people's heads, cleanly, and leaves them content about it. Now in his own handwriting.
 >
-> **Status:** Never seen by any of us — including, functionally, the one of us who met him.
+> **Status:** Gone. His attic held a spent, single-use teleportation circle and no trail. Nobody has seen his face, including the two of us who met him.
 
 ## The missing half hour (Session 10)
 
@@ -28,4 +28,17 @@ Fëanor came back from the state's custody missing **two days.** His last clear 
 
 And the secret is no longer a secret. At the festival, from the fountain's lip, to every soul in Vallaki: **"the Baron's son abused Stella."** His mother's enemy said it; the crowd heard it; the rain did not wash it away. Whatever else today decides, Victor Vallakovich's name is now in the town's mouth — and his father, who calls him perfect, was standing right there.
 
-*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]] · [[Session_013_Player_Notes|S13]] (the two days; the accusation). See also: [[The Baron of Vallaki]], [[The House of Wachter]], [[Stella Wachter]], [[Quests & Threads]].*
+## The empty attic (Session 14)
+
+He was not at the festival, which under his father's own law was a crime, and under Zone of Truth his father could not explain why. After the square, Ireena sent us up with Izek, who kicked the door in. Victor was gone. On the boards, still cooling, a **teleportation circle**: single-use, damaged, spent. Fëanor read everything it had to say, and what it had to say was nothing about where it went.
+
+What he left behind was a book. In it, in his own hand: he was betrothed to Stella Wachter and found her annoying; he cast a memory spell on her by accident and was horrified; then he found it had cost him nothing, and did it again on purpose, and again, until she broke. Earlier speculation at our table that he might have been forced into it did not survive reading his account.
+
+Izek, asked who should govern now, said the son by rights should, and that it felt wrong. We agree with the second half.
+
+## Open questions
+
+- **Where did the circle send him?** Nothing in the room could say. He wanted out of Barovia; Barovia does not let people out.
+- **What is in Sirius's half hour and Fëanor's two days**, and can anyone put it back?
+
+*Appears in: [[Session_008_Player_Notes|S8]] (by name), [[Session_010_Player_Notes|S10]] · [[Session_013_Player_Notes|S13]] (the two days; the accusation) · [[Session_014_Player_Notes|S14]] (the attic; the book). See also: [[The Baron of Vallaki]], [[The House of Wachter]], [[Stella Wachter]], [[Quests & Threads]].*

@@ -1,14 +1,14 @@
 ---
 title: "Ireena Kolyana"
 publish: true
-description: "The burgomaster's daughter — sharp, striking, cursed with brightness in a land that punishes it. Currently a guest inside Wachterhaus, knowing nothing, because we told her nothing."
+description: "The burgomaster's daughter, and now, because we said her name in a square, the acting burgomistress of Vallaki."
 ---
 
-> **Who:** Daughter of the late burgomaster of Barovia; [[Ismark]]'s sister.
+> **Who:** Daughter of the late burgomaster of Barovia; [[Ismark]]'s sister. As of the festival, **acting burgomistress of [[Vallaki]]**.
 >
-> **Where:** **Inside [[The House of Wachter|Wachterhaus]]** — as a guest, invited by [[Ernst Larnak|Ernst]] while we fought the fire. So are we, uninvited. We don't know which door she's behind.
+> **Where:** The burgomaster's mansion in Vallaki, with guards around her, organising a town that has just lost both its rulers.
 >
-> **Status:** Alive, unbitten — and lodged, knowing nothing, in the house of the person we publicly accused of everything. This is our fault and the record should say so.
+> **Status:** Alive and unbitten. In charge. Not yet inducted. Not happy about it. The devil has told the whole town, to her face, that he is being patient with her.
 >
 > **First met:** Session 4, in the burgomaster's house.
 
@@ -64,12 +64,20 @@ We found her behind the moaning door — tending catatonic **[[Stella Wachter]]*
 
 And then Ireena Kolyana, doom-magnet of Barovia, paid us back in full: ***"The supplies come from a secret room off the library."*** She handed us the bones of St. Andral. The truth we were too afraid to give her turned out to be the price of everything we were looking for.
 
-## Where is she? (the record's worst sentence)
+## ~~Where is she?~~ Found (Session 14)
 
-In the escape, Drew pulled her into the barricaded room with the haul — and then the record loses her. **Nobody can state with confidence where Ireena ended up.** We are aware of how that sentence reads in context. It is at the top of the list. Attendance at today's festival is mandatory *for every soul in Vallaki* — which means she is probably somewhere in this soaked, furious crowd, and so is everyone else in this file.
+She was in the crowd, safe from the fighting. The record's worst sentence is retired.
+
+## Burgomistress (Session 14)
+
+We did not plan it. With the square ours and both rulers refusing to yield, we proposed Ireena to govern Vallaki, with Father Lucian beside her, and Lucian carefully agreed. She looked as though she wished to be anywhere else. Then the town turned on both its rulers, and by the end of the hour both were dead, and the only name anyone had agreed on was hers.
+
+When Strahd came down into the square she was charmed like everyone else, and he spoke about her as if she were not standing there. *"Ah, Ireena, my love."* He said he had always given her her space; that he did not like to force things, having tried that before; that he knew she would come round eventually. On her as burgomistress: *"Not too untenable. She is of the right stock."* We have written those sentences down so that we never forget how patient he sounded.
+
+Afterwards Izek said he would follow her. She had the great map of Barovia taken down and lent to us. And she gave her first order, in her own words: *"Please stop. Please dismantle the Reformation Center as much as you can. I do not want it to be going on. As burgomistress, I suppose I need to get inducted."* She stayed at the mansion under guard to organise the town. We offered to get a message to her brother.
 
 ## Our promise
 
-Escort Ireena safely to Vallaki. **✅ Kept** — four days, hags and all, delivered at dusk on the fourth. The promise as *written* is complete; the promise as *meant* — that she be **safe** — now includes finding her, in a town mid-upheaval, after she risked her host's wrath to help us. See [[Quests & Threads]].
+Escort Ireena safely to Vallaki: kept. Keep her safe: harder than ever. We put her in a chair the devil can see from his castle, in a town he can walk into whenever he likes, and we are about to leave. She knows it. She asked us to come back.
 
-*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]]*
+*Appears in: [[Session_004_Player_Notes|S4]] · [[Session_005_Player_Notes|S5]] · [[Session_006_Player_Notes|S6]] · [[Session_007_Player_Notes|S7]] · [[Session_009_Player_Notes|S9]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]] · [[Session_014_Player_Notes|S14]]*

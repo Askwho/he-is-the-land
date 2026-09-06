@@ -6,7 +6,7 @@ description: "A roofless ruin that is, once again, a sanctuary — the bones of 
 
 > **Where:** The west of [[Vallaki]], near the orphanage.
 >
-> **Status:** A ruin — two-thirds gone, roofless, fourteen-odd houses and shops burned with it — **and a sanctuary again.** The bones are home on the sub-altar; the ground answered with a wave of holy warmth; its priest lives; its saint rests. Currently unguarded, because the entire town is at a mandatory festival.
+> **Status:** A roofless ruin that is a sanctuary again. The bones are home on the sub-altar, the priest lives, and the saint rests. Lydia Vallakovich is sheltering here in Father Lucian's care.
 >
 > **First entered:** Session 7, the evening we arrived, with [[Ireena Kolyana|Ireena]]. Most recently: Session 13 — we slept in the roofless nave, on guard over the bones we brought home.
 
@@ -61,4 +61,10 @@ We slept there that night — three of us in the roofless nave on Drew's conjure
 - **Who barricaded the road** with a brick-weighted wagon, before the fire, before the vampires?
 - **What does a town rebuild first** — a roofless church, or the fourteen houses around it — with winter coming and one meal a week?
 
-*The full record: [[Session_007_Player_Notes|S7]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13 field notes]]. The quest — complete at last — lives on [[Quests & Threads]].*
+## Session 14
+
+Nobody moved on the bones during the festival. What happened instead was that the devil came down into the square and told us, in his own words, what they do: they have spoiled his usual way of watching the town, and they hinder his agents. They do not stop him walking in himself. He proved that by walking in.
+
+Father Lucian stood in the square and told the whole town the vampires were real, which is the bravest thing he has done since the altar. Afterwards he brought Lydia Vallakovich here, broken and smiling, and is keeping her. Sirius sent the crowd home with an invitation to come to church in the morning. Whether they come is the town's decision.
+
+*The full record: [[Session_007_Player_Notes|S7]] · [[Session_010_Player_Notes|S10]] · [[Session_011_Player_Notes|S11]] · [[Session_012_Player_Notes|S12]] · [[Session_013_Player_Notes|S13]] · [[Session_014_Player_Notes|S14]]. The quest, complete at last, lives on [[Quests & Threads]].*
